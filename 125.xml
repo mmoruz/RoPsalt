@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="psaltiri.css"?>
+<psalm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="roPsalt.xsd" id="125">
+<titles><title sigle="CP1" ><language value="sla">пⷭ҇ѣ степенїи</language>. Cîntecele spițelor 125</title>
+<title sigle="CP1" ><language value="sla">пⷭ҇ѣ степенїи</language>. Cîntecele spițelor 125</title>
+<title sigle="CP2" ><language value="sla">пⷭ҇ѣ́ степе́нїи</language>. Cîntecele spițelo<i>r</i> 125} /266r</title>
+<title sigle="CP" ><red>Cîntecele spițelor • 125</red></title>
+<title sigle="PC" ><language value="sla"><red>пѣ́снь</red></language><red> </red><language value="sla"><red>степенїи</red></language><red> 125</red></title>
+<title sigle="PS" ><red>Cînte<i>ce</i> spițelo<i>r</i> 125</red></title>
+<title sigle="PH" ><red>125</red></title>
+<title sigle="PV" ><language value="sla"><red>пⷭ҇ѣ́ стеⷫ҇</red></language><red>.</red><language value="sla"><red> </red></language><red>Cî<i>n</i>[tare] 123</red><note> Scris marginal.</note></title>
+<title sigle="PG" ><red>Canticum graduum. CXXV</red></title>
+<title sigle="PR" ><red>Canticum graduum. CXXV</red></title>
+</titles><verse id="1">
+<variant sigle="CP1"><language value="sla">е̑гда̀ възрати г҃ь плѣ́нь сїѡню быхѡ ꙗ̑ко оутѣ́шени</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Cînd turna-va Domnul prădarea Sionului, fum ca mîngîiați. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Cînd turna-va Domnu<i>l </i>prădarea Sionului, fum ca mîngîiați. </language></variant>
+<variant sigle="CP"><language value="ro"><red>•</red> Cînd turna-va Domnul prădarea Sionului, fum ca mîngîiați. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Cînd turna-va Domnu<i>l</i> prădarea Siónulúi, fu<i>m</i> ca mîngîiați. </language></variant>
+<variant sigle="PS"><language value="ro"><red>C</red>îndu turna-va D[om]nu<i>l</i> prăda_ </language><page pageID="428"/><language value="ro"> rea Sionului, fu<i>m</i> ca mîngîiați. </language></variant>
+<variant sigle="PH"><language value="ro"><red>C</red>îndu va întoarce Domnul prada Sionului, fum ca cei mîngăiaţii. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">1. In conuertendo dominus captiuitatem sion: facti sumus sicut consolati. </language></variant>
+<variant sigle="PR"><language value="lat">1. In conuertendo dominus captiuitatem sion: facti sumus sicut consolati. </language></variant>
+</verse>
+<verse id="2">
+<variant sigle="CP1"><language value="sla">тогда исплъ</language><language value="sla">_ </language><page pageID="252r"/><language value="sla">  </language><language value="sla">ниесѣѧ радѡ́сти оуста̀ на́шѧ, и ѧзыкь на́шь ве́селїа</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Atunce împlu-se de bucurie rostul nostru și limba noastră veselie. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Atunce împlu-se de bucurie rostul nostru și limba noastră de veselie. </language></variant>
+<variant sigle="CP"><language value="ro">• Atunce împlu-se de bucurie rostul nostru și li<i>m</i>ba noastră veselii. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Atunce împlu-se de bucu_ </language><page pageID="146r"/><language value="ro"> rie rostu<i>l</i> nostru și li<i>m</i>ba noastră de ve<i>s</i>[e]lie. </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Atunce împlu-<i>s</i>[e] bucuriei rrostu<i>l</i> nostru și li<i>m</i>ba noastră ve<i>s</i>[e]lie. </language></variant>
+<variant sigle="PH"><language value="ro">Atunce împlură-se rrostu<i>l</i> nostru şi limba noastră de <note><language value="ro"> Adăugat deasupra rândului. </language></note> veselie. </language></variant>
+<variant sigle="PV"><language value="ro">[bucu]rie <note><language value="ro"> Fragment lipsă. </language></note> rro<i>s</i>tu<i>l</i>[u]i nostru </language><language value="sla">··</language> <language value="ro"><red>ș</red>i limbiei no[a]stre ve<i>s</i>[e]lie. </language></variant>
+<variant sigle="PG"><language value="lat">2. Tunc repletum est gaudio os nostrum: et lingua nostra exultatione. </language></variant>
+<variant sigle="PR"><language value="lat">2. Tunc repletum est gaudio os nostrum: et lingua nostra exultatione. </language></variant>
+</verse>
+<verse id="3">
+<variant sigle="CP1"><language value="sla">тѡ́гда ре́кѫть въ ѧзы́цѣхь</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Atunce zice-vor întru limbi: </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Atunce zice-vor întru limbi. </language></variant>
+<variant sigle="CP"><language value="ro">• Atunce zice-vo<i>r</i> întru limbi. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Atunce gice-vor <note><language value="ro"> Scris ulterior deasupra rândului: -<i>ce</i>-; corectat:  </language><language value="sla">џ</language><language value="ro"> din altă literă. </language></note> întru li<i>m</i>bi. </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Atu<i>n</i>ce gice-vor întru li<i>m</i>bi: </language></variant>
+<variant sigle="PH"><language value="ro">Atunce în limbi: </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>A</red>tunce gice-vo<i>r</i> întru limbi. </language></variant>
+<variant sigle="PG"><language value="lat">3. Tunc dicent inter gentes: </language></variant>
+<variant sigle="PR"><language value="lat">3. Tunc dicent inter gentes: </language></variant>
+</verse>
+<verse id="4">
+<variant sigle="CP1"><language value="sla">++  </language><language value="sla">възвеличиль е̑сть г҃ь сътвѡ́рити съ нами</language><language value="ro"> ++  </language><language value="sla">възвеличиль е̑сть г҃ь сътво́рити съ на́ми</language><language value="ro"> ++  </language><language value="sla">быхѡ веселѧщесе</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="ro">Mărit-au Domnul să facă cu nuși! </language><language value="sla">··</language> <language value="ro">Mărit-au Domnul să facă cu noi; </language><language value="sla">··</language> <language value="ro">fum veselindu-ne. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Mărit-au Domnul să facă cu nuși! </language><language value="sla">··</language> <language value="ro">Mărit-au Domnul să facă cu noi, </language><language value="sla">··</language> <language value="ro">fum veselindu-ne. </language></variant>
+<variant sigle="CP"><language value="ro">Mărit-au Domnul să facă cu nuși! • Mărit-au Domnul să facă cu noi, • fum veselindu-ne. </language></variant>
+<variant sigle="PC"><language value="ro">Mărit-au Domnu<i>l</i> să facă cu nuși! </language><language value="sla">··</language> <language value="ro">Mărit-au Domnu<i>l</i> să facă cu noi; </language><language value="sla">··</language> <language value="ro">fu<i>m</i> veseli<i>n</i>du-ne. </language></variant>
+<variant sigle="PS"><language value="ro">„Mînat-au D[om]nul se facă cu nuși!” <red>•</red> Mărit-au D[om]nu<i>l</i> se facă cu noi, <red>•</red> fu<i>m</i> veselindu-nă. </language></variant>
+<variant sigle="PH"><language value="ro">„Mărit-au Domnu<i>l</i> a face cu ei!”. Măritu-i-au Domnulu a face cu noi, fu<i>m</i> veseli[n]du-ne. </language></variant>
+<variant sigle="PV"><language value="ro">Mărit-au D[om]nu<i>l</i> se facă cu ruși; </language><language value="sla">··</language> <language value="ro"><red>m</red>ărit-au D[om]nu<i>l</i> se facă cu noi. </language><language value="sla">··</language> <language value="ro"><red>F</red>um veselindu-ne. </language></variant>
+<variant sigle="PG"><language value="lat">magnificauit dominus facere cum eis. 4. Magnificauit dominus facere nobiscum: facti sumus laetantes. </language></variant>
+<variant sigle="PR"><language value="lat">magnificauit dominus facere cum illis. 4. Magnificauit dominus facere nobiscum: facti sumus laetantes. </language></variant>
+</verse>
+<verse id="5">
+<variant sigle="CP1"><language value="sla">възвратѝ г҃и плѣ́ненїе на́ше</language><language value="sla"> <note><language value="sla"> Segmentare prin punct negru. </language></note> </language><language value="sla"></language><language value="sla">  </language><language value="sla">ꙗ̑ко пото́кы югомь</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Toarnă, Doamne, prădarea noastră, ca izvoarăle cu austru. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Toarnă, Doamne, prădarea noastră, ca izvoarăle cu austru! </language><page pageID="266v"/><language value="ro"> </language></variant>
+<variant sigle="CP"><language value="ro">• Toarnă, Doamne, prădarea noastră, ca izvoarăle cu austru! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Toarnă, Doa<i>m</i>ne, prădarea noastră, ca izvoarele cu austru! </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Toarnă, D[oam]ne, prădarea noastră, ca izvoarele cu astru<i>l</i>! </language></variant>
+<variant sigle="PH"><language value="ro">Întoarse Domnul prădarea noastră ca valea cu austru. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>T</red>oarnă, D[oam]ne, prădarea noastră, </language><language value="sla">··</language> <language value="ro"><red>c</red>a izvo[a]răle cu austru<i>l</i>! </language></variant>
+<variant sigle="PG"><language value="lat">5. Conuertere domine captiuitatem nostram: sicut torrens in austro. </language></variant>
+<variant sigle="PR"><language value="lat">5. Conuertere domine captiuitatem nostram: sicut torrens in austro. </language></variant>
+</verse>
+<verse id="6">
+<variant sigle="CP1"><language value="sla">сѣ́ѫщеи слъзами, въ радости пожнѫть</language><language value="sla"> <note><language value="sla"> Scris:  </language><language value="sla">ппжнѫть</language><language value="sla">. </language></note> </language><language value="sla"></language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Ce seamenă cu lacrîmi în bucurie secera-vor. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Cine seamănă cu lacrămi, în bucurie secera-vo<i>r</i>. </language></variant>
+<variant sigle="CP"><language value="ro">• Ce seamenă cu lacrămi, în bucurie secera-vo<i>r</i>. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Ce seamănă cu lacrămi în bucurie secera-vo<i>r</i>. </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Ce semănară cu lacrămi, în bucurie secere-voru. </language></variant>
+<variant sigle="PH"><language value="ro">Sămărătoriu<i>l</i> sămă[rî]ndu cu lacrămi cu bucurie seaceră. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>C</red>e samărară cu lacrămi </language><language value="sla">··</language> <language value="ro"><red>în</red> bucurie secera-vo<i>r</i>. </language></variant>
+<variant sigle="PG"><language value="lat">6. Qui seminant in lachrimis: in exultatione metent. </language></variant>
+<variant sigle="PR"><language value="lat">6. Qui seminant in lachrimis: in gaudio metent. </language></variant>
+</verse>
+<verse id="7">
+<variant sigle="CP1"><language value="sla">хѡ́дѧщеи хѡждаа́хѫ и плакаа́хѫсѧ метаѧще сѣ́мена своа̀</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Îmblînd îmbla și plîngea lepădînd </language><page pageID="252v"/><language value="ro"> semințele sale, </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Îmblînd îmblară și plîngea aruncînd semințele sale, </language></variant>
+<variant sigle="CP"><language value="ro">• Îmblînd îmbla și plîngea lepădînd semințele sale. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Îmblî<i>n</i>d îmbla și plî<i>n</i>gea lepădî<i>n</i>d semi<i>n</i>țele sale, </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Îmblîndu îmbla și plînge lepădîndu <i>s</i>[e]mențele sale, </language></variant>
+<variant sigle="PH"><language value="ro">Cei îmblători îmblară şi plânseră aru[n]cîndu săm[î]nţa sa; </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>Î</red>mblîndu îmbla și plîngea lepădîndu semențele sale, </language></variant>
+<variant sigle="PG"><language value="lat">7. Euntes ibant et flebant: portantes semina sua. </language></variant>
+<variant sigle="PR"><language value="lat">7. Euntes ibant et flebant: mittentes semina sua. </language></variant>
+</verse>
+<verse id="8">
+<variant sigle="CP1"><language value="sla">грѧдѫщѫ же и҆ прїи́дѫть ра́достїѫ, възе́млѧще рѫкоѧти своѧ̏</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> E viind vin cu bucurie, luînd cu mîinile sale. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> E viind veni-vo<i>r</i> cu bucurie, luîndu-ș mărunchele sale. </language></variant>
+<variant sigle="CP"><language value="ro">• E viind vin cu bucurie, luînd cu mîinile sale. </language><page pageID="151r"/><language value="ro"> </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> E viind, vin cu bucurie, </language><page pageID="146v"/><language value="ro"> luînd cu mînule sale. </language></variant>
+<variant sigle="PS"><language value="ro">E vinindu vinu cu bucurie, <red>•</red> luîndu </language><page pageID="429"/><language value="ro"> cu mînule sale. </language></variant>
+<variant sigle="PH"><language value="ro">Vini[n]du venri-_ </language><page pageID="112r"/><language value="ro"> vor în bucurie luundu cu mînrule sale. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>E</red> viindu viru cu bucurie, luîndu cu mîrule sale. </language></variant>
+<variant sigle="PG"><language value="lat">8. Venientes autem venient cum exultatione: portantes manipulos suos. </language></variant>
+<variant sigle="PR"><language value="lat">8. Venientes autem venient in exultatione: portantes manipulos suos. </language></variant>
+</verse>
+</psalm>

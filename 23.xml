@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="psaltiri.css"?>
+<psalm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="roPsalt.xsd" id="23">
+<titles><title sigle="CP1" ><language value="sla">ѱа́лѡⷨдв҃дь</language>. CînteculluD[а]v[i]d 23</title>
+<title sigle="CP1" ><language value="sla">ѱа́лѡⷨдв҃дь</language>. Cîntecul lu D[а]v[i]d23</title>
+<title sigle="CP2" ><language value="sla">ѱл҃ѡⷨ дв҃дь</language>. Cîntecul lu David 23</title>
+<title sigle="CP" ><red>Cîntecul lu David 23</red></title>
+<title sigle="PS" ><red>Cîntecu<i>l</i> lu D[а]v[i]d23</red></title>
+<title sigle="PH" ><red>În mar[gir]ea cîntecului [lui] David</red> [23]} /19</title>
+<title sigle="PG" ><red>Psalmus Dauid prima sabbati. XXIII</red></title>
+<title sigle="PR" ><red>Psalmus Dauid prima sabbati. XXIII</red></title>
+</titles><verse id="1">
+<variant sigle="CP1"><language value="sla">Гн҃ѣе̑стьꙁе́млѣи̑ исплъненїее̑ѫ</language><language value="sla">  </language><language value="sla">въселе́нааивъсѝ жи́вѫщеинанеи</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> A Domnului iaste pămîntul și plinele ei,  </language><language value="sla"></language><language value="ro"> toată lumea și toți ce viiu spr-insa. </language></variant>
+<variant sigle="CP2"><language value="ro">Al Domnului <note><language value="ro"> Scris: </language><language value="sla">до́нꙋлꙋи.</language><language value="ro"> </language></note> iaste pămîntul și plinele ei,  toată lumea și toți ce viiu </language><page pageID="36r"/><language value="ro"> spr-insa </language></variant>
+<variant sigle="CP"><language value="ro"><red>A</red>l Domnului iaste pămîntul și plinele ei, </language><dot color="black"/><language value="ro">toată lumea și toți ce viiu spr-insa. </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro"> <red>A</red> D[o]<i>m</i>nulu iaste pămîntu<i>l</i> și pliru<i>l</i>lui,  </language><dot color="red"/><language value="ro"> toată lumea și toți ce viu spr-insu. </language></variant>
+<variant sigle="PH"><language value="ro"><red>A</red> Domnului iaste pămîntul şi împlearea ei, a lumiei, şi toţi cei ce viu pre ea. </language></variant>
+<variant sigle="PG"><language value="lat">1. Domini est terra et plenitudo eius: orbis terrarum et vniuersi qui habitant in eo. </language></variant>
+<variant sigle="PR"><language value="lat">1. Domini est terra et plenitudo eius: orbis terrarum et vniuersi qui habitant in ea. </language></variant>
+</verse>
+<verse id="2">
+<variant sigle="CP1"><language value="sla"> тъ̏ на мо́рихь о̑снѡ́валь ѧ̏ е̑сть, и̑ на рѣ́кахь ѹгото́валь ѧ̏ е̑сть </language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> El în mare urzitu-le-au și în rîure gătitu-le-au. </language></variant>
+<variant sigle="CP2"><language value="ro">Acesta în mare urzitu-l-au și în rîure gătitu-le-au. </language></variant>
+<variant sigle="CP"><language value="ro">El în mare urzitu-le-au și în rîure gătitu-le-au. </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro"> Elu în mare urrdzitu-le-au  </language><dot color="red"/><language value="ro">și în rriure gotovitu-le-au. </language></variant>
+<variant sigle="PH"><language value="ro">Acela pre mare urdzitu-i-au <note><language value="ro"> Scris:  </language><language value="sla">ѹрѕитъꙗꙋ</language><language value="ro">. </language></note> şi pre rriu gătitu-i-au. </language></variant>
+<variant sigle="PG"><language value="lat">2. Quia ipse super maria fundauit eum: et super flumina praeparauit eum. </language></variant>
+<variant sigle="PR"><language value="lat">2. Ipse super maria fundauit ea: et super flumina praeparauit illa. </language></variant>
+</verse>
+<verse id="3">
+<variant sigle="CP1"><language value="sla"> кто̀ въꙁы́деть и го́рѫ гн҃ѧ, и̑ли кто̀ ста́неть на мѣ́стѣ ст҃ѣ́мь е̑го </language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Cine sui în pădurea Do<i>m</i>nului? Și cine stătu în locul sf[î]nt al lui? </language></variant>
+<variant sigle="CP2"><language value="ro">Cine se va sui în măgura Do<i>m</i>nului? Și sau cine va sta în locul sfînt al său? </language></variant>
+<variant sigle="CP"><language value="ro">Cine sui în pădurea Domnului? Și cine stătu în locul sfînt al lui? </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro"> Cire sui în pădurea D[o]<i>m</i>nului?  </language><dot color="red"/><language value="ro">Și cire stătu în locu<i>l</i> sf[în]tu a lu<i>i</i>? </language></variant>
+<variant sigle="PH"><language value="ro">Cinre va sui în dealul <note><language value="ro"> Scris:  </language><language value="sla">делꙋль</language><language value="ro">. </language></note> Domnului sau cinre va sta la în <note><language value="ro"> Cuvintele<i>la</i>şi <i>în </i>îl redau pe  </language><language value="sla">въ</language><language value="ro">;primul ar putea fi notat din automatism, însă faptul că nici unul nu este tăiat sugerează că vin dintr-o revizie anterioară şi au fost reproduse mecanic de copist. </language></note> loculu sfîntu a lui? </language></variant>
+<variant sigle="PG"><language value="lat">3. Quis ascendet in montem domini: aut quis stabit in loco sancto eius? </language></variant>
+<variant sigle="PR"><language value="lat">3. Quis ascendet in montem domini: aut quis stabit in loco sancto eius? </language></variant>
+</verse>
+<verse id="4">
+<variant sigle="CP1"><language value="sla">непови́неньрѫкамаи̑ чистьсрⷣцемь</language><language value="sla">  </language><language value="sla">и̑женеприѧ́тьнасѹ́едш҃ѫ</language><language value="sla">  </language><language value="sla">и неклѧ́тсѧлъстїѫи̑скръне́мꙋсвоемꙋ</language><language value="sla">/39v </language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Nevinovatul cu mînile și curatul cu inema,  </language><language value="sla"></language><language value="ro"> ce nu priimi în deșert sufletu său  </language><language value="sla"></language><language value="ro">și nu se jură înșilăciune soțului său. </language></variant>
+<variant sigle="CP2"><language value="ro">Nevinovat cu mînile și curat cu inima,  cine nu va priimi în deșert sufletul său  și nu se va jura hicleșug soțului său. </language></variant>
+<variant sigle="CP"><language value="ro">Nevinovatul cu mînile și curatul cu inema, </language><dot color="black"/><language value="ro">ce nu priimi în deșert sufletul său </language><dot color="black"/><language value="ro">și nu se jură înșelăciune soțului său. </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="black"/><language value="ro"><red>N</red>evinovatu<i>l</i> cu mărule și curatu<i>l</i> cu înrema,  </language><dot color="red"/><language value="ro"> ce nu preimi în deșerrtu sufletu<i>l</i>său  </language><dot color="red"/><language value="ro"> și nu giu_ </language><page pageID="70"/><language value="ro"> ră-se în gîmbosire soțulu<i>i</i> său. </language></variant>
+<variant sigle="PH"><language value="ro">Nevi[nova]tu cu mînule şi curat cu înrima, cinre nu va lua pre deşert sufletulu său şi nu se va blăstema cu celăuşagu vecinrului său? </language></variant>
+<variant sigle="PG"><language value="lat">4. Innocens manibus et mundo corde </language><page pageID=""/><language value="lat"> qui non accepit in vano animam suam: nec iurauit in dolo proximo suo </language></variant>
+<variant sigle="PR"><language value="lat">4. Innocens manibus et mundo corde </language><page pageID=""/><language value="lat"> qui non accepit in vano animam suam: nec iurauit in [5] dolo proximo suo </language></variant>
+</verse>
+<verse id="5">
+<variant sigle="CP1"><language value="sla">съ̀ прїи́метьблⷭ҇ве́нїеѿга҃</language><language value="sla">  </language><language value="sla">и̑млⷭ҇ти́нѧѿб҃асп҃сасвое̑го</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Cesta priimeaște bl[ago]<i>s</i>[lo]venie de la Domnul  </language><language value="sla"></language><language value="ro"> și mesereare de la Dumnezeu, spăsitoriul lui. </language></variant>
+<variant sigle="CP2"><language value="ro">Acesta priimi-va blagoslovenie de la Domnul  și milă de la Dumnezeu, </language><page pageID="36v"/><language value="ro"> spăsitoriul său. </language></variant>
+<variant sigle="CP"><language value="ro">Cesta priimeaște blagoslovenie de la Domnul </language><dot color="black"/><language value="ro">și mesereare de la Dumnezeu, spăsitoriul lui. </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro"> Cesta preimeaște bl[ago]<i>s</i>[lo]venie de la D[o]<i>m</i>nul  </language><dot color="red"/><language value="ro"> și mesereare de la Dzeu<i>l</i>. </language></variant>
+<variant sigle="PH"><language value="ro">Acesta va lua blagosloveniie de la Domnulu şi milostîniia <note><language value="ro"> Scris:  </language><language value="sla">милостынѧ</language><language value="ro">. </language></note> de la Domnulu spăsitoriulu [lui]. </language></variant>
+<variant sigle="PG"><language value="lat">5. Hic accipiet benedictionem a domino: et misericordiam a deo salutari suo. </language></variant>
+</verse>
+<verse id="6">
+<variant sigle="CP1"><language value="sla"> сїи роⷣ нскѫщи г҃а </language><language value="sla">  </language><language value="sla">и̑щѫ́щиⷯ ли́це б҃а і̑а́ковлѣ </language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Acesta e ruda ce ceare Domnul, </language><language value="sla"></language><language value="ro"> ce ceare fața Dumnezeului lu Iacov. </language></variant>
+<variant sigle="CP2"><language value="ro">Acesta e ruda ce caută Domnul,  carea caută fața Dumnezeului lu Iacóv. </language></variant>
+<variant sigle="CP"><language value="ro">Acesta e ruda ce </language><page pageID="20v"/><language value="ro"> ceare Domnul, </language><dot color="black"/><language value="ro">ce ceare fața Dumnezeului lu Iacóv. </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro">[...] <note><language value="ro"> Fragment lipsă. </language></note> lu Iacóv. </language></variant>
+<variant sigle="PH"><language value="ro">Această sămînţă ce vor Domnul ceindu faţa Domnu[lu]i lui Iacov. </language></variant>
+<variant sigle="PG"><language value="lat">6. Haec est generatio quaerentium eum: quaerentium faciem dei Iacob. <red>Semper.</red> </language></variant>
+<variant sigle="PR"><language value="lat">5. Hic accipiet benedictionem a domino: et misericordiam a deo salutari suo. </language></variant>
+</verse>
+<verse id="7">
+<variant sigle="CP1"><language value="sla"> въꙁмѣ́те вра́та кнѧ́ѕи ва́ши </language><language value="sla">  </language><language value="sla">и въꙁмѣ́те се вра́та вѣ́чнаа, и̑бъ ни́деть цр҃ь сла́вѣ </language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Luați ușa, judecii, voștri,  </language><language value="sla"></language><language value="ro"> și luați-vă ușile de veac și să între împăratul slăvit. </language></variant>
+<variant sigle="CP2"><language value="ro">Luați ușa Domnului vostru,  și vă luați ușa de veac și să între împăratul slavei. </language></variant>
+<variant sigle="CP"><language value="ro">Luați ușa judecii voștri,și luați-vă ușile de veac și să între Împăratul slăvit. </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro"> Luați ușa,giudecii, voștri, </language><dot color="red"/><language value="ro"> <note><language value="ro"> Scrispesteo virgulă neagră. </language></note> luați-vă ușile de veacu, </language><dot color="red"/><language value="ro"> <note><language value="ro"> Scrispesteo virgulă neagră. </language></note>și se între împăratu<i>l</i> slăvitu. </language></variant>
+<variant sigle="PH"><language value="ro">Luaţi <note><language value="ro"> Scris:  </language><language value="sla">лꙋаце</language><language value="ro">. </language></note> uşea giudeaţelor voastre şi vă luaţi uşea veacului şi va întra împăratulu slaveei. </language></variant>
+<variant sigle="PG"><language value="lat">7. Attollite portas principes vestras </language><page pageID=""/><language value="lat"> et eleuamini portae aeternales: et introibit rex gloriae. </language></variant>
+<variant sigle="PR"><language value="lat">6. Haec est generatio quaerentium dominum: requirentium faciem dei Iacob. {<red>Dp.</red>} </language></variant>
+<variant sigle="PR"><language value="lat">7. Tollite portas principes vestras </language><page pageID=""/><language value="lat"> et eleuamini portae aeternales: et introibit rex gloriae. </language></variant>
+</verse>
+<verse id="8">
+<variant sigle="CP1"><language value="sla"> кто̀ е̑сть съ̏ цр҃ь сла́вѣ </language><language value="sla">  </language><language value="sla">г҃ь крѣ́покь и̑ силень</language><language value="sla">  </language><language value="sla">г҃ь си́лень въбра́ни</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Cine iaste acesta împăratul slaveei?  </language><language value="sla"></language><language value="ro"> Domnul tare și silnic,  </language><language value="sla"></language><language value="ro"> Domnul silnic în războiu. </language></variant>
+<variant sigle="CP2"><language value="ro">Cine iaste acesta Împăratul slaveei?  Domnul tare și puternic,  Domn putearnic în războaie. </language></variant>
+<variant sigle="CP"><language value="ro">Cine iaste acesta Împăratul slaveei? </language><dot color="black"/><language value="ro">Domnul tare și silnic, </language><dot color="black"/><language value="ro">Domnul silnic în războiu. </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="black"/><language value="ro"><red>C</red>ire e acesta împăratu<i>l </i>slaveei?  </language><dot color="red"/><language value="ro"> D[o]<i>m</i>nul tare și silnicu,  </language><dot color="red"/><language value="ro">D[o]<i>m</i>nulsi<i>l</i>nic în rrăzboiu. </language></variant>
+<variant sigle="PH"><language value="ro">[...] Domnulu cel tare şi cu puteare, Domnulu e silnic <note><language value="ro"> Scris:  </language><language value="sla">силнъкь</language><language value="ro">. </language></note> în rrăzboiu. </language></variant>
+<variant sigle="PG"><language value="lat">8. Quis est iste rex gloriae? Dominus fortis et potens </language><page pageID=""/><language value="lat"> dominus potens in praelio. </language></variant>
+<variant sigle="PR"><language value="lat">8. Quis est iste rex gloriae? dominus fortis et potens </language><page pageID=""/><language value="lat"> dominus potens in praelio. </language></variant>
+</verse>
+<verse id="9">
+<variant sigle="CP1"><language value="sla"> въꙁмѣ́те вра́та кнѧ́ꙁи ваши</language><language value="sla">  </language><language value="sla">и̑въꙁмѣ́те се </language><language value="sla">/40r </language><language value="sla"> вра́та вѣ́чнаа, и̑ въни́деть цр҃ь сла́вѣ </language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Luați ușa, judecii, voștri,  </language><language value="sla"></language><language value="ro"> și luați-vă ușile de veac, și să între împăratul slaveei. </language></variant>
+<variant sigle="CP2"><language value="ro">Luați ușa Domnului vostru,  și vă luați ușa de veac, </language><page pageID="37r"/><language value="ro">  și să între Împăratul slaveei. </language></variant>
+<variant sigle="CP"><language value="ro">Luați ușa judecii voștri, </language><dot color="black"/><language value="ro">și luați-vă ușile de veac, și să între Împăratul slaveei. </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro"> Luați ușa,giudecii, voștri,  </language><dot color="black"/><language value="ro"><red>ș</red>i luați-vă ușile de veacu, și se între împăratu<i>l</i> slaveei. </language></variant>
+<variant sigle="PH"><language value="ro">Luaţi uşea gudeaţele voastre şi vă loaţi uşea veacului şi va întra împăratul slaveei <note><language value="ro"> Scris:  </language><language value="sla">славѣеи</language><language value="ro">. </language></note>. </language></variant>
+<variant sigle="PG"><language value="lat">9. Attollite portas principes vestras </language><page pageID=""/><language value="lat"> et eleuamini portae aeternales: et introibit rex gloriae. </language></variant>
+<variant sigle="PR"><language value="lat">9. Tollite portas principes vestras </language><page pageID=""/><language value="lat"> et eleuamini portae aeternales: et introibit rex gloriae. </language></variant>
+</verse>
+<verse id="10">
+<variant sigle="CP1"><language value="sla"> кто̀ е̑сть съ̏ цр҃ь сла́вѣ </language><language value="sla">  </language><language value="sla">г҃ь си́ламь тъ̏ е̑сть цр҃ь сла́вѣ </language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Cine e acesta împăratul slaveei?  </language><language value="sla"></language><language value="ro"> Do<i>m</i>nul silelor, elu e împăratul slaveei. </language></variant>
+<variant sigle="CP2"><language value="ro">Cine e acesta Împăratul slaveei?  Do<i>m</i>nul silelo<i>r</i>, acesta iaste împăratul slaveei. </language></variant>
+<variant sigle="CP"><language value="ro">Domnul silelor, elu e împăratul slaveei. </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro"> Cire </language><page pageID="71"/><language value="ro"> acesta împăratu<i>l</i> slaveei?  </language><dot color="red"/><language value="ro"> D[o]<i>m</i>nul sileloru, elu e împăratu<i>l</i> slaveei. </language></variant>
+<variant sigle="PH"><language value="ro">[...] Domnul cel tarele, cela ci iaste împăratu<i>l</i> slaveei <note><language value="ro"> Scris:  </language><language value="sla">славѣеи</language><language value="ro">. </language></note>. </language></variant>
+<variant sigle="PG"><language value="lat">10. Quis est iste rex gloriae? dominus virtutum ipse est rex gloriae. </language></variant>
+<variant sigle="PR"><language value="lat">10. Quis est iste rex gloriae? dominus virtutum ipse est rex gloriae. </language></variant>
+</verse>
+</psalm>

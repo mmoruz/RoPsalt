@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="psaltiri.css"?>
+<psalm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="roPsalt.xsd" id="10">
+<titles><title sigle="CP1" ><language value="sla">въко́нець ѱалѡⷨдв҃дь. </language>În sfîrșit, cîntecul lu D<language value="sla">[</language>а]v<language value="sla">[</language>i]d 10</title>
+<title sigle="CP1" ><language value="sla">въко́нецьѱалѡⷨдв҃дь. </language>În sfîrșit, cîntecul lu D<language value="sla">[</language>а]v<language value="sla">[</language>i]d10</title>
+<title sigle="CP2" ><language value="sla">въко́нець</language>,ѱа́<language value="sla">лѡⷨдв҃дь. </language>În sfîrșit, cîntecul lu Dаvid 10</title>
+<title sigle="CP" ><red>În sfîrșit, cîntecul lu David10</red></title>
+<title sigle="PS" ><red>Cî<i>n</i>tecul lu D[а]v[i]d10</red></title>
+<title sigle="PH" ><red>În cumplitul cîntecului a lui Davi<i>d </i>10</red></title>
+<title sigle="PG" ><red>In finem psalmus Dauid. X</red></title>
+<title sigle="PR" ><red>In finem psalmus Dauid. X</red></title>
+</titles><verse id="1">
+<variant sigle="CP1"><language value="sla">На г҃а оуповахь ка́ко ре́четь дш҃и мое̑и</language><language value="sla">  </language><language value="sla">прѣви́таи по</language><language value="sla"> </language><page pageID="16r"/><language value="sla">  </language><language value="sla">го́рамь ꙗко пти́ца</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> În Domnul upovăiiu cum zise sufletul[u]i <note><language value="ro"> Scris:  </language><language value="sla">сꙋ́флетꙋли</language><language value="ro">. </language></note> mieu:  </language><language value="sla"></language><language value="ro"> „Lăcuiaște pren codri ca pasărea?” </language></variant>
+<variant sigle="CP2"><language value="ro">În Domnul upovăiiu va zice sufletului mieu:  „Lăcuiaște pren codri ca pasărea?” </language></variant>
+<variant sigle="CP"><language value="ro"><red>Î</red>n Domnul upovăiiu cum zise sufletului mieu:  </language><dot color="black"/><language value="ro">„Lăcuiaște pren codri ca pasărea?” </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="black"/><language value="ro"> <red>În</red> D[om]nu<i>l</i> upovăiiu cu<i>m</i>dzise sufletulu<i>i </i>mieu: </language><dot color="red"/><language value="ro">„Prămîndeaște prin <note><language value="ro"> Scris:  </language><language value="sla">приꙟ̑.</language><language value="ro"> </language></note> codri ca pasărea?” </language></variant>
+<variant sigle="PH"><language value="ro"><red>P</red>re <note><language value="ro"> Scris:  </language><language value="sla">прѣ</language><language value="ro">. </language></note> Domnu<i>l</i> nedejdiiu, cum va gice sufletului mieu <note><language value="ro"> Repetat:<i>cum va gice sufletului mieu</i>;în prima variantă: <i>sufletulu.</i> </language></note>: „Premîndeaşte pre codru ca o pasere <note><language value="ro"> Scris:  </language><language value="sla">пасерѣ</language><language value="ro">. </language></note>”. </language></variant>
+<variant sigle="PG"><language value="lat">1. In domino confido: quomodo dicitis animae meae: transmigra in montem sicut passer? </language></variant>
+<variant sigle="PR"><language value="lat">1. In domino confido: quomodo dicitis animae meae </language><page pageID=""/><language value="lat"> transmigra in montem sicut passer? </language></variant>
+</verse>
+<verse id="2">
+<variant sigle="CP1"><language value="sla">ꙗкосѐгрѣ́шнициналѧ́кѫшѧлѫ́кь</language><language value="sla">  </language><language value="sla">оуго́товашѫстрѣ́лывътꙋлѣ</language><language value="sla">  </language><language value="sla">състрѣ́лѣтивъмра́кьпра́выѧсрⷣцемь</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Că, adecă, păcătoșii întinseră arcul,  </language><language value="sla"></language><language value="ro"> gătiră săgeate în cucură,  </language><language value="sla"></language><language value="ro"> să săgeate întru întunearec derepții cu inema. </language></variant>
+<variant sigle="CP2"><language value="ro">Că, adecă, păcătoșii întinseră arcul,  gătiră săgeate în cucură,  să săgeate întru întunearec derepții cu inima. </language></variant>
+<variant sigle="CP"><language value="ro">Că, adecă, păcătoșii întinseră arcul, </language><dot color="black"/><language value="ro">gătiră săgeate în cucură,  </language><dot color="black"/><language value="ro">să săgeate întru întunearec derepții cu inema. </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro">Că, adecă, pă[că]toșii <note><language value="ro"> Scris:  </language><language value="sla">пъош</language><language value="ro">yи. </language></note> întinseră arcul <note><language value="ro"> Scris:  </language><language value="sla">а̑о̑кѵⷧ҇.</language><language value="ro"> </language></note>, </language><dot color="red"/><language value="ro">gotoviră săgeate întru <note><language value="ro"> Scris peste - </language><language value="sla">б</language><language value="ro">:-ꙋ. </language></note> înturearecudere<i>p</i>ții cu înrema. </language></variant>
+<variant sigle="PH"><language value="ro">Că adecă greaşnicii înti[n]seră arculu, gătiră săgeatele în tulbă, a săgeta în tunrearecu derepţii cu înrima. </language></variant>
+<variant sigle="PG"><language value="lat">2.Quoniam ecce peccatores intenderunt arcum </language><page pageID=""/><language value="lat"> parauerunt sagittas sua in pharetra: vt sagittent in obscuro rectos corde. </language></variant>
+<variant sigle="PR"><language value="lat">2. Quoniam ecce peccatores tetenderunt arcum </language><page pageID=""/><language value="lat"> parauerunt sagittas suas in pharetra: vt sagittent in obscuro rectos corde. </language></variant>
+</verse>
+<verse id="3">
+<variant sigle="CP1"><language value="sla">ꙁа́не ꙗ̑же тꙑ̀ съвръшѝ ѡнѝра̑ꙁдрꙋшишѧ</language><language value="sla">  </language><language value="sla">пра́ведникь же что̀ сътво́ри</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Că ce-ai tu sfîrșit, ei sparseră;  </language><language value="sla"></language><language value="ro"> dereptul ce feace? </language></variant>
+<variant sigle="CP2"><language value="ro">Că ce-ai tu sfîrșit, </language><page pageID="11v"/><language value="ro"> ei sparseră;  iară dereptul ce feace? </language></variant>
+<variant sigle="CP"><language value="ro">Că ce-ai tu sfîrșit ei sparseră;  </language><dot color="black"/><language value="ro">dereptul ce feace? </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro">Că ce-ai tu sfîrși<i>t</i>e ei sparrseră; </language><dot color="red"/><language value="ro">dereptu<i>l</i> ce feace? </language></variant>
+<variant sigle="PH"><language value="ro">Derep ce carile tu svîrşişi ei sparseră; iară de[re]ptul ce feace? </language></variant>
+<variant sigle="PG"><language value="lat">3. Quoniam quae perfecisti destruxerunt: iustus autem quid fecit? </language></variant>
+<variant sigle="PR"><language value="lat">3. Quoniam quae perfecisti destruxerunt: iustus autem quid fecit? </language></variant>
+</verse>
+<verse id="4">
+<variant sigle="CP1"><language value="sla">г҃ьвъцр҃квист҃ѣисвое̑и</language><language value="sla">   </language><language value="sla">г҃ь на нб҃си прⷭ҇то́ль е̑го</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Domnul în beseareca sfîntă a sa.  </language><language value="sla"></language><language value="ro"> Domnul în ceriu scaunul lui. </language></variant>
+<variant sigle="CP2"><language value="ro">Domnul în beseareca sfinției sale ,  Domnul în ceriu scaunul său. </language></variant>
+<variant sigle="CP"><language value="ro">Domnul în beseareca sfîntă a sa,  </language><dot color="black"/><language value="ro">Domnul în ceriu scaunul lui. </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro">D[om]nu<i>l</i>/30 întru băseareca sfî[n]tă a sa. </language><dot color="red"/><language value="ro">D[om]nu<i>l</i> în ceriu scaunu<i>l</i> lui. </language></variant>
+<variant sigle="PH"><language value="ro">Domnul în beseareca sa cea sfîntă, Domnului înc eriu e scaunul lui. </language></variant>
+<variant sigle="PG"><language value="lat">4. Dominus in templo sancto suo: dominus in coeles sedes eius </language></variant>
+<variant sigle="PR"><language value="lat">4. Dominus in templo sancto suo: dominus in coelo sedes eius </language></variant>
+</verse>
+<verse id="5">
+<variant sigle="CP1"><language value="sla">о̑чи е̑го на ѹ̑бо́гаго приꙁи́рае̑тѣ</language><language value="sla">  </language><language value="sla">вѣ́жди е̑го испꙑ́тае̑те сн҃ы чл҃чьскыѧ</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Ochii lui spre mișei caută;  </language><language value="sla"></language><language value="ro"> sprînceanele lui ispitesc fiii oamenilor. </language></variant>
+<variant sigle="CP2"><language value="ro">Ochii săi spre mesearul caută;  sprînceanele lui ispitesc fiii oamenilor. </language></variant>
+<variant sigle="CP"><language value="ro">Ochii lui spre mișei caută; </language><dot color="black"/><language value="ro">sprî_ </language><page pageID="5v"/><language value="ro"> nceanele lui ispitesc fiii oamenilo<i>r</i>. </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro"> Ochii lu<i>i</i>ispitescu fii oameriloru. </language></variant>
+<variant sigle="PH"><language value="ro">Ochii lui pre cel mişel previră, geanele lui ispitescu feciorii oamenrilor. </language></variant>
+<variant sigle="PG"><language value="lat">5. Oculi eius in pauperem respiciunt: palpebrae eius interrogant filios hominum. </language></variant>
+<variant sigle="PR"><language value="lat">5. Oculi eius in pauperem respiciunt: palpebrae eius interrogant filios hominum. </language></variant>
+</verse>
+<verse id="6">
+<variant sigle="CP1"><language value="sla">г҃ь и̑сы́тае̑ть пра́веднаго и̑ нечъ</language><language value="sla">_/16v  </language><language value="sla">сти́ваго</language><language value="sla">  </language><language value="sla">любѧ и́же непра́вдѫ ненави́днть своѫ дш҃ѫ</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Do<i>m</i>nul ispiteaște dereptul și necuratul,  </language><language value="sla"></language><language value="ro"> cine iubeaște nedereptatea uraște-șsufletul său. </language></variant>
+<variant sigle="CP2"><language value="ro">Domnul ispiteaște dereptul și necuratul  cine iubeaște nedereptatea, uraște-ș sufletul său. </language></variant>
+<variant sigle="CP"><language value="ro">Domnul ispiteaște dereptul și necuratul  </language><dot color="black"/><language value="ro">cine iubeaște nedereptatea, uraște-șsufletul său. </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro">D[om]nu<i>l</i> ispiteaște dereptu<i>l</i>, necuratu<i>l</i>; </language><dot color="red"/><language value="ro">cire iubeaște nedereptatea nenăvideaște sufletu<i>l</i> său. </language></variant>
+<variant sigle="PH"><language value="ro">Domnulu ispiteaşte dereptul şi necuratul; carele iubeaşte nedere[p]tatea gilăluiaşte sufletul <note><language value="ro"> Scris înaintea cuvîntului:  </language><language value="sla">о</language><language value="ro">, posibil începutul slavon. </language><language value="sla">одъждитъ</language><language value="ro">, care urmează după <i>sufletul său</i>. </language></note> său. </language></variant>
+<variant sigle="PG"><language value="lat">6. Dominus interrogat iustum et impium: qui autem diligit iniquitatem odit animam suam. </language></variant>
+<variant sigle="PR"><language value="lat">6. Dominus interrogat iustum et impium: qui autem diligit iniquitatem odit animam suam. </language></variant>
+</verse>
+<verse id="7">
+<variant sigle="CP1"><language value="sla">о̑дъжди́ть на грѣ́щникы сѣ́ти ѡгнь и жѹ́пель</language><language value="sla"> </language><language value="sla">и дѹ́хь бѹ́рень чѧ́сть ча́шѫ ихь</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Ploao spre păcătoși mreaje, foc și văpaie  </language><language value="sla"></language><language value="ro"> și duh cu bură parte păharul lor. </language></variant>
+<variant sigle="CP2"><language value="ro">Ploao spre păcătoși mreji, foc și văpaie,  </language><page pageID="12r"/><language value="ro">  și duh cu bură parte păharul lo<i>r</i>. </language></variant>
+<variant sigle="CP"><language value="ro">Ploao spre păcătoși mreaje, foc și văpaie,  </language><dot color="black"/><language value="ro">și duh cu bură parte păharul lo<i>r</i>.  </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro">Ploao spre păcătoși currsă, foc și văpaie, </language><dot color="red"/><language value="ro">și d[u]h burre parrte scafa loru. </language></variant>
+<variant sigle="PH"><language value="ro">Ploa-va pre greaşnici cursele, foc şi piiatră </language><page pageID="8r"/><language value="ro"> pucioasă <note><language value="ro"> Scris:  </language><language value="sla">пꙋџось</language><language value="ro">. </language></note>, duh de vihor, partea păharrele loru. </language></variant>
+<variant sigle="PG"><language value="lat">7. Pluet super peccatores laqueos: ignis et sulphur et spiritus procellarum pars calicis eorum. </language></variant>
+<variant sigle="PR"><language value="lat">7. Pluit super peccatores laqueos: ignis sulphur et spiritus procellarum pars calicis eorum. </language></variant>
+</verse>
+<verse id="8">
+<variant sigle="CP1"><language value="sla">ꙗ̑ко пра́ведень г҃ь и̑ пра́вдѫ въꙁлю́би</language><language value="sla">   </language><language value="sla">пра́воты видѣ ли́це е̑го</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Că dereptu e Domnul și dereptatea iubeaște,  </language><language value="sla"></language><language value="ro"> derepții văd fața lui. </language></variant>
+<variant sigle="CP2"><language value="ro">Că dereptu e Domnul și dereptatea iubeaște,  derepții veade fața sa. </language></variant>
+<variant sigle="CP"><language value="ro">Că dereptu e Domnul și dereptatea iubeaște,  </language><dot color="black"/><language value="ro">derepții văd fața lui. </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro">Că dereptu e D[om]nu<i>l</i> și dereptatea <note><language value="ro"> Scris deasupra rândului: -<i>re</i>-. </language></note> iubeaște; </language><dot color="red"/><language value="ro">derepții vădu fața a lu<i>i</i>. </language></variant>
+<variant sigle="PH"><language value="ro">Că e derept Dumnedzău şi dereptaţile iubi, dereptaţile vădzu faţa lui. </language></variant>
+<variant sigle="PG"><language value="lat">8. Quoniam iustus dominus et iustitias dilexit: aequitatem vidit vultus eius. </language></variant>
+<variant sigle="PR"><language value="lat">8. Quoniam iustus dominus iustitiam dilexit: aequitatem vidit vultus eius. </language></variant>
+</verse>
+</psalm>

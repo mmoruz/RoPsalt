@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="psaltiri.css"?>
+<psalm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="roPsalt.xsd" id="14">
+<titles><title sigle="CP1" ><language value="sla">сла́ва. ѱл҃ѡⷨдв҃дь</language>. Cîntecul lu D[а]v[i]d 14</title>
+<title sigle="CP1" ><language value="sla">сла́ва. ѱл҃ѡⷨдв҃дь</language>. Cîntecul lu D[а]v[i]d14</title>
+<title sigle="CP2" ><language value="sla">Сла́ба</language>. ѱ<language value="sla">л҃ѡⷨдвⷣь</language>. Cîntecul lu David 14</title>
+<title sigle="CP" ><red>Slava. Cîntecul lu David14</red></title>
+<title sigle="PS" ><red>Sla<i>v</i>[a]. Cîntecul lu D[а]v[i]d14</red></title>
+<title sigle="PH" ><red>S</red>l[a]<i>v</i>a. <red>În marginre</red><note> Scris: <language value="sla">марџиꙟрѣ</language>.</note><red>, cîntecul [lui] Davi<i>d</i> 14</red></title>
+<title sigle="PG" ><red>Psalmus Dauid. XIIII</red></title>
+<title sigle="PR" ><red>In finem psalmus dauid. XIIII</red></title>
+</titles><verse id="1">
+<variant sigle="CP1"><language value="sla">Ги҃ кто̀ ѡби́тае̑ть въ жи́лище́ твое</language><language value="sla"> </language><language value="sla">лѝ кто̀ въсе́литсѧ въ ст҃ѣи го́рѣ твое̑и</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Doamne, cine va lăcui întru viața ta  </language><language value="sla"></language><language value="ro"> și cine se va sălășui în codrul sfînt al tău? </language></variant>
+<variant sigle="CP2"><language value="ro">Doamne, cine va lăcui întru viața </language><page pageID="15v"/><language value="ro"> ta  și cine se va sălășui în codrul sfînt al tău? </language></variant>
+<variant sigle="CP"><language value="ro"><red>D</red>oamne, cine va lăcui întru viața ta  </language><dot color="black"/><language value="ro">și cine se va sălășui în codrul sfînt al tău? </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro"> <red>D</red>[oa]<i>m</i>ne, cire va fi îndebiu </language><page pageID="36"/><language value="ro"> întru viața ta  </language><dot color="red"/><language value="ro"> și cire se va sălășui în codru<i>l</i> sf[în]t a<i>l</i> tău? </language></variant>
+<variant sigle="PH"><language value="ro"><red>D</red>oamne, cinre va obicni în viiaţa ta? Sau cinre se va muta în ce<i>l</i> svîntu </language><page pageID="9v"/><language value="ro"> dealu al tău? </language></variant>
+<variant sigle="PG"><language value="lat">1. Domine quis habitat in tabernaculo tuo: aut quis requiescet in monte sancto tuo? </language></variant>
+<variant sigle="PR"><language value="lat">1. Domine quis habitabit in tabernaculo tuo: aut quis requiescet in monte sancto tuo? </language></variant>
+</verse>
+<verse id="2">
+<variant sigle="CP1"><language value="sla">хо́дѧи бе́ꙁь поро́ка и̑ дѣ́лаѫ пра́вдѫ</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Îmblătorii fără vină și cine lucrează dereptate, </language></variant>
+<variant sigle="CP2"><language value="ro">Îmblătoriu fără vină și cine lucrează dereptate, </language></variant>
+<variant sigle="CP"><language value="ro">Îmblătorii fără vină și cine lucrează dereptate, </language><dot color="black"/></variant>
+<variant sigle="PS"><language value="ro">Îmblătorii fără vină și lucreadză dereptate, </language></variant>
+<variant sigle="PH"><language value="ro">Cin[re] va îmbla fără de vină [şi cinre] derege <note><language value="ro"> Scris:  </language><language value="sla">дѣреџе</language><language value="ro">. </language></note>-va dereptatea? </language></variant>
+<variant sigle="PG"><language value="lat">2. Qui ingreditur sine macula: et operatur iustitiam. </language></variant>
+<variant sigle="PR"><language value="lat">2. Qui ingreditur sine macula: et operatur iustitiam. </language></variant>
+</verse>
+<verse id="3">
+<variant sigle="CP1"><language value="sla">гл҃ѧю исти́нѫ въ срⷣци своеⷨ</language><language value="sla"> </language><language value="sla">и̑же не ѹ̑лъсти ѧꙁы́кѡⷨ свои́мь</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Și cine grăiaște deadevăr întru inema sa  </language><language value="sla"></language><language value="ro"> și nu înșală cu limba sa, </language></variant>
+<variant sigle="CP2"><language value="ro">Și cine grăiaște deadevăr întru inima sa  și nu înșală cu limba sa, </language></variant>
+<variant sigle="CP"><language value="ro">Și cine grăiaște deadevăr întru inema sa  </language><dot color="black"/><language value="ro">și nu înșală cu limba sa, </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="black"/><language value="ro"> <red>C</red>ire grăiaște deadevăru întru înrema sa  </language><dot color="red"/><language value="ro">și nu se gîmboseaște cu li<i>m</i>ba sa, </language></variant>
+<variant sigle="PH"><language value="ro">Grăi-va adevăru într-înrima sa carele nu prilăsteaşte cu limba sa, </language></variant>
+<variant sigle="PG"><language value="lat">3. Qui loquitur veritatem in corde suo: qui non egit dolum in lingua sua. </language></variant>
+<variant sigle="PR"><language value="lat">3. Qui loquitur veritatem in corde suo: et non egit dolum in lingua sua. </language></variant>
+</verse>
+<verse id="4">
+<variant sigle="CP1"><language value="sla">нѝ сътво́ри искрънемꙋ свое̑мꙋꙁла</language><language value="sla"> </language><language value="sla">и поно́ше́нїе не приѫ̀ть на бли́жнеѧ свое̑ѫ </language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Nece face soțului său rău  </language><language value="sla"></language><language value="ro"> și împutare nu priimi spre vecinii săi./20v </language></variant>
+<variant sigle="CP2"><language value="ro">Nece face soțului său rău,  și împutare nu priimi spre vecinii săi. </language></variant>
+<variant sigle="CP"><language value="ro">Nece face soțului său rău,  </language><dot color="black"/><language value="ro">și împutare nu priimi spre vecinii săi. </language><dot color="black"/><language value="ro">/8r </language></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro">Nece face soțulu<i>i</i> său rreu  </language><dot color="red"/><language value="ro"> și împutare nu preimi spre vecirii săi. </language></variant>
+<variant sigle="PH"><language value="ro">Nece face aproapelui <note><language value="ro"> Scris:  </language><language value="sla">апропелꙋи</language><language value="ro">. </language></note> său rreu şi ponosluire nu va lua pre aproapele <note><language value="ro"> Scris:  </language><language value="sla">аⷫпⷬеⷪле</language><language value="ro">. </language></note> său. </language></variant>
+<variant sigle="PG"><language value="lat">4. Nec fecit proximo suo malum: et opprobrium non accepti aduersus proximos suos. </language></variant>
+<variant sigle="PR"><language value="lat">4. Nec fecit proximo suo malum: et opprobrium non accepit aduersus proximum suum </language></variant>
+</verse>
+<verse id="5">
+<variant sigle="CP1"><language value="sla">оучничи́жень е̑сть прⷣѣ ни́мь лѫ́кавыи</language><language value="sla"> </language><language value="sla">боѫщѫѧжесѧ г҃а славить</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Rușinat iaste între el hitleanul  </language><language value="sla"></language><language value="ro"> cine se teame de Domnul slăveaște. </language></variant>
+<variant sigle="CP2"><language value="ro">Rușinat iaste întru el hitleanul,  cine se teame de Domnul slăveaște. </language><page pageID="16r"/><language value="ro"> </language></variant>
+<variant sigle="CP"><language value="ro">Rușinat iaste între el hitleanul,  </language><dot color="black"/><language value="ro">cine se teame de Domnul slăveaște.  </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="black"/><language value="ro"> <red>Rr</red>ușiratu iaste între elu hicleanu<i>l</i> </language><dot color="red"/><language value="ro"> cire teame-se de D[o]<i>m</i>nulslăveaște-<i>l</i>. </language></variant>
+<variant sigle="PH"><language value="ro">Urrit iaste înra[i]ntea lui hicleanul; [...] teame-se-va de Dumnedzău, slăvi-l-va. </language></variant>
+<variant sigle="PG"><language value="lat">5. Ad nihilum deductus est in conspectu eius malignus: timentes autem dominum glorificat. </language></variant>
+<variant sigle="PR"><language value="lat">5. Ad nihilum deductus est in conspectu eius malignus: timentes autem dominum magnificat. </language></variant>
+</verse>
+<verse id="6">
+<variant sigle="CP1"><language value="sla">клъныи́се искрънемꙋ свое̑мꙋ и́ не ѿмѣ́таѫсѧ</language><language value="sla"> </language><language value="sla">сре́бра свое̑го не да́сть въ ли́хвѫ</language><language value="sla"> </language><language value="sla">и̑ мъꙁды на непови́нныхь</language><language value="sla"> <note><language value="sla"> Loc liber între prefixul negativ și cuvânt. </language></note> </language><language value="sla"> не приѫть</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Jură-se aproapelui său și nu se leapădă,  </language><language value="sla"></language><language value="ro"> argintul său nu deade întru camătă  </language><language value="sla"></language><language value="ro"> și preț spre nevinovați nu luo. </language></variant>
+<variant sigle="CP2"><language value="ro">Jură-se aproapelui său și nu se leapădă,  argintul său nu deade întru camătă,  și preț spre nevinovați nu luo. </language></variant>
+<variant sigle="CP"><language value="ro">Jură-se aproapelui său și nu se leapădă, </language><dot color="black"/><language value="ro">argintul său nu deade întru camătă,  </language><dot color="black"/><language value="ro">și preț spre nevinovați nu luo.  </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="black"/><language value="ro"> <red>G</red>iură-se aproapelu<i>i</i> său și nu se leapădă,  </language><dot color="black"/><language value="ro">/37 <red>a</red>rrgintu<i>l</i> său nu deade într-aslamu  </language><dot color="red"/><language value="ro"> și mîzdă spre nevinovați nu luo. </language></variant>
+<variant sigle="PH"><language value="ro">Giura-se vecinrului <note><language value="ro"> Scris:  </language><language value="sla">вечиꙟрилꙋи</language><language value="ro">. </language></note> său şi nu se lepăda.Argintul său nu va da într-adămană şi plată nu va loa de la nevinovaţi. </language></variant>
+<variant sigle="PG"><language value="lat">6. Qui iurat proximo suo et non decipit </language><page pageID=""/><language value="lat"> qui pecuniam suam non dedit ad vsuram: et munera super innocentes non accepit. </language></variant>
+<variant sigle="PR"><language value="lat">6. Qui iurat proximo suo et non decipit eum </language><page pageID=""/><language value="lat"> qui pecuniam suam non dedit ad vsuram: et munera super innocentem non accepit. </language></variant>
+</verse>
+<verse id="7">
+<variant sigle="CP1"><language value="sla">тво́рѧи сїа̀ не подви́жѫтсѧ въ вѣ́кы</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Făcînd aceastea nu se va clăti în veac. </language></variant>
+<variant sigle="CP2"><language value="ro">Făcînd aceastea nu se va clăti în veac. </language></variant>
+<variant sigle="CP"><language value="ro">Făcînd aceastea nu se va clăti în veac. </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro">Făcî<i>n</i>du aceastea nu se va clăti în veacu. </language></variant>
+<variant sigle="PH"><language value="ro">Cinre va face acealea nu se va scrînti în veaci. </language></variant>
+<variant sigle="PG"><language value="lat">7. Qui facit haec: non mouebitur in aeternum. </language></variant>
+<variant sigle="PR"><language value="lat">7. Qui facit haec: non commouebitur in aeternum. </language></variant>
+</verse>
+</psalm>

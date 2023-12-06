@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="psaltiri.css"?>
+<psalm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="roPsalt.xsd" id="150">
+<titles><title sigle="CP1" ><language value="sla">а̑ллилꙋїа</language>. 149</title>
+<title sigle="CP1" ><language value="sla">а̑ллилꙋїа</language>. 149</title>
+<title sigle="CP2" >Alliluia. 150</title>
+<title sigle="CP" >Alliluia. • 150</title>
+<title sigle="PC" ><red>Al[i]<i>l</i>luia. 150</red></title>
+<title sigle="PS" ><red>Alli<i>l</i>[u]ia. 150</red></title>
+<title sigle="PH" ><red>150</red></title>
+<title sigle="PV" ><language value="sla"><red>а̑ллилѵ́їа. рн҃</red></language><note> Scris marginal.</note></title>
+<title sigle="PG" ><red>HALELVIA. CL</red></title>
+<title sigle="PR" ><red>HALELVIA. CL</red></title>
+</titles><verse id="1">
+<variant sigle="CP1"><language value="sla">Хвали́те б҃а въ ст҃ыⷯ е̑го</language><language value="ro"> ++  </language><language value="sla">хвали́те е̑го въ оутвръждени си́лы е̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Lăudați Zeul în sf[i]nții lui, </language><language value="sla">··</language> <language value="ro">lăudați el întru învîrtoșarea sileei lui. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Lăudați Zeul în sf[i]nții săi! </language><language value="sla">··</language> <language value="ro">Lăudați pre dînsul întru învîrtoșarea sileei sale! </language></variant>
+<variant sigle="CP"><language value="ro">• Lăudați Zeul în sfinții lui! • Lăudați el întru învîrtoșarea sileei lui! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Lăudați Du<i>m</i>nedzeu<i>l</i> în sfi<i>n</i>ții lui! </language><language value="sla">··</language> <language value="ro">Lăudați el <note><language value="ro"> Scris ulterior deasupra rândului: <i>el</i>. </language></note> întru învîrtoșarea sileei lui! </language></variant>
+<variant sigle="PS"><language value="ro"><red>L</red>ăudați Dzeu în sf[in]ții lui! • Lăudați elu întru învîrrtoșarea sileei <note><language value="ro"> Scris:  </language><language value="sla">силелееи</language><language value="ro">. </language></note> lui! </language></variant>
+<variant sigle="PH"><language value="ro">[L]ăudaţi Dumnedzeu în sfinţii lui, lăudaţi-l în tăriia puterie[i] lui. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>L</red>ăudați D[o]mnu<i>l</i> în sfinții lui! </language><language value="sla">··</language> <language value="ro"><red>L</red>ăudați-<i>l</i> elu întru </language><page pageID="53r"/><language value="ro"> vîrtutea tărieei lui! </language></variant>
+<variant sigle="PG"><language value="lat">1. Laudate dominum in sanctis eius: laudate eum in firmamento virtutis eius. </language></variant>
+<variant sigle="PR"><language value="lat">1. Laudate deum in sanctis eius: laudate eum in firmamento virtutis eius. </language></variant>
+</verse>
+<verse id="2">
+<variant sigle="CP1"><language value="sla">хвали́те е̑го на си́лахь е̑го</language><language value="ro"> ++  </language><language value="sla">хвали́те е̑го по прѣмнѡ́гѡмꙋ вели́чъствїю е̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Lăudați el în silele lui, </language><language value="sla">··</language> <language value="ro">lăudați el după prea multă mărirea sileei lui. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Lăudați pre dinsul în tăriile sale, </language><language value="sla">··</language> <language value="ro"></language><page pageID="301r"/><language value="ro"> </language><language value="sla">··</language> <language value="ro">lăudați sine după prea multa măriei sileei sale! </language></variant>
+<variant sigle="CP"><language value="ro">• Lăudați </language><page pageID="174v"/><language value="ro"> el în silele lui, • lăudați el după prea multă mărirea sileei lui! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> <red>L</red>ăudați el în silele lui, </language><language value="sla">··</language> <language value="ro">lăudați el după prea mu<i>l</i>tă mărirea sileei lui! </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Lă_ </language><page pageID="481"/><language value="ro"> udați elu după prea mu<i>l</i>tă mărire silelo<i>r</i> lui! </language></variant>
+<variant sigle="PH"><language value="ro">Lă[u]daţi-lu pre putearea lui, lăudaţi-<i>l</i> după preamulţia măriiei lui. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>L</red>ăudați spre-nsu<i>l</i> spre tăriile lui, </language><language value="sla">··</language> <language value="ro"><red>l</red>ăudați pre-nsu<i>l</i> după prea mu<i>l</i>tă meserearea lui! </language></variant>
+<variant sigle="PG"><language value="lat">2. Laudate eum in virtutibus eius: laudate eum secundum multitudinem magnitudinis eius. </language></variant>
+<variant sigle="PR"><language value="lat">2. Laudate eum in potentatibus eius: laudate eum secundum multitudinem magnitudinis eius. </language></variant>
+</verse>
+<verse id="3">
+<variant sigle="CP1"><language value="sla">хвали́те е̑гѡ въ гла́сѣ трѫбнѣ</language><language value="sla"> </language><page pageID="283v"/><language value="ro"> ++  </language><language value="sla">хвали́те е̑го въ ѱалтире и въ гѫслехь</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Lăudați el în gla<i>s </i>de bucinu, </language><language value="sla">··</language> <language value="ro">lăudați el în psăltiri și ceateri. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Lăudați pre dins în gla<i>s </i>de trîmbite, </language><language value="sla">··</language> <language value="ro">lăudați pre dins în psăltiri și în ceateri! </language></variant>
+<variant sigle="CP"><language value="ro">• Lăudați el în gla<i>s </i>de bucinu, • lăudați el în psăltiri și ceateri! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Lăudați el în gla<i>s </i>de bucinu, </language><language value="sla">··</language> <language value="ro"></language><page pageID="175v"/><language value="ro"> lăudați el în psăltiri și ceateari! </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Lăudați elu în ps[a]ltiri și ceateri! </language></variant>
+<variant sigle="PH"><language value="ro">Lăudaţi-l în glas de bucinre, lăudaţi-l în cîntari şi în cetere. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>L</red>ăudați pre-nsu<i>l</i> în glasu de bucinru, </language><language value="sla">··</language> <language value="ro"><red>l</red>ăudați pre-nsu<i>l</i> <note><language value="ro"> Scris:  </language><language value="sla">пресоуⷧ҇</language><language value="ro">. </language></note> în psăltire și în ceatiri! </language></variant>
+<variant sigle="PG"><language value="lat">3. Laudate eum in sono tubae: laudate eum in psalterio et cithara. </language></variant>
+<variant sigle="PR"><language value="lat">3. Laudate eum in sono tubae: laudate eum in psalterio et cithara. </language></variant>
+</verse>
+<verse id="4">
+<variant sigle="CP1"><language value="sla">хвали́те е̑го въ тимпанѣ и ли́цѣ</language><language value="ro"> ++  </language><language value="sla">хвали́те е̑го въ стрꙋнахь и ѡрга́нѣхь</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Lăudați el în tîmpane și zborure, </language><language value="sla">··</language> <language value="ro">lăudați el în strune și organe. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Lăudați pre dinsu<i>l</i> în tîmpăne și în glasuri, </language><language value="sla">··</language> <language value="ro">lăudați pre dins în strune și în o<i>r</i>gane! </language></variant>
+<variant sigle="CP"><language value="ro">• Lăudați el în tîmpane și zborure, • lăudați el în strune și organe! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Lăudați el în ti<i>m</i>păne și zborure, </language><language value="sla">··</language> <language value="ro">lăudați el în strune și organe! </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Lăudați elu în tîmpîne și zborure, <red>•</red> lăudați elu în strune și organe! </language></variant>
+<variant sigle="PH"><language value="ro">Lăudaţi-l în timpăne cetele, lăudaţi-l în strune şi în orgoane. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>L</red>ăudați pre-nsu<i>l</i> în tîmpănă și în zborrure, </language><language value="sla">··</language> <language value="ro"><red>l</red>ăudați pre-<i>n</i>su<i>l</i> în strune și în orrgane! </language></variant>
+<variant sigle="PG"><language value="lat">4. Laudate eum in tympano et choro: laudate eum in chordis et organo. </language></variant>
+<variant sigle="PR"><language value="lat">4. Laudate eum in tympano et choro: laudate eum in chordis et organo </language></variant>
+</verse>
+<verse id="5">
+<variant sigle="CP1"><language value="sla">хвали́те е̑го въ ки́мвалѣⷯ доброгла́сныⷯ</language><language value="ro"> ++  </language><language value="sla">хвали́те е̑го въ ки́мвалѣ въскли́цанїа</language><language value="ro"> ++  </language><language value="sla">въсѣ́ко ды́ханїе да хва́лить г҃а</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Lăudați el în clopote bune glasure, </language><language value="sla">··</language> <language value="ro">lăudați el în clopot cu strigare. </language><language value="sla">··</language> <language value="ro">Toată dîhania să laude Domnul. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Lăudați pre dins în clopote de bune glasure, </language><language value="sla">··</language> <language value="ro">lăudați pre dins în clopote cu strigare. </language><language value="sla">··</language> <language value="ro">Toată dîhania să laude Domnul! </language><page pageID="301v"/><language value="ro"> </language></variant>
+<variant sigle="CP"><language value="ro">• Lăudați el în clopote bune glasure, • lăudați el în clopot cu strigare. • Toată dîhania să laude Domnul! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Lăudați el în clopote cu bune glasure, </language><language value="sla">··</language> <language value="ro">lăudați el în clopo<i>t</i> cu strigare! </language><language value="sla">··</language> <language value="ro">To<i>t</i> ce suflă laudă pre Du<i>m</i>nedzău! <note><language value="ro"> Scris ulterior pe marginea de jos a paginii și marcat cu semnul  </language><language value="sla"><red>※</red></language><language value="ro">: <i>Tot ce suflă laudă pre Dumnedzău!.</i> </language></note></language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Lăudați elu în clopote bune glasure, <red>•</red> lăudați elu în clopotu cu strigare. <red>•</red> Toată dîhania se laude D[om]nu<i>l</i> <note><language value="ro"> Urmează semnul „:”, scris cu negru. </language></note>! </language></variant>
+<variant sigle="PH"><language value="ro">Lăudaţi-l în clopote cele cu glasure, lăudaţi-<i>l</i> în clopotele strigariei. Toată dihania se laude Domnul. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>L</red>ăudați pre-<i>n</i>su<i>l</i> în clopote cu bure grasure, </language><language value="sla">··</language> <language value="ro"><red>l</red>ăudați pri-<i>n</i>su<i>l</i> în clopote cu strigare, </language><language value="sla">··</language> <language value="ro"><red>t</red>oată dihaniia se laude D[o]mnu<i>l</i>! </language></variant>
+<variant sigle="PG"><language value="lat">5. Laudate eum in cymbalis bene sonantibus </language><page pageID=""/><language value="lat"> laudate eum in cymbalis iubilationis: omnis spiritus laudet dominum. </language></variant>
+<variant sigle="PR"><language value="lat">5. Laudate eum in cymbalis bene sonantibus </language><page pageID=""/><language value="lat"> laudate eum in cymbalis bene tinnientibus: omnis spiritus laudet dominum. </language></variant>
+</verse>
+</psalm>

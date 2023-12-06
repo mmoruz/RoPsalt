@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="psaltiri.css"?>
+<psalm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="roPsalt.xsd" id="1">
+<titles><title sigle="PS" ><red>Ședeare 1. Î<i>n</i>tîi cî<i>n</i>tecul 1</red><note> Scris în josul paginii: <i>Întîi cîntecul 1</i>.</note></title>
+<title sigle="PH" ><red>Şedearea 1</red>. <red>Cînteculu întăie oară</red><note> Scris: <language value="sla">ѡръ</language>.</note><red>e</red></title>
+</titles><verse id="1">
+<variant sigle="PS"><dot color="red"/><language value="ro"> <red>F</red>erice bărrbat ce nu mearrge la sfatul necuraților  </language><dot color="red"/><language value="ro"> și pre calea păcătoșilor nu stă  </language><dot color="red"/><language value="ro"> și la șederile pierdzătorilor nu șeade, </language><dot color="black"/></variant>
+<variant sigle="PH"><language value="ro"><red>F</red>ericatu e bărbatu<i>l </i>carele nu mearse la svatulu necuraţiloruşi în calea greşiţiloru <note><language value="ro"> Scris:  </language><language value="sla">грѣшицилѡрꙋ</language><language value="ro">. </language></note> </language><language value="sla">не</language><language value="ro"> <note><language value="ro"> Slavon.: „nu”. </language></note> </language><language value="sla"></language><language value="ro"> stătuşi în scaunu pierdzătoriu nu şedzu, </language></variant>
+<variant sigle="PG"><language value="lat">1. Beatus vir qui non abijt in consilio impiorum et in via peccatorum </language><page pageID=""/><language value="lat"> non stetit et in cathedra pestilentiae non sedit. </language></variant>
+<variant sigle="PR"><language value="lat">1. Beatus vir qui non abijt in consilio impiorum </language><page pageID=""/><language value="lat"> et in via peccatorum non stetit: et in cathedra pestilentiae non sedit. </language></variant>
+</verse>
+<verse id="2">
+<variant sigle="PS"><language value="ro"><red>C</red>e în leagea D[o]<i>m</i>nului învață- </language><page pageID="2"/><language value="ro"> se dzuoa și noaptea. </language></variant>
+<variant sigle="PH"><language value="ro">Ce în leagea Domnului e voia luişi în leagea lui învaţă-se dzi <note><language value="ro"> Urmează: slavon. </language><language value="sla">и</language><language value="ro"> „şi”. </language></note> şi n[oa]pte <note><language value="ro"> Scris:  </language><language value="sla">н|птѣ</language><language value="ro">. </language></note>. </language></variant>
+<variant sigle="PG"><language value="lat">2.Sed in lege domini voluntas eius: et in lege eius meditabitur die ac nocte. </language></variant>
+<variant sigle="PR"><language value="lat">2. Sed in lege domini fuit voluntas eius: et in lege eius meditabitur die ac nocte. </language></variant>
+</verse>
+<verse id="3">
+<variant sigle="PS"><dot color="black"/><language value="ro"> <red>Ș</red>i hi-va ca le<i>m</i>nul rrăsădi<i>t</i>lîngă ieșitu<i>l</i> apee[i] <note><language value="ro"> Scris: </language><language value="sla">а̑пе́е.</language><language value="ro"> </language></note>,  </language><dot color="red"/><language value="ro"> ce rrodu<i>l</i> său dă în vreamea sa,  </language><dot color="red"/><language value="ro"> și fru<i>n</i>dza lu<i>i</i> nu cade, și toată cîtă se face dospeaște. </language></variant>
+<variant sigle="PH"><language value="ro">Şi fi-va ca e arburele răsădit la izvorritu<i>l</i> apeei,car[e]le poamele saledă-le în vreamea sa <red>ş</red>i frundza lui nu va cădeaşi toate <note><language value="ro"> Scris:  </language><language value="sla">тоатѣ</language><language value="ro">. </language></note> cît va face dospi-va. </language></variant>
+<variant sigle="PG"><language value="lat">3.Et erit tanquam lignum quod plantatum est secus decursus aquarum: quod fructum suum dabit in tempore suo.4. Et folium eius non defluet: et omnia quaecumque fecerit prosperabuntur. </language></variant>
+<variant sigle="PR"><language value="lat">3. Et erit tanquam lignum: quod plantatum est secus decursus aquarum. 4. Quod fructum suum dabit: in tempore suo. </language></variant>
+</verse>
+<verse id="4">
+<variant sigle="PS"><dot color="red"/><language value="ro"> No așa, necuraților, no așa,  </language><dot color="red"/><language value="ro"> ce ca pulberea ce o mătoră vântu<i>l</i> den fața pământulu<i>i</i>. </language></variant>
+<variant sigle="PH"><language value="ro"><red>N</red>u e aşea <note><language value="ro"> Scris deasupra rândului. </language></note>, necuraţii, nu e aşea,că e ca prahul cela ce-l mătură vîntul despre faţa pămîntului. </language></variant>
+<variant sigle="PG"><language value="lat">5. Non sic impij non sic: sed tanquam puluis quem proijcit ventus a facie terrae. </language></variant>
+<variant sigle="PR"><language value="lat">5. Et folium eius non decidet: et omnia quaecumque fecerit prosperabuntur. </language></variant>
+</verse>
+<verse id="5">
+<variant sigle="PS"><dot color="red"/><language value="ro"> Dereptu acea nu vuru învie necurații la giude<i>ț</i>,  </language><dot color="red"/><language value="ro"> nece păcătoșii în sfatu<i>l</i> derepților, </language></variant>
+<variant sigle="PH"><language value="ro">Dereptu acea nu voru <note><language value="ro"> Scris:  </language><language value="sla">вѡрꙋ.</language><language value="ro"> </language></note> învie necuraţii la giudeţu, nece greaşnicii în svatul pravednicilor. </language></variant>
+<variant sigle="PG"><language value="lat">6. Ideo non resurgent impij in iudicio: neque peccatores in concilio iustorum. </language></variant>
+<variant sigle="PR"><language value="lat">6. Non sic impij non sic: sed tanquam puluis quem proijcit ventus a facie terrae. </language></variant>
+</verse>
+<verse id="6">
+<variant sigle="PS"><dot color="red"/><language value="ro"> Că ști[e] <note><language value="ro"> Scris:  </language><language value="sla">щѝ.</language><language value="ro"> </language></note> D[o]<i>m</i>nul calea derepți_ </language><page pageID="3"/><language value="ro"> lor,  </language><dot color="red"/><language value="ro"> și calea necuraților piere. </language></variant>
+<variant sigle="PH"><language value="ro">Că şti Domnul calea pravednicilor şi calea necuraţilor peri-va. </language></variant>
+<variant sigle="PG"><language value="lat">7. Quoniam novit dominus viam iustorum: et iter impiorum peribit. </language></variant>
+<variant sigle="PR"><language value="lat">7. Ideo non resurgunt impij in iudicio: neque peccatores in concilio iustorum. </language></variant>
+</verse>
+<verse id="7">
+<variant sigle="PR"><language value="lat">8. Quoniam novit dominus viam iustorum: et iter impiorum peribit. </language></variant>
+</verse>
+</psalm>

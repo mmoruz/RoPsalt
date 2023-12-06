@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="psaltiri.css"?>
+<psalm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="roPsalt.xsd" id="12">
+<titles><title sigle="CP1" ><language value="sla">ѱа́лѡⷨдв҃дь</language>. Cîntecul lu D[а]v[i]d 12</title>
+<title sigle="CP1" ><language value="sla">ѱа́лѡⷨдв҃дь</language>. Cîntecul lu D[а]v[i]d 12</title>
+<title sigle="CP2" ><language value="sla">ѱл҃ѡⷨдв҃дь</language>. Cîntecul lu D<language value="sla">avid</language> 12</title>
+<title sigle="CP" ><red>Cîntecul lu David 12</red></title>
+<title sigle="PS" ><red>Cî<i>n</i>tecul lu D[а]vi<i>d</i> 12</red></title>
+<title sigle="PH" ><red>În marginrea cîntecului lu Davidu 12</red></title>
+<title sigle="PG" ><red>In finem psalmus Dauid. XII</red></title>
+<title sigle="PR" ><red>In finem psalmus dauid. XII</red></title>
+</titles><verse id="1">
+<variant sigle="CP1"><language value="sla">Доколѣ г҃и ꙁабѫ́деши мѧ до конца̀</language><language value="sla"> </language><language value="sla">доколѣ ѿвращае̑щи лице твое ѿ ме́нѣ</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Pînă cînd, Doamne, uiți-mă pînă în sfîrșit?  </language><language value="sla"></language><language value="ro"> Pînă cînd întorci fața ta de mine? </language></variant>
+<variant sigle="CP2"><language value="ro">Pînă cînd, Doamne, uiți-mă pînă în sfîrșit,  </language><page pageID="13v"/><language value="ro">  pînă cînd întorci fața ta de mine? [2]  Pînă cînd poiu sfeature în sufletul mieu,  dureri într-înema mea, zioa și noaptea? </language></variant>
+<variant sigle="CP"><language value="ro"><red>P</red>înă cînd, Doamne, uiți-mă pînă în sfîrșit, </language><dot color="black"/><language value="ro">pînă cînd întorci fața ta de mine?  </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro"> <red>P</red>îră cîndu, D[oa]<i>m</i>ne, uiți-me pîră în cumplit?  </language><dot color="red"/><language value="ro">Pîră cîndu întorrci fața ta de mere? </language></variant>
+<variant sigle="PH"><language value="ro"><red> P</red>ănra ci, Doamne, uitaşi-me pănră mai înrapoi? Pănra ci întoarce-veri faţa ta de la menre? </language></variant>
+<variant sigle="PG"><language value="lat">1. Vsquequo domine obliuisceris me infinem: vsquequo auertis faciem tuam a me? </language></variant>
+<variant sigle="PR"><language value="lat">1. Vsquequo domine obliuisceris me in finem: quovsque auertis faciem tuam a me? </language></variant>
+</verse>
+<verse id="2">
+<variant sigle="CP1"><language value="sla">доколѣ поло́жѫ съвѣ́ти в дш҃е мое̑и</language><language value="sla"> </language><language value="sla">болеꙁни въ срⷣце моем дн҃ь и нощь</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Pînă cînd poiusfeature în sufletul mieu  </language><language value="sla"></language><language value="ro"> dureare într-înema mea, zioa și noaptea? </language></variant>
+<variant sigle="CP"><language value="ro">Pînă cînd poiusfeature în sufletul mieu,  </language><dot color="black"/><language value="ro">dureare într-înema mea, zioa și noaptea? </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro"> Pîră cî_ </language><page pageID="33"/><language value="ro"> ndu puniu sfeature în sufletu<i>l</i> mieu, </language><dot color="red"/><language value="ro"> dureare întru înrema mea, dzua și noaptea? </language></variant>
+<variant sigle="PH"><language value="ro">Pănra ci punre-voiu sfat în sufletul mieu, lîngoare într-înrima mea dzi şi noapte? </language></variant>
+<variant sigle="PG"><language value="lat">2. Quamdiu ponam consilia in anima mea: dolorem in corde meo per diem? </language></variant>
+<variant sigle="PR"><language value="lat">2. Quamdiu ponam consilia in anima mea: dolorem in corde meo per diem? </language></variant>
+</verse>
+<verse id="3">
+<variant sigle="CP1"><language value="sla">доколѣ въꙁнесетсѧ вра́гь мои на мѧ </language><language value="sla"> </language><language value="sla">при</language><language value="sla">_ </language><page pageID="18v"/><language value="sla"> </language><language value="sla">ꙁрѝ и̑ ѹслы́ши мѧ г҃и б҃е мѡи</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro">Pînă cîndrădică-se dracul mieu spre mine?  </language><language value="sla"></language><language value="ro">Caută și auzi-mă, Doamne Dumnezeul mieu. </language></variant>
+<variant sigle="CP2"><language value="ro">Pînă cînd rădica-se-va vrăjmașul mieu spre mine?  Caută și auzi-mă, Doamne Du<i>m</i>nezeul mieu. </language></variant>
+<variant sigle="CP"><language value="ro">Pînăcîndrădică-se dracul mieu spre mine?  </language><dot color="black"/><language value="ro">Caută și auzi-mă, Doamne Dumnezeul mieu. </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro">Pîră cîndu rrădică-se dracu<i>l</i> mieu spre mere?  </language><dot color="red"/><language value="ro"> Caută și audzi-me, D[oam]ne Dzeu<i>l</i> mieu <note><language value="ro"> Scris:  </language><language value="sla">мїе̑и̑.</language><language value="ro"> </language></note>, </language></variant>
+<variant sigle="PH"><language value="ro">Pă[nră] cîndu se va înrălţa dracul mieu pre menre?Preveaşte şi me ascultă, Doamnele, Dzăul mieu. </language></variant>
+<variant sigle="PG"><language value="lat">3. Vsquequo exaltabitur inimicus meus super me: respice et exaudi me domine deus meus. </language></variant>
+<variant sigle="PR"><language value="lat">3. Vsquequo exaltabitur inimicus meus super me: respice et exaudi me domine deus meus. </language></variant>
+</verse>
+<verse id="4">
+<variant sigle="CP1"><language value="sla">просвѣ́ти ѡчи моида́ не кѡ́гда ѹснѫ въсъмръть</language><language value="sla"> </language><language value="sla">да́ неко́гда ре́четь вра́гь мои ѹ̑крѣпихсѧ на́ нь</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Luminează ochii miei, să nu cîndva adormu în moarte,  </language><language value="sla"></language><language value="ro"> să nu cîndva zică dracul mieu: „Întării-mă spr-ins!” </language></variant>
+<variant sigle="CP2"><language value="ro">Luminează ochii miei, să nu cîndva adormu în moarte,  să nu cîndva să zică vrăjmașul mieu: „Întării-mă spr-ins!”  </language><page pageID="14r"/><language value="ro"> </language></variant>
+<variant sigle="CP"><language value="ro">Luminează ochii miei, să nu cîndva adormu în moarte, </language><dot color="black"/><language value="ro">să nu cîndva zică dracul mieu: „Întării-mă spr-ins!” </language><dot color="black"/></variant>
+<variant sigle="PS"><language value="ro">Se nu cîndva adoarrmă în moarrte; </language><dot color="red"/><language value="ro">sе nu cîndva dzică dracu<i>l</i>: „Întăriiu-mespr-insu!” </language></variant>
+<variant sigle="PH"><language value="ro">Luminreadză ochii miei, se nu cînduva adorm <note><language value="ro"> Scris:  </language><language value="sla">ардомь</language><language value="ro">. </language></note> în moarte.Se nu oarecîndu dzică dracul mieu: „Întăriiu-me pri-nsul”. </language></variant>
+<variant sigle="PG"><language value="lat">4. Illumina oculos meos ne vnquam obdormiam in morte:nequando dicat inimicus meus </language><page pageID=""/><language value="lat"> praeualui aduersus eum. </language></variant>
+<variant sigle="PR"><language value="lat">4. Illumina oculos meos ne vnquam obdormiam in morte: nequando dicat inimicus meus </language><page pageID=""/><language value="lat"> praeualui aduersus eum. </language></variant>
+</verse>
+<verse id="5">
+<variant sigle="CP1"><language value="sla">стѫ́жаѫщеими въꙁра́дѹѫтсѧ а̑ще се пѡдви́жѫ</language><language value="sla"> </language><language value="sla">а̑ꙁь же на ми́лость твоѫ ѹповахь</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Dodeitorii miei bucură-se să m-aș clăti  </language><language value="sla"></language><language value="ro"> e eu spre mila ta upovăii. </language></variant>
+<variant sigle="CP2"><language value="ro">Dodeitorii miei să se bucure să m-aș pleca,  iară eu spre mila ta upovăii. </language></variant>
+<variant sigle="CP"><language value="ro">Dodeitoriimiei bucură-se să m-aș clăti, </language><dot color="black"/><language value="ro">e eu spre mila ta upovăii. </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro"> Dodeitorii miei bucură-se se m-aș <note><language value="ro"> Scris:  </language><language value="sla">мⷲ҇ѣ</language><language value="ro">. </language></note> clăti.  </language><dot color="black"/><language value="ro"> <red>Е</red> eu spre meserearea ta upuvăiiu. </language></variant>
+<variant sigle="PH"><language value="ro">Dodeitori[i] miei bucura-se-vor se me-aşu clăti.Iară eu <note><language value="ro"> Scris înaintea secvenței <i>iară eu</i> şi tăiat: </language><language value="sla">аз</language><language value="ro"> „eu”, cu care începe slavon. </language><language value="sla">аз же</language><language value="ro">. </language></note> pre milostea ta upovăiiu. </language></variant>
+<variant sigle="PG"><language value="lat">5. Qui tribulant me exultabunt si motus fuero: ego autem in misericordia tua speraui. </language></variant>
+<variant sigle="PR"><language value="lat">5. Qui tribulant me exultabunt si motus fuero: ego autem in tua misericordia sperabo. </language></variant>
+</verse>
+<verse id="6">
+<variant sigle="CP1"><language value="sla">въꙁра́доуѫтсѧ сърце мое о̑ спс҃е́нїе твѡе̑мь</language><language value="sla"> </language><language value="sla">въспоѫ гв҃и благѡ дѣа́вшѡ̑моу мнѣ</language><language value="sla">  </language><language value="sla">и̑по́ѫ имени гн҃ю вы́шнемꙋ</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Bucură-se inema mea de spăseniia ta; </language><language value="sla"></language><language value="ro"> cînt <note><language value="ro"> Scris:  </language><language value="sla">кънд</language><language value="ro">0. </language></note> Domnului, binefăcătoriului mieu,  </language><language value="sla"></language><language value="ro"> și cînt numele Domnului de sus./19r </language></variant>
+<variant sigle="CP2"><language value="ro">Bucură-se inima mea de spăseniia ta;  cînt Domnului, celui ce bine făcu mie,  și cînt numele Domnului de sus. </language></variant>
+<variant sigle="CP"><language value="ro">Bucură-se inema mea de spăseniia ta; </language><dot color="black"/><language value="ro">cînt Domnului, binefăcătoriu_ </language><page pageID="7r"/><language value="ro"> lui mieu, </language><dot color="black"/><language value="ro">și cînt numele Domnului de sus. </language></variant>
+<variant sigle="PS"><language value="ro">Bucură-se înrema mea de sp[ă]senia ta;  </language><dot color="black"/><language value="ro"> <red>c</red>întu <note><language value="ro"> Scris:  </language><language value="sla">къндꙋ</language><language value="ro">. </language></note> D[o]<i>m</i>nului, birefăcă[to]riu<i>l</i>[u]i mieu <note><language value="ro"> Scris deasupra rândului: -<i>i</i>-. </language></note>,  </language><dot color="red"/><language value="ro"> și cî<i>n</i>tu nume_ </language><page pageID="34"/><language value="ro"> le D[o]<i>m</i>nul[u]i de su<i>s</i>. </language></variant>
+<variant sigle="PH"><language value="ro">Bucură-se înrima mea de scoaterea ta. Cîntu Domnului, bire au deres <note><language value="ro"> Scris:  </language><language value="sla">дѣресь</language><language value="ro">. </language></note> mie şi voiu cînta numele <note><language value="ro"> În text:  </language><language value="sla">нѹмеме</language><language value="ro">. </language></note> lui, a lui Dumnedzău celui den sus. </language><page pageID="9r"/><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">6. Exultabit cor meum in salutari tuo </language><page pageID=""/><language value="lat"> cantabo domino qui bona tribuit michi: et psallam nomini domini altissimi. </language></variant>
+<variant sigle="PR"><language value="lat">6. Exultabit cor meum in salutari tuo </language><page pageID=""/><language value="lat"> cantabo domino qui bona tribuit michi: et psallam nomini tuo altissime. </language></variant>
+</verse>
+</psalm>

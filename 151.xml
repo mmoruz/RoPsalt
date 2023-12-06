@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="psaltiri.css"?>
+<psalm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="roPsalt.xsd" id="151">
+        <titles>
+                <title sigle="CP1"><language value="sla">сла́ва. сїн ѱл҃ѡⷨⷨ о̑со́бь пи́саль е̑сть
+                                дв҃дь вънѣ чи́сла р҃и. ѱа́лѡⷨ егда̀ е̑ди́нь брасесъ
+                                го́лїаѳѡⷨ</language>. Aceasta cîntare în lature scrisă e lu
+                        D[a]v[i]d și afară de seama 150 de cîntece. Cîntare cînd /284r singur
+                        luptă-se cu Goliadu</title>
+                <title sigle="CP1"><language value="sla">сла́ва. сїн ѱл҃ѡⷨⷨ о̑со́бь пи́саль е̑сть
+                                дв҃дь вънѣ чи́сла р҃и. ѱа́лѡⷨ егда̀ е̑ди́нь брасесъ
+                                го́лїаѳѡⷨ</language>. Aceasta cîntare în lature scrisă e lu
+                        D[a]v[i]d și afară de seama 150 de cîntece. Cîntare cînd /284r singur
+                        luptă-se cu Goliadu</title>
+                <title sigle="CP2"><language value="sla">слава. сїн ѱл҃ѡⷨⷨ о̑ со́бь пи́саль иⷭ҇ дбⷣь
+                                вънѣ̀ чѝсла р҃и. ѱл҃ѡⷨ егда̀ е̑ди́нь брасесъ го́лїаѳѡⷨ</language>.
+                        Aceasta cîntare în lature scrisă e lu D[a]v[i]d și afară de seama 150 de
+                        cîntece. Cîntare cînd singur luptă cu Goliadu</title>
+                <title sigle="CP"><red>Slava. • Aceasta cîntare • în lature scrisă e lu D[a]v[i]d •
+                                și afară de seama • 150 • de cîntece. • Cîntare cînd</red><note>
+                                        Scris:<language value="sla"> кънть</language>.</note><red>
+                                singur luptă-se cu Goliadu</red></title>
+                <title sigle="PC"><red>Sla<i>v</i>[ă]. </red><language value="sla"><red>сїн ѱл҃ѡⷨ
+                                        о̑со́бь пи́саⷧ еⷭ҇ двⷣь вънѣчисла̀ р҃и. ѱл҃ѡⷨ егⷣа̀ е̑ди́нь
+                                        брасесѧсъ голїаѳѡⷨ</red></language><red>. Aceasta cîntare în
+                                lature scrisă e lui D[a]v[i]d și afară de seamă 150 de cîntece.
+                                Cîntare cînd singu<i>r</i> luptă-se cu Goliadu</red></title>
+                <title sigle="PS"><red>Sla<i>v</i>[a]. Aceasta cîntare în laturi scrisă e de
+                                        D[a]v[i]<i>d</i> și afară</red><note> Scris: <language
+                                        value="sla">афла́ръ</language>.</note><red> de</red><note>
+                                Cuvînt scris deasupra rîndului.</note><red> sama 150 de
+                                        c[în]te<i>ce</i>, cîndu singuru luptă-se cu
+                        Goliiath</red></title>
+                <title sigle="PH"><red>Slava. </red><language value="sla"><red>сїи
+                                ѱлмꙵ</red></language><note> În slavonă în text: <i>acest
+                                psalm</i>.</note><red> usebiu </red><language value="sla"
+                                        ><red>и</red></language><note> În slavonă în text:
+                                <i>şi</i>.</note><red> au scri<i>s</i> David cîndu se luptă a să işi
+                                cu [Go]liatu şi înr-acea cisla [...]</red></title>
+                <title sigle="PV"><language value="sla"><red>слⷡ҇а. ѱл҃ѡⷨ о̑собь писаль еⷭ҇ двⷣь, и̑
+                                        вънѣ числа̀ р҃н ѱл҃ѡⷨ е̑гⷣа е̑ди́нь брасѧ съ
+                                голїаѳѡⷨ</red></language><red>. Aceasta cîntare în lature scrisă e a
+                                lu Davidu și afară de număru 150 de cîntece cîndu sîngur
+                                luptă-se</red><note> Scris: <language value="sla"
+                                        >лъуптъсе</language>.</note>
+                        <red>cu Goliathu</red>} /53v</title>
+        </titles>
+        <verse id="1">
+                <variant sigle="CP1"><language value="sla">Ма́ль бѣ́хь въ бра́ти
+                                мое̑и</language><language value="ro"> ++ </language><language
+                                value="sla">и҆ ю́нѣ́иши въ до́мꙋ о҆ца мое̑го</language><language
+                                value="ro"> ++ </language><language value="sla">па́сѣⷯ о̑вцѧ о̑ц҃а
+                                мое̑го</language><language value="ro"> ++ </language></variant>
+                <variant sigle="CP1"><language value="sla">··</language><language value="ro"> Mic
+                                era întru frații miei </language><language value="sla">··</language>
+                        <language value="ro">și mai tînăr întru casa tatălui mieu;
+                                </language><language value="sla">··</language>
+                        <language value="ro">păștea oile tatălui mieu. </language></variant>
+                <variant sigle="CP2"><language value="sla">··</language><language value="ro"> Mic
+                                era întru f[r]ații <note>
+                                        <language value="ro"> Scris: </language>
+                                        <language value="sla">фацїи</language>
+                                        <language value="ro">. </language>
+                                </note> miei </language><language value="sla">··</language>
+                        <language value="ro">și mai tînăr întru casa tatălui mieu,
+                                </language><language value="sla">··</language>
+                        <language value="ro">păștea oile tatălui mieu. </language></variant>
+                <variant sigle="CP"><language value="ro"><red>M</red>ic era întru frații miei • și
+                                mai tînăr întru casa tatălui mieu, • păștea oile tată_
+                                </language><page pageID="172v"/><language value="ro"> lui mieu.
+                        </language></variant>
+                <variant sigle="PC"><language value="sla">··</language><language value="ro"> Mic era
+                                întru frații miei </language><language value="sla">··</language>
+                        <language value="ro"/><page pageID="176r"/><language value="ro"> și mai
+                                tînăr întru casa tatălui mieu, </language><language value="sla"
+                                >··</language>
+                        <language value="ro">păștea oile tatălui mieu. </language></variant>
+                <variant sigle="PS"><language value="ro"><red>M</red>i<i>c</i> era întru frații miei
+                                • </language><page pageID="482"/><language value="ro"> și mai tîneru
+                                întru casa tatălui mieu, <red>•</red> păște oile tatînelui mieu <note>
+                                        <language value="ro"> Peste slova </language>
+                                        <language value="sla">м</language>
+                                        <language value="ro">- este un punct cu cerneală roșie.
+                                        </language>
+                                </note>. </language></variant>
+                <variant sigle="PH"><language value="ro"> </language></variant>
+                <variant sigle="PV"><language value="sla">··</language><language value="ro">
+                                <red>M</red>icu era întru frații miei </language><language
+                                value="sla">··</language>
+                        <language value="ro"><red>ș</red>i mai tîrăru întru casa tătîrelui mieu,
+                                </language><language value="sla">··</language>
+                        <language value="ro"><red>p</red>ăștea oile tătîrelui mieu.
+                        </language></variant>
+        </verse>
+        <verse id="2">
+                <variant sigle="CP1"><language value="sla">рѫ́цѣ мои тво́ристѣ
+                                ѡргань</language><language value="sla">
+                                <note>
+                                        <language value="sla"> Segmentare prin două puncte negre.
+                                        </language>
+                                </note>
+                        </language><language value="sla"/><language value="ro"> ++
+                                </language><language value="sla">и҆ пръсти мои съста́вишѧ
+                                ѱа́лтирь</language><language value="ro"> ++ </language></variant>
+                <variant sigle="CP1"><language value="sla">··</language><language value="ro">
+                                Mîinile meale feaceră organ </language><language value="sla"
+                                >··</language>
+                        <language value="ro">și deagetele meale adunară psăltirea.
+                        </language></variant>
+                <variant sigle="CP2"><language value="sla">··</language><language value="ro"> Mînile
+                                meale feaceră organ </language><language value="sla">··</language>
+                        <language value="ro">și deagetele meale adunară psăltirea.
+                                </language><language value="sla">··</language>
+                        <language value="ro"/></variant>
+                <variant sigle="CP"><language value="ro">• Mîinile meale feaceră organ • și
+                                deagetele meale adunară psăltirea. • </language></variant>
+                <variant sigle="PC"><language value="sla">··</language><language value="ro"> Mînule
+                                meale feaceră organ, </language><language value="sla">··</language>
+                        <language value="ro">și deagetele meale adunară psăltirea.
+                                </language><language value="sla">··</language>
+                        <language value="ro">Și cine spune Domnului mieu? </language><language
+                                value="sla">··</language>
+                        <language value="ro">Însu<i>ș</i>[i] Do<i>m</i>nu<i>l</i> însuși audzi.
+                        </language></variant>
+                <variant sigle="PS"><language value="ro">Mînule mele feceră organu • și dege[te]le
+                                mele adunară psaltîrea. </language></variant>
+                <variant sigle="PH"><language value="ro"> </language></variant>
+                <variant sigle="PV"><language value="sla">··</language><language value="ro">
+                                <red>M</red>îrule meale feaceră organe </language><language
+                                value="sla">··</language>
+                        <language value="ro"><red>ș</red>i deagetele meale adurară psăltirea.
+                                </language><language value="sla">··</language>
+                        <language value="ro"/></variant>
+        </verse>
+        <verse id="3">
+                <variant sigle="CP1"><language value="sla">и кто̀ възвѣстить г҃ви
+                                мое̑мꙋ</language><language value="ro"> ++ </language><language
+                                value="sla">са́мь г҃ь самь оуслы́шить</language><language
+                                value="ro"> ++ </language></variant>
+                <variant sigle="CP1"><language value="sla">··</language><language value="ro"> Și
+                                cine spune Domnului mieu? </language><language value="sla"
+                                >··</language>
+                        <language value="ro">Însuși Do<i>m</i>nul, însuși auzi.
+                        </language></variant>
+                <variant sigle="CP2"><language value="ro">Și cine spuse Domnului mieu;
+                                </language><page pageID="302r"/><language value="ro"
+                                > </language><language value="sla">··</language>
+                        <language value="ro">însuși Do<i>m</i>nul însuși auzi. </language></variant>
+                <variant sigle="CP"><language value="ro">Și cine spune Domnului mieu; însuși Domnul
+                                însuși auzi. </language></variant>
+                <variant sigle="PC"><language value="sla">··</language><language value="ro"> Însuși
+                                tremease îngeru<i>l</i> său, și luo-mă de la oile tătînului mieu
+                                </language><language value="sla">··</language>
+                        <language value="ro"><red>ș</red>i unse-mă cu untura ungerea sa.
+                        </language></variant>
+                <variant sigle="PS"><language value="ro"><red>•</red> Și cine va spune D[om]nului
+                                mieu; <red>•</red> însu<i>ș</i>[i] D[om]nul însuși[i] audzi.
+                        </language></variant>
+                <variant sigle="PH"><language value="ro"> </language></variant>
+                <variant sigle="PV"><language value="ro"><red>Ș</red>i cire va spure
+                                D[o]mnu<i>l</i>[ui] mieu? </language><language value="sla"
+                                >··</language>
+                        <language value="ro"><red>Î</red>nsuși D[o]mnu<i>l</i> însuși audzi.
+                        </language></variant>
+        </verse>
+        <verse id="4">
+                <variant sigle="CP1"><language value="sla">са́мь посла̀ а҆гг҃ла
+                                свое̑го</language><language value="sla">, </language><language
+                                value="sla"> и҆ поѧт мѧ ѿ ѡвець ѡц҃а мое̑го</language><language
+                                value="sla"> </language><page pageID="284v"/><language value="ro">
+                                ++ </language><language value="sla">и҆ пома́за мѧ ма́стїѫ помаза́нїа
+                                свое̑го</language><language value="ro"> ++ </language></variant>
+                <variant sigle="CP1"><language value="sla">··</language><language value="ro">
+                                Însuș[i] tremease îngerul său, și luo-mă de la oile tătînului mieu
+                                </language><language value="sla">··</language>
+                        <language value="ro">și unse-mă cu untura ungerea sa. </language></variant>
+                <variant sigle="CP2"><language value="sla">··</language><language value="ro"> Însuș
+                                tremease îngerul său și luo-mă de la oile tătînului mieu
+                                </language><language value="sla">··</language>
+                        <language value="ro">și unse-mă cu untura ungerea sa. </language></variant>
+                <variant sigle="CP"><language value="ro">• Îns tremease îngerul său și luo-mă de la
+                                oile tătînului mieu • și unse-mă cu untura ungerea sa.
+                        </language></variant>
+                <variant sigle="PC"><language value="sla">··</language><language value="ro">
+                                <red>F</red>rații miei, buni și mari, </language><language
+                                value="sla">··</language>
+                        <language value="ro">și nu du<i>l</i>_ </language><page pageID="176v"
+                                /><language value="ro"> ce vru într-înși Do<i>m</i>nu<i>l</i>.
+                        </language></variant>
+                <variant sigle="PS"><language value="ro"><red>•</red> Însuși treamese îngeru<i>l</i>
+                                său și luo-me de la oile tătînului mieu <red>•</red> și unse-me cu
+                                untura ungerea sa. </language></variant>
+                <variant sigle="PH"><language value="ro"> </language></variant>
+                <variant sigle="PV"><language value="sla">··</language><language value="ro">
+                                <red>Î</red>nsuși tremease îngeru<i>l</i> său </language><language
+                                value="sla">··</language>
+                        <language value="ro"><red>ș</red>i luo-me de la oile tătîrelui mieu
+                                </language><language value="sla">··</language>
+                        <language value="ro"><red>ș</red>i unse-me cu untura ungerea sa.
+                        </language></variant>
+        </verse>
+        <verse id="5">
+                <variant sigle="CP1"><language value="sla">бра́тїа моа̀ добраа̀ и҆
+                                вели́каа</language><language value="ro"> ++ </language><language
+                                value="sla">и не бл҃гово́ли въ ниⷯ г҃ь</language><language
+                                value="ro"> ++ </language></variant>
+                <variant sigle="CP1"><language value="sla">··</language><language value="ro"> Frații
+                                miei buni și mari, </language><language value="sla">··</language>
+                        <language value="ro">și nu dulce vru într-înși Domnul. </language></variant>
+                <variant sigle="CP2"><language value="sla">··</language><language value="ro"> Frații
+                                miei buni și mari </language><language value="sla">··</language>
+                        <language value="ro">și nu dulce vru într-înși Domnul. </language></variant>
+                <variant sigle="CP"><language value="ro">• Frații miei buni și mari • și nu dulce
+                                vru într-înși Domnul. </language></variant>
+                <variant sigle="PC"><language value="sla">··</language><language value="ro"> Ieșiiu
+                                în ti<i>m</i>pinarea altui striin, </language><language value="sla"
+                                >··</language>
+                        <language value="ro">și blăstemă-mă cu idolii săi. </language><language
+                                value="sla">··</language>
+                        <language value="ro">E eu sco<i>ș</i> de la dins spata și tăiaiu
+                                        capu<i>l</i> lui </language><language value="sla"
+                                >··</language>
+                        <language value="ro">și luaiu împutare de la fii lu Israi<i>l</i>.
+                        </language></variant>
+                <variant sigle="PS"><language value="ro"><red>•</red> Frații miei buni și mairi
+                                        <red>•</red> nu du<i>l</i>ce vru într-înși D[om]nu<i>l</i>.
+                        </language></variant>
+                <variant sigle="PH"><language value="ro"> </language></variant>
+                <variant sigle="PV"><language value="sla">··</language><language value="ro">
+                                <red>F</red>rații miei, buri și mari, </language><language
+                                value="sla">··</language>
+                        <language value="ro"><red>ș</red>i nu du<i>l</i>ce vru într-înșii
+                                        D[o]mnu<i>l</i>. </language></variant>
+        </verse>
+        <verse id="6">
+                <variant sigle="CP1"><language value="sla">и҆зы́хохь въ срѣ́тенїе
+                                инопле́менникꙋ</language><language value="ro"> ++
+                                </language><language value="sla">и проклѧт мѧ и҆дѡли
+                                свои҆ми</language><language value="ro"> ++ </language><language
+                                value="sla">а̑з же истръгь ѿ не́го ме́чь, и ѿсѣ́кохь гла́вѫ
+                                е̑го</language><language value="ro"> ++ </language></variant>
+                <variant sigle="CP1"><language value="sla">··</language><language value="ro"> Ieșiiu
+                                în timpinarea altui striin, </language><language value="sla"
+                                >··</language>
+                        <language value="ro">și blestemă-mă cu idolii săi. </language><language
+                                value="sla">··</language>
+                        <language value="ro">E eu scoș de la dins spata, tăiaiu capul lui.
+                        </language></variant>
+                <variant sigle="CP2"><language value="sla">··</language><language value="ro"> Ieșiiu
+                                în timpinarea altui striin </language><language value="sla"
+                                >··</language>
+                        <language value="ro">și mă blăstemă cu idolii săi. </language><language
+                                value="sla">··</language>
+                        <language value="ro">Iară eu scoș de la dins spata, și tăiaiu capu<i>l</i>
+                                lui. </language><page pageID="302v"/><language value="ro"
+                                > </language><language value="sla">··</language>
+                        <language value="ro"/></variant>
+                <variant sigle="CP"><language value="ro">• Ieșiiu în timpinarea altui striin • și
+                                blestemă-mă cu idolii săi. • E eu scoș de la dins spata, tăiaiu
+                                capul lui, • </language></variant>
+                <variant sigle="PS"><language value="ro"><red>•</red> Ieșiiu în tîmpinare altui
+                                striinu <red>•</red> și blăsteamă-me cu i_ </language><page
+                                pageID="483"/><language value="ro"> dolii săi; E eu scoșu de la
+                                densu spată, și tăiaiu capu<i>l</i> lui, </language></variant>
+                <variant sigle="PH"><language value="ro"> </language></variant>
+                <variant sigle="PV"><language value="sla">··</language><language value="ro">
+                                <red>Ie</red>șiiu în tîmpiratu<i>l</i> altui striiru
+                                </language><language value="sla">··</language>
+                        <language value="ro"><red>ș</red>i blăstemă-me cu idolii săi.
+                                </language><language value="sla">··</language>
+                        <language value="ro"><red>E</red> eu scoșiu <note>
+                                        <language value="ro"> Scris: </language>
+                                        <language value="sla">скоушю</language>
+                                        <language value="ro">. </language>
+                                </note> de la di<i>n</i>su </language><page pageID="54r"/><language
+                                value="ro"> spată </language><language value="sla">··</language>
+                        <language value="ro"><red>ș</red>i tăiaiu capu<i>l</i> lui
+                                </language><language value="sla">··</language>
+                        <language value="ro"/></variant>
+        </verse>
+        <verse id="7">
+                <variant sigle="CP1"><language value="sla">ѿѧхь поно́шенїе ѿ сн҃овь
+                                і҆и҃левь</language><language value="ro"> ++ </language></variant>
+                <variant sigle="CP1"><language value="sla">··</language><language value="ro"> Luaiu
+                                împutare de la fiii lu Israil. </language></variant>
+                <variant sigle="CP2"><language value="ro">Luaiu împutare de la fiii lu Israil.
+                        </language></variant>
+                <variant sigle="CP"><language value="ro">și luaiu împutare de la fii lu Israil.
+                        </language></variant>
+                <variant sigle="PS"><language value="ro"><red>•</red> și luaiu putarea de la fii lui
+                                Is[rai]l <note>
+                                        <language value="ro"> Urmează semnul „:”, scris cu negru.
+                                        </language>
+                                </note>. </language></variant>
+                <variant sigle="PH"><language value="ro">[...] <note>
+                                        <language value="ro"> Restul textului Psaltirii lipseşte din
+                                                manuscris. </language>
+                                </note></language></variant>
+                <variant sigle="PV"><language value="ro"><red>Ș</red>i luaiu împutare de la
+                                        fiiu<i>l</i> lu Iz<i>d</i>rai<i>l</i>. </language></variant>
+        </verse>
+</psalm>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="psaltiri.css"?>
+<psalm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="roPsalt.xsd" id="109">
+<titles><title sigle="CP1" ><language value="sla">сла́ва.</language> <language value="sla">ка́ѳїꙁма</language> <language value="sla">ѕі҃. ѱа́лѡⷨ дв҃дь</language>. Ședearea 16. Cîntecul lu D[a]v[i]d 109</title>
+<title sigle="CP1" ><language value="sla">сла́ва.</language> <language value="sla">ка́ѳїꙁма</language> <language value="sla">ѕі҃. ѱа́лѡⷨ дв҃дь</language>. Ședearea 16. Cîntecul lu D[a]v[i]d 109</title>
+<title sigle="CP2" ><language value="sla">слⷡ҇а. каѳи́ꙁма ѕ҃і. ѱл҃оⷨ двⷣь</language>. Ședearea 16. Cîntecul lu D[a]v[i]d 109</title>
+<title sigle="CP" ><red>Slava. • Cathizma 16. • Cîntecul lu David • 109</red></title>
+<title sigle="PC" ><language value="sla"><red>слⷡ҇а. каⷴ</red></language><red> </red><language value="sla"><red>ѕ҃і.</red></language><red> </red><language value="sla"><red>ѱл҃ѡⷨ двⷣь</red></language><red>. Ședearea</red><note> Corectat: -<language value="sla">е</language>- din -<language value="sla">ъ</language>-; deasupra ei este o literă suprascrisă, probabil -<language value="sla">н</language>-.</note><red> 16</red><note> Scris deasupra rândului: 16.</note><red>. Cî<i>n</i>tecu<i>l</i> lu<i>i</i> D[a]v[i]<i>d</i> 109</red></title>
+<title sigle="PS" ><red>Sla<i>v</i>[a]. Ședearea 16. Cîntecu<i>l</i> lu D[a]v[i]d 109</red></title>
+<title sigle="PH" ><red>Slava. Şedearea 16. 109</red></title>
+<title sigle="PV" ><language value="sla"><red>ѱл҃ѡⷨ двⷣь</red></language><red>. Cîntecu<i>l</i> lu D[a]v[i]<i>d</i>u 108</red></title>
+<title sigle="PG" ><red>Psalmus Dauid. CIX</red></title>
+<title sigle="PR" ><red>Dauid psalmus. CIX</red></title>
+</titles><verse id="1">
+<variant sigle="CP1"><language value="sla">Ре́че г҃ь г҃ви мое̑мꙋ, сѣ́ди о҆де́снѫѧ ме́не</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Zise Domnul Domnului mieu: „Șezi de-a dereapta mine <note><language value="ro"> Între ff. 220v și 224r, cu roșu, deasupra punctului care desparte secvențele slavonești și românești ale textului, sunt marcate de mână semnul  </language><language value="sla">Ⰰ</language><language value="ro">, la începutul secvențelor slavonești, și semnul  </language><language value="sla"></language><language value="ro"> inversat, la începutul secvențelor românești. </language></note></language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Zise Domnu<i>l</i> Domnului mieu: „Șezi de-a dereapta mine </language></variant>
+<variant sigle="CP"><language value="ro"><red>•</red> <red>Z</red>ise Domnul Domnului mieu: „Șezi de-a dereapta mine </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Dzise Domnu<i>l</i> Domnului mieu: „Ședzi de-a dereapta mea </language></variant>
+<variant sigle="PS"><language value="ro"><red>Dz</red>ise D[om]nu<i>l</i> D[om]nulu<i>i</i> mieu: „Ședzi de na deareapta meine </language></variant>
+<variant sigle="PH"><language value="ro"><red>Dz</red>ise Domnul Domnului mieu: „Şedzi a dereapta de menre </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">1. Dixit dominus domino meo: sede a dextris meis. </language></variant>
+<variant sigle="PR"><language value="lat">1. Dixit dominus domino meo: sede a dextris meis. </language></variant>
+</verse>
+<verse id="2">
+<variant sigle="CP1"><language value="sla">дѡнже поло́жѫ врагы твоѫ поⷣно́жїе ногама твои́ма</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Pînă voiu pune dracii tăi po<i>d</i>nojie picioarelor tale! </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Pînă voiu pune dracii tăi po<i>d</i>nojie picioarelor tale”. </language></variant>
+<variant sigle="CP"><language value="ro">• Pînă voiu pune dracii tăi podnojie picioarelo<i>r</i> tale”. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Pînă voiu pune dracii tăi po<i>d</i>nojie picioarelo<i>r</i> tale”. </language></variant>
+<variant sigle="PS"><language value="ro">Pînă voiu pune vrăjmașii tăi po<i>d</i>nojie picioarelor tale”. </language></variant>
+<variant sigle="PH"><language value="ro">Pănră voiu punre vrăjimaşii tăi supt talpele picioareloru tale”. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">2. Donec ponam inimicos tuos: scabellum pedum tuorum. </language></variant>
+<variant sigle="PR"><language value="lat">2. Donec ponam inimicos tuos: scabellum pedum tuorum. </language></variant>
+</verse>
+<verse id="3">
+<variant sigle="CP1"><language value="sla">же́зль си́лы после́ть те́бѣ г҃ь ѿ сїѡна</language><language value="ro"> ++  </language><language value="sla">и оудолѣе̑ше посрⷣѣ вра́гь твоиⷯ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Fuște vîrtute tremeate-va ție Domnul de Sion, </language><language value="sla">··</language> <language value="ro">și vinge-veri pre mijloc de dracii tăi. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Fierul de tărie tremeate-va ție Domnul den Sio<i>n</i> </language><language value="sla">··</language> <language value="ro"></language><page pageID="231v"/><language value="ro"> </language><language value="sla">··</language> <language value="ro">și vingeri pre mijloc de vrăjmașii tăi. </language></variant>
+<variant sigle="CP"><language value="ro">• Fește vîrtute tremeate-va ție Dom_ </language><page pageID="130r"/><language value="ro"> nul de Sion • și vinge-veri pre mijloc de dracii tăi. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Fuște vîrtute tremeate-va ție Do<i>m</i>nul de Sio<i>n</i>: </language><language value="sla">··</language> <language value="ro">„Și învenge-veri pri[n] mijlóc de dracii tăi!” </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Fuște vîrtute tremete-va ție D[om]nul de Sion <red>•</red> și vence-veri pre mijloc de dracii tăi. </language></variant>
+<variant sigle="PH"><language value="ro">To[i]agu<i>l</i> puteriei tremeate-va ţie Domnu<i>l</i> de Sion şi veri vence în mijloc de vrăjmaşi[i] tăi. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">3. Virgam virtutis tuae emittet dominus ex sion: dominare in medio inimicorum tuorum. </language></variant>
+<variant sigle="PR"><language value="lat">3. Virgam virtutis tuae emittet dominus ex sion: dominaberis in medio inimicorum tuorum. </language></variant>
+</verse>
+<verse id="4">
+<variant sigle="CP1"><language value="sla">с то́боѫ начѧлство въ дн҃ь си́лы твое̑ѫ</language><language value="ro"> ++  </language><language value="sla">въ свѣтлотахь ст҃ыⷯ твоиⷯ</language><language value="ro"> ++  </language><language value="sla">из чрѣ́ва прѣжде деницѫ ро́диⷯ тѧ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Cu tine început în zioa sileei tale, </language><language value="sla">··</language> <language value="ro">în lumina sfinților </language><page pageID="220v"/><language value="ro"> tăi. </language><language value="sla">··</language> <language value="ro">Den mațe ainte de luceafăr născui-te”. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Cu tine început în zioa sileei tale </language><language value="sla">··</language> <language value="ro">în lumina sf[i]nțilo<i>r</i> tăi; </language><language value="sla">··</language> <language value="ro">den mațe ainte de luceafăr născui-te. </language></variant>
+<variant sigle="CP"><language value="ro">• Cu tine început în zooa sileei tale în lumina sfințilo<i>r</i> tăi; den mațe ainte de luceafăr • născui-te. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Cu tine, începu<i>t</i> în dzioa silee[i] tale, </language><language value="sla">··</language> <language value="ro">în lumina svi<i>n</i>țilo<i>r</i> tăi, </language><language value="sla">··</language> <language value="ro">den mațe ainte de luceafăr născui-te. </language></variant>
+<variant sigle="PS"><language value="ro">• </language><page pageID="373"/><language value="ro"> Cu tine început în dzua sileei <note><language value="ro"> Scris:  </language><language value="sla">силеле́и</language><language value="ro">. </language></note> tale <red>•</red> în lumina sf[in]ților tăi; <red>•</red> din <note><language value="ro"> Scris:  </language><language value="sla">дїꙟ</language><language value="ro">. </language></note> mațe a[i]nte de lăceafăru născuiu-te. </language></variant>
+<variant sigle="PH"><language value="ro">Cu tinre începu în dzua puteriei tale şi în luminra sviinţilor tăi; den pî[n]tece ainte născuiu-te. </language><page pageID="97v"/><language value="ro"> </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">4. Tecum principium in die virtutis tuae in splendoribus sanctorum: ex vtero ante luciferum genui te. </language></variant>
+<variant sigle="PR"><language value="lat">4. Tecum principium in die virtutis tuae in splendoribus sanctorum: ex vtero ante luciferum genui te. </language></variant>
+</verse>
+<verse id="5">
+<variant sigle="CP1"><language value="sla">клѧтсѧ г҃ь и҆ не раскае̑тсѧ</language><language value="ro"> ++  </language><language value="sla">ты̀ е̑си і҆е̑реи въ вѣ́кы по чинꙋ ме́лхиседековꙋ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Jură-se Domnul și nu se căi: </language><language value="sla">··</language> <language value="ro">„Tu ești preut în veac, după firea lu Melhisedec”. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Jură-se Domnul și nu se va căi: </language><language value="sla">··</language> <language value="ro">„Tu ești preut în veac după firea lu Melhisedec”. </language></variant>
+<variant sigle="CP"><language value="ro">• Jură-se Domnul și nu se căi; tu ești preut în veac după firea lu Melhisedec. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Jură-se Domnu<i>l</i> și nu se căi </language><page pageID="116r"/><language value="ro"> </language><language value="sla">··</language> <language value="ro"><note><language value="ro"> Scris cu negru: punctul care delimitează secvența slavonă de cea românească. </language></note> „<red>T</red>u ești preot în veac, după firea lui Melhisedec”. </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Giură-se D[om]nului și nu căi-se: <red>•</red> „Tu ești preutu în veacu după firea lui Melhisedec”. </language></variant>
+<variant sigle="PH"><language value="ro">Giură-se Domnulu şi nu se va căi. Tu eşti svintitoriu pre rrîndul lui Melhisedic. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">5. Iurauit dominus et non poenitebit eum: tu es sacerdos in aeternum secundum ordinem melchisedech. </language></variant>
+<variant sigle="PR"><language value="lat">5. Iurauit dominus et non poenitebit eum: tu es sacerdos in aeternum secundum ordinem melchisedech. </language></variant>
+</verse>
+<verse id="6">
+<variant sigle="CP1"><language value="sla">г҃ь о҆де́снаѧ те́бе съкрушиль е̑сть въ дн҃ь гнѣ́ва твое̑го цр҃ѧ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Do<i>m</i>nul de-a dereapta ta, înfrînt-au în zi de mîniia împărații. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Do<i>m</i>nul de-a dereapta; frîmt-au în zi de mîniia împăratul. </language></variant>
+<variant sigle="CP"><language value="ro">• Domnul de-a dereapta ta; înfrîns-au în zi de mîniia ta împărații. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Domnu<i>l</i>, de-a dereapta ta; înfrîns-au în dzi de mîniia ta împărații. </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> D[om]nul de-a dereapta ta; frîmt-aiu în dzi de mînia ta împărații. </language></variant>
+<variant sigle="PH"><language value="ro">Domnulu de-a dereapta ta zdrobit-au în dzua mîniiei tale împăratu<i>l</i>. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">6. Dominus a dextris tuis: confregit in die irae suae reges. </language></variant>
+<variant sigle="PR"><language value="lat">6. Dominus a dextris tuis: confringet in die irae suae reges. </language></variant>
+</verse>
+<verse id="7">
+<variant sigle="CP1"><language value="sla">сѫ́дить ѧзы́кѡⷨ исплънить паданїа</language><language value="ro"> ++  </language><language value="sla">съкрꙋшить гла́вы по зеⷨли мно́гѡⷨ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Judecă li<i>m</i>bilor și împle căderile, </language><language value="sla">··</language> <language value="ro">frînge capetele pre pămînt a mulți. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Judecă li<i>m</i>bilo<i>r </i>și împle căderile; </language><language value="sla">··</language> <language value="ro"></language><page pageID="232r"/><language value="ro"> frînge capetele pre pămînt a mulți. </language></variant>
+<variant sigle="CP"><language value="ro">• Judecă limbilo<i>r</i> și împle căderile; • frînge capetele pre pămînt a mulți. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Judecă li<i>m</i>bilo<i>r</i> și împle căderile, </language><language value="sla">··</language> <language value="ro">frînge capetele pre pămî<i>n</i>t a mu<i>l</i>ți. </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Giudecă limbilor și împle căderile; <red>•</red> frînge capetele pre pămîntu a mulți. </language></variant>
+<variant sigle="PH"><language value="ro">Giudeca-va limbile şi va împlea cădearea şi va fărrima capetele pre pămîntu. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">7. Iudicabit in nationibus </language><page pageID=""/><language value="lat"> implebit ruinas: conquassabit capita in terra multorum. </language></variant>
+<variant sigle="PR"><language value="lat">7. Iudicabit in nationibus </language><page pageID=""/><language value="lat"> implebit ruinas: conquassabit capita multa in terra copiosa. </language></variant>
+</verse>
+<verse id="8">
+<variant sigle="CP1"><language value="sla">ис потока напѫ́ти пїе̑ть</language><language value="ro"> ++  </language><language value="sla">се́го радѝ възнесеѫть гла́вѫ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> De izvor în cale bea, </language><language value="sla">··</language> <language value="ro">derept aceaia rădică capul. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Den izvo<i>r </i>în cale beau; </language><language value="sla">··</language> <language value="ro">derept aceaia rădică cap. </language></variant>
+<variant sigle="CP"><language value="ro">• De izvor în cale bea; • derept aceaia rădică capul. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> De izvo<i>r</i> în cale bea, </language><language value="sla">··</language> <language value="ro">derept aceaea rădicắ capu<i>l</i>. </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Din <note><language value="ro"> Scris:  </language><language value="sla">дїꙟ</language><language value="ro">. </language></note> izvoru în cale bea; <red>•</red> derept acea rădică capul. </language><page pageID="374"/><language value="ro"> </language></variant>
+<variant sigle="PH"><language value="ro">Den vale în cale bea-va, dereptu acea înrălţa-va capul. </language></variant>
+<variant sigle="PV"><language value="ro">[...] <note><language value="ro"> Fragment lipsă. </language></note></language></variant>
+<variant sigle="PG"><language value="lat">8. De torrente in via bibet: propterea exaltabit caput. </language></variant>
+<variant sigle="PR"><language value="lat">8. De torrente in via bibet: propterea exaltabit caput. </language></variant>
+</verse>
+</psalm>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="psaltiri.css"?>
+<psalm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="roPsalt.xsd" id="46">
+<titles><title sigle="CP1" ><language value="sla">сла́ва. каѳиꙁма ꙁ҃. въко́нець о̑сн҃ох коре́ѡ̑вь ѱл҃ѡⷨ. </language>Însfîrșit, fiiiluCoreu, cîntec 46</title>
+<title sigle="CP1" ><language value="sla">сла́ва. каѳиꙁма ꙁ҃. въко́нець о̑сн҃ох коре́ѡ̑вь ѱл҃ѡⷨ. </language>Însfîrșit, fiiiluCoreu, cîntec 46</title>
+<title sigle="CP2" ><language value="sla">Сл҇ⷦа каѳи́ꙁма</language>. ꙁ<language value="sla">҃</language>. в<language value="sla">ъко́нець.• о͗сн҃ѡⷯ кореѡвь ѱлѡⷨ</language>. În sfîrșit, fiii lu Coreu, cîntec 46</title>
+<title sigle="CP" ><red>Slava. Cathizma7. În sfîrșit, fii luCoreucîntec 46</red></title>
+<title sigle="PS" ><red>Sla<i>v</i>[a]. Ședearea 7. În cumpli<i>t</i>, fii lu Coreu cîntecu<i>l</i>46</red></title>
+<title sigle="PH" ><red>Sla<i>v</i>[a]. Șe<i>d</i>[ea]rea 7.46</red></title>
+<title sigle="PG" ><red>In finem pro filijs core psalmus. XXXXVI</red></title>
+<title sigle="PR" ><red>In finem pro filijs core psalmus. XXXXVI</red></title>
+</titles><verse id="1">
+<variant sigle="CP1"><language value="sla">Въсѝ ѧꙁыци въспле́щате рѫ́ка </language><language value="sla">  </language><language value="sla">въскли́кнѣте б҃ꙋ гла́сѡⷨ ра́дости </language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Toate limbile să plăseaze cu mîinile,  </language><language value="sla"></language><language value="ro"> strigați Zeului cu gla<i>s</i> bucurie! </language></variant>
+<variant sigle="CP2"><language value="ro">Toate limbile în sus împletiți cu mînile,  strigați Zeului cu gla<i>s</i> de bucurie! </language></variant>
+<variant sigle="CP"><language value="ro"><red>T</red>oate limbile să plăseaze cu mîinile, </language><dot color="black"/><language value="ro">strigați Zeului cu glas bucurie! </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro"> <red>T</red>oate limbile se plăseaze cu mîrule,  </language><dot color="red"/><language value="ro">strigați Dzeu<i>l</i>[u]i cu gla<i>s</i> bucurie!  </language><dot color="red"/></variant>
+<variant sigle="PH"><language value="ro"><red>T</red>oate limbile, plesați cu mînrule, chemați lui Domn[e]dz[e]u cu glas de <note><language value="ro"> Scris: </language><language value="sla"> да.</language><language value="ro"> </language></note>bucurie! </language></variant>
+<variant sigle="PG"><language value="lat">1.Omnes gentes plaudite manibus: iubilate deo in voce exultationis. </language></variant>
+<variant sigle="PR"><language value="lat">1. Omnes gentes plaudite manibus: iubilate deo in voce exultationis. </language></variant>
+</verse>
+<verse id="2">
+<variant sigle="CP1"><language value="sla"> ꙗко г҃ь вышнїи стра́шень цр҃ь велеи по въсе́и ꙁемли </language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Că Domnul sus, înfricat, împărat mare prespre tot pămîntul. </language></variant>
+<variant sigle="CP2"><language value="ro">Că Do<i>m</i>nul de sus, înfricat, </language><page pageID="90r"/><language value="ro"> împărat mare prespre tot pămîntul. </language></variant>
+<variant sigle="CP"><language value="ro">Că Domnul sus, înfricat, </language><dot color="black"/><language value="ro">împărat mare prespre tot pămîntul. </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro">Că D[om]nu<i>l</i> sus, înfrica<i>t</i>, împăra<i>t</i> mare prespr<i>e</i> tot pămîntu<i>l</i>. </language></variant>
+<variant sigle="PH"><language value="ro">Că Domnul <note><language value="ro"> Scris:  </language><language value="sla">доумноулъ.</language><language value="ro"> </language></note> celor de sus fricos, împăra<i>t</i> mai mare prespre tot pămîntu<i>l</i>. </language></variant>
+<variant sigle="PG"><language value="lat">2. Quoniam dominus excelsus terribilis: rex magnus super omnem terram. </language></variant>
+<variant sigle="PR"><language value="lat">2. Quoniam deus summus </language><page pageID=""/><language value="lat"> terribilis: et rex magnus super omnes deos. </language></variant>
+</verse>
+<verse id="3">
+<variant sigle="CP1"><language value="sla"> поко́ри лю́ди намь, и̑ ѧꙁы́кы поⷣ но́гы на́шѧ </language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Plecă oamenii noao, și limbile supt picioarele noastre; </language></variant>
+<variant sigle="CP2"><language value="ro">Plecă oamenii noao, și limbile supt picioarele noastre; </language></variant>
+<variant sigle="CP"><language value="ro">Plecă oamenii noao,  </language><dot color="black"/><language value="ro">și limbile supt picioarele noastre; </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro">Plecă oamerii noao, și limbile suptu picioarele noastre;  </language><dot color="black"/><language value="ro">/147 </language></variant>
+<variant sigle="PH"><language value="ro">Plecași oamenri[i] <note><language value="ro"> Scris:  </language><language value="sla">ѡамїенри</language><language value="ro">.  </language></note> noao și limbile <note><language value="ro"> Scris:  </language><language value="sla">лимбилиле.</language><language value="ro"> </language></note> suptu picioarele noastre; </language></variant>
+<variant sigle="PG"><language value="lat">3.Subiecit populos nobis et gentes sub pedibus nostris. </language></variant>
+<variant sigle="PR"><language value="lat">3. Subiecit populos nobis et gentes sub pedibus nostris. </language></variant>
+</verse>
+<verse id="4">
+<variant sigle="CP1"><language value="sla">и̑ꙁбра̀ на́мь доⷭ҇а́нїе </language><language value="sla">/87r </language><language value="sla"> себѣ </language><language value="sla">  </language><language value="sla">до́бротѫ і̑а́ковлѧ ѧже въꙁлюби </language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro">Alease noao dostoinicie luiș,  </language><language value="sla"></language><language value="ro"> bunătatea lu Iacov, ce iubi. </language></variant>
+<variant sigle="CP2"><language value="ro">Alease noao dostoinicie luiș,  bunătatea lu Iacov, ce iubi. </language></variant>
+<variant sigle="CP"><language value="ro">Alease noao dostoinicie luiș, </language><dot color="black"/><language value="ro">bunătatea lu Iacov, ce iubi. </language><dot color="black"/></variant>
+<variant sigle="PS"><language value="ro"><red>A</red>lease noao do<i>s</i>[to]inicie șie,  </language><dot color="black"/><language value="ro"><red>b</red>urătatea lu Iacov, ce iubi. </language></variant>
+<variant sigle="PH"><language value="ro">Aleseși noi parte șie, bunrătatea lui Iaco_/40r v, cari-l iubi<i>t</i>. </language></variant>
+<variant sigle="PG"><language value="lat">4. Elegit nobis haereditatem suam: speciem iacob quam dilexit.<red>Semper.</red> </language></variant>
+<variant sigle="PR"><language value="lat">4. Elegit nos in haereditatem sibi: speciem iacob quam dilexit. {<red>Dp.</red>} </language></variant>
+</verse>
+<verse id="5">
+<variant sigle="CP1"><language value="sla"> въꙁы́де б҃ь въ въскли́кновени, г҃ь въ гла́сѣ трѫ́бнѣ </language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro">Sui Dumnezeu în strigări, Domnul în glasul bucinilor. </language></variant>
+<variant sigle="CP2"><language value="ro">Sui Dumnezeu întru strigări, Domnul în glasul bucinilo<i>r</i>. </language></variant>
+<variant sigle="CP"><language value="ro">Sui Dumnezeu în strigări,  </language><dot color="black"/><language value="ro">Domnul în glasul bucinilo<i>r</i>. </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro">Sui Dzeu<i>l</i> în strigari, D[om]nu<i>l</i> în glasu<i>l</i> bucireloru. </language></variant>
+<variant sigle="PH"><language value="ro">Sui D[u]mn[e]dzeu în chemare și D[o]mnul în glasulu de bucinru. </language></variant>
+<variant sigle="PG"><language value="lat">5.Ascendit deus in iubilo:dominus in voce tubae. </language></variant>
+<variant sigle="PR"><language value="lat">5. Ascendit deus in iubilatione: et dominus in voce tubae. </language></variant>
+</verse>
+<verse id="6">
+<variant sigle="CP1"><language value="sla"> пои́те б҃ꙋ на́ш</language><language value="sla">[ </language><language value="sla">е</language><language value="sla">] <note><language value="sla"> Scris: </language><language value="sla">на́ш</language><language value="sla">. </language></note> </language><language value="sla">мꙋ поите </language><language value="sla">  </language><language value="sla">пои́те цре́ви на́шемꙋ пои́те </language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Cîntați Domnului nostru, cîntați,  </language><language value="sla"></language><language value="ro"> cîntați, împăratului nostru, cîntați, </language></variant>
+<variant sigle="CP2"><language value="ro">Cîntați Domnului nostru, cîntați, </language></variant>
+<variant sigle="CP"><language value="ro">Cîntați Domnului nostru, cîntați, </language><dot color="black"/><language value="ro">cîntați,împăratului nostru, cîntați, </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro">Cîntați Dzeulu<i>i</i> nostru, cîntați,  </language><dot color="red"/><language value="ro">cîntați, împăratului nostru, cîntați, </language></variant>
+<variant sigle="PH"><language value="ro">Cîntați D[u]mn[e]dzeu nostru <note><language value="ro"> Scris:  </language><language value="sla">ностръ.</language><language value="ro"> </language></note>, cîntați, cîn[ta]ți împăratului <note><language value="ro"> Scris:  </language><language value="sla">ꙟпътаратоулоуи.</language><language value="ro"> </language></note> nostru, cîntați, </language></variant>
+<variant sigle="PG"><language value="lat">6.Psallite deo nostro psallite: psallite regi nostro psallite. </language></variant>
+<variant sigle="PR"><language value="lat">6. Psallite deo nostro psallite: psallite regi nostro psallite. </language></variant>
+</verse>
+<verse id="7">
+<variant sigle="CP1"><language value="sla">ꙗко цр҃ь въсе́и ꙁе́мли б҃ь, пои́те ра́ꙁꙋмго </language><language value="sla">  </language><language value="sla">въцр҃и́сѧ б҃ь на́дь ѧꙁы́кы </language><language value="sla">  </language><language value="sla">б҃ь сѣ́дить на прѣсто́лѣ ст҃ѣ́мь своиⷨ </language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Că împărat prespre tot pămîntul Dumnezeu; cîntați înțelegînd!  </language><language value="sla"></language><language value="ro"> Împărăți-se Zeul spre limbi,  </language><language value="sla"></language><language value="ro"> Dumnezeu șade <note><language value="ro"> Scris: </language><language value="sla">ша́дѣ.</language><language value="ro"> </language></note> în scaunul sf[î]nt al său. </language></variant>
+<variant sigle="CP2"><language value="ro">Că împăratu e prespre tot pămîntul Dumnezeu; cîntați cu înțel_ </language><page pageID="90v"/><language value="ro"> es!  Că împărăți-se Zeul spre limbi,  Dumnezeu șade în scaunul sfînt al său. </language></variant>
+<variant sigle="CP"><language value="ro">Că împărat prespre </language><page pageID="51v"/><language value="ro"> tot pămîntul Dumnezeu; cîntați înțelegînd! </language><dot color="black"/><language value="ro">Împărăți-se Zeul spre limbi, </language><dot color="black"/><language value="ro">Dumnezeu șade în scaunul sfînt al său. </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro">Că împăratue prespre to<i>t</i> pămîntu<i>l</i> Dzeu<i>l</i>; cîntați înțelegîndu!  </language><dot color="red"/><language value="ro">Împărăți-se Dzeu<i>l</i> spre limbi,  </language><dot color="red"/><language value="ro">Dzeu<i>l</i> șeade în scaunu<i>l</i> sf[în]tu al său. </language></variant>
+<variant sigle="PH"><language value="ro">Că e împărat a tot păm[î]ntul, Dumnedzeu <note><language value="ro"> Scris:  </language><language value="sla">домнезеꙋ.</language><language value="ro"> </language></note> e, cîntați înțeleptu <note><language value="ro"> Scris:  </language><language value="sla">ꙟцѣлеⷫтоу.</language><language value="ro"> </language></note>! Domni-se D[u]mn[e]dzeu pre toate <note><language value="ro"> Scris:  </language><language value="sla">тоатѣ.</language><language value="ro"> </language></note> limbile, Dumnedzeu <note><language value="ro"> Scris:  </language><language value="sla">дꙋмнеꙋ.</language><language value="ro"> </language></note> șede pre scaunul sfî[n]tu<i>l</i> său. </language></variant>
+<variant sigle="PG"><language value="lat">7. Quoniam rex omnis terrae deus: psallite sapienter.8. Regnabit deus super omnesgentes:deussedet super sedem sanctam suam. </language></variant>
+<variant sigle="PR"><language value="lat">7. Quoniam rex omnis terrae deus: psallite sapienter. 8. Regnabit dominus in aeternum super omnes gentes: deus sedet super sedem sanctam suam. </language></variant>
+</verse>
+<verse id="8">
+<variant sigle="CP1"><language value="sla">кнѧ́ѕи людстїи събра́шѫ́сѧ съ бг҃ѡ́мь а̑враамлемь </language><language value="sla">  </language><language value="sla">ꙗкобж҃їидръжа́внїиꙁе́ло ли, ѕѣ́ло въꙁне́сошѫсѧ </language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Judecii oamenilor adunară-se cu Dumnezeul/87v lu Avraam,  </language><language value="sla"></language><language value="ro"> că ale lu Dumnezeu ținutele pămîntului foarte rădicară-se. </language></variant>
+<variant sigle="CP2"><language value="ro">Domnii omenești adunară-se cu Dumnezeulcă a lu Avraam,  că ale luDumnezeu țiitorii pămîntului foarte rădicară-se. </language></variant>
+<variant sigle="CP"><language value="ro">Judecii oamenilo<i>r</i> adunară-se cu Dumnezeul lu Avraam, </language><dot color="black"/><language value="ro">că ale lu[i] Dumnezeu ținutele pămîntului foarte rădicară-se. </language></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro">Giudecii oamerilo<i>r</i> adurară-se cu Dzeu<i>l</i>lu Avraamu,  </language><dot color="red"/><language value="ro">că ale Dzeu<i>l</i>[u]i țirutele pămî<i>n</i>tului foarrte rrădicară-se. </language><dot color="red"/><language value="ro">/148 </language></variant>
+<variant sigle="PH"><language value="ro">Giudeațele omenrești adunra-se cu Dumnedzeu a lu Avraam, că e a lui D[u]mn[e]dzeu țintuții pămîntu<i>l</i>[u]i, vîrtos înră[l]țară-se. </language></variant>
+<variant sigle="PG"><language value="lat">9. Principes populorum congregati sunt cum deo abraam: quoniam dij fortes terrae vehementer eleuati sunt. </language></variant>
+<variant sigle="PR"><language value="lat">9. Principes populi conuenerunt cum deo abraam: quoniam dij fortes terrae nimium eleuati sunt. </language></variant>
+</verse>
+</psalm>

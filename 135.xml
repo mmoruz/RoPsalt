@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="psaltiri.css"?>
+<psalm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="roPsalt.xsd" id="135">
+<titles><title sigle="CP1" ><language value="sla">а̑ллилоуїа</language>. 135</title>
+<title sigle="CP1" ><language value="sla">а̑ллилоуїа</language>. 135</title>
+<title sigle="CP2" >Alliluia. 135</title>
+<title sigle="CP" ><red>Alliluia. • 135</red>} /156v</title>
+<title sigle="PC" ><red>Alliluia. 135</red><note> Scris inițial și tăiat: <language value="sla">рк</language>.</note></title>
+<title sigle="PS" ><red>Alliluia. 135</red><note> Urmează semnul „:”, scris cu roșu.</note></title>
+<title sigle="PH" ><red>Lăudă<i>m</i> Domnul. 135</red></title>
+<title sigle="PV" ><language value="sla"><red>а̑лиⷧ҇ѵ́</red></language><red>. 135</red><note> Scris marginal: <language value="sla">а̑лиⷧ҇ѵ́ </language>135.</note></title>
+<title sigle="PG" ><red>HALELVIA. CXXXV</red></title>
+<title sigle="PR" ><red>HALELVIA. CXXXV</red></title>
+</titles><verse id="1">
+<variant sigle="CP1"><language value="sla">Испоаѣ́даитесѧ г҃ви ꙗ̑ко бл҃гь, ꙗ̑ко въ вѣ́кы млⷭ҇ть е̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Ispovediți-vă Domnului, că dulce e, că în veacu e milostea lui. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Ispovediți-vă Domnului, că dulce e, că în veacu e m[i]l[o]<i>s</i>tea sa! </language></variant>
+<variant sigle="CP"><language value="ro"><red>•</red> Ispovediți-vă Domnului, că dulce e, că în veacu e milostea lui! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Ispovediți-vă Do<i>m</i>nului, că du<i>l</i>ce e, că în veacu e milostea lui! </language></variant>
+<variant sigle="PS"><language value="ro"><red>I</red>spoveadiți-vă D[om]nului, că dulce e, că în veacu e meserearea lui! </language></variant>
+<variant sigle="PH"><language value="ro"><red>I</red>spovediţi-vă Domnului că e bunru, că în veaci e mila a lui. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>I</red>spovediți-vă D[o]mnu<i>l</i>[u]i, că du<i>l</i>ce e, </language><page pageID="38v"/><language value="ro"> că în veacu e meserearea lui. </language></variant>
+<variant sigle="PG"><language value="lat">1. Confitemini domino quoniam bonus: quoniam in aeternum misericordia eius. </language></variant>
+<variant sigle="PR"><language value="lat">1. Confitemini domino quoniam bonus: quoniam in saeculum misericordia eius. </language></variant>
+</verse>
+<verse id="2">
+<variant sigle="CP1"><language value="sla">исповѣ́даитесѧ боу бгѡⷨ ꙗ̑ко въ вѣ́кы млⷭ҇ть е̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Ispovediți-vă Zeului dumnezeilor, că în veacu e milostea lui. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Ispovediți-vă Zeului dumnezeilo<i>r</i>, că în veacu e m[i]l[o]<i>s</i>tea sa! </language></variant>
+<variant sigle="CP"><language value="ro">• Ispovediți-vă Zeului dumnezeilo<i>r</i>, că în veacu e milostea lui! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> </language><page pageID="154v"/><language value="ro"> Ispovediți-vă <note><language value="ro"> Scris ulterior deasura rândului: -<i>vă</i>. </language></note> Domnului dumnedzeilo<i>r</i>, că în veacu e milostea lui! </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Ispoveadiți-vă <note><language value="ro"> Secvența <i>-ți-</i> este scrisă deasupra rîndului. </language></note> Dzeului </language><page pageID="442"/><language value="ro"> dumnedzeiloru, <red>•</red> că în veacu e meserearea lui! </language></variant>
+<variant sigle="PH"><language value="ro">Ispovediţi-vă Domnedze[ul]ui dum[ne]dzeilor, că e în veaci domnia lui. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>I</red>spovediți-vă D[o]mnu<i>l</i>[u]i d[u]mnedzeilo<i>r</i>, că în veacu e meserearea lui. </language></variant>
+<variant sigle="PG"><language value="lat">2. Confitemini deo deorum: quoniam in aeternum misericordia eius. </language></variant>
+<variant sigle="PR"><language value="lat">2. Confitemini deo deorum: quoniam in saeculum misericordia eius. </language></variant>
+</verse>
+<verse id="3">
+<variant sigle="CP1"><language value="sla">исповѣ́даитесѧ г҃ви гм҃ь, ꙗ̑ко въ вѣ́кы млⷭ҇ть е̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Ispovediți-vă Domnului domnilor, că în veacu e milostea lui. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Ispovediți-vă Domnului domnilo<i>r</i>, că în veacu e m[i]l[o]<i>s</i>tea sa! </language><language value="sla">··</language> <language value="ro"></language><page pageID="276r"/><language value="ro"> </language></variant>
+<variant sigle="CP"><language value="ro">• Ispovediți-vă Domnului domnilo<i>r</i>, că în veacu e milostea lui! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Ispovediți-vă Domnului do<i>m</i>nilo<i>r</i>, că în veacu e milostea lui! </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Ispoveadiți-vă D[om]nului d[om]nilor, că în veacu e meserearea lui! </language></variant>
+<variant sigle="PH"><language value="ro">Spunreţi-vă Domnului dumnedzeilor, că în veaci e domnia lui. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>I</red>spovediți-vă D[om]nu<i>l</i>[u]i d[om]nilo<i>r</i>, că în veacu e meserearea <note><language value="ro"> Scris:  </language><language value="sla">месерѧ</language><language value="ro">. </language></note> lui. </language></variant>
+<variant sigle="PG"><language value="lat">3. Confitemini domino dominorum: quoniam in aeternum misericordia eius. </language></variant>
+<variant sigle="PR"><language value="lat">3. Confitemini domino dominorum: quoniam in saeculum misericordia eius. </language></variant>
+</verse>
+<verse id="4">
+<variant sigle="CP1"><language value="sla">сътво́ршемꙋ чюдеса̀ ве́лїа е̑диномꙋ, ꙗ̑ко въ вѣ́кы млⷭ҇ть е̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Cel ce feace ciude mari unul, că în veacu e milostea lui. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Celui ce feace ciudese mari unul, că în veacu e milostea sa! </language></variant>
+<variant sigle="CP"><language value="ro">• Cel ce feace ciude mari unul, că în veacu e milostea lui! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Ce<i>l</i> ce feace ciude mari unu<i>l</i>, că în veacu e milostea lui! </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Cel ce feace ciudele mari unu<i>l</i>, <red>•</red> că în veacu e me<i>s</i>[e]rearea lui! </language></variant>
+<variant sigle="PH"><language value="ro">Făcătoriului ciudelor mari singur, că în veaci e mila lui. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>C</red>e<i>l</i> ce feace ciude mari uru<i>l</i>, că în veacu e meserearea lui. </language></variant>
+<variant sigle="PG"><language value="lat">4. Qui facit mirabilia magna solus: quoniam in aeternum misericordia eius. </language></variant>
+<variant sigle="PR"><language value="lat">4. Qui facit mirabilia magna solus: quoniam in saeculum misericordia eius. </language></variant>
+</verse>
+<verse id="5">
+<variant sigle="CP1"><language value="sla">сътво́ршемꙋ нб҃са разꙋмѡⷨ, ꙗ̑ко въ вѣ́кы млⷭ҇ть е̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Ce feace ceriul cu înțeleagere, că în veacu <note><language value="ro"> Scris:  </language><language value="sla">вѣѣ́кꙋ</language><language value="ro">. </language></note> e milostea lui. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Celui ce feace ceriul cu înțeleagere, că în veacu e milostea sa! </language></variant>
+<variant sigle="CP"><language value="ro">• Ce feace ceriul cu înțeleagere, că în veacu e milostea lui! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> <red>C</red>e feace ceriu<i>l </i>cu înțeleagere, că în veacu e milostea lui! </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Feace ceru<i>l</i> cu înțelegere, că în veacu e me<i>s</i>[e]rearea lui! </language></variant>
+<variant sigle="PH"><language value="ro">Celui ce feace ceriul cu mintea, că e în veaci mila lui. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>C</red>ela ce feace ceriu<i>l</i> cu-<i>n</i>țelepciuri, că în veacu e meserearea lui. </language></variant>
+<variant sigle="PG"><language value="lat">5. Qui fecit coelos in intellectu: quoniam in aeternum misericordia eius. </language></variant>
+<variant sigle="PR"><language value="lat">5. Qui fecit coelos in intellectu: quoniam in saeculum misericordia eius. </language></variant>
+</verse>
+<verse id="6">
+<variant sigle="CP1"><language value="sla">оутвръждвшомꙋ зе́млѧ на во́дохь, ꙗ̑ко въ вѣ́кы млⷭ҇ть е̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Cel ce </language><page pageID="260v"/><language value="ro"> întări pămîntul pre apă, că în veacu e milostea lui. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Cel ce întări pămîntu<i>l </i>pre apă, că în veacu e m[i]l[o]<i>s</i>tea sa! </language></variant>
+<variant sigle="CP"><language value="ro">• Cel ce întări pămîntul pre apă, că în veacu e milostea lui! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Ce<i>l </i>ce întări pămî<i>n</i>tu<i>l</i> pre apă, că în veacu e milostea lui! </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Învîrtoșe pămîntu<i>l</i> spre ape, că în veacu e meserearea lui! </language></variant>
+<variant sigle="PH"><language value="ro">Cel ce întări pămîntu<i>l</i> pre apă, că e în veaci mila lui. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>C</red>ela ce învîrtoșe pămîntu<i>l</i> spre ape, că în veacu e meserearea lui. </language></variant>
+<variant sigle="PG"><language value="lat">6. Qui firmauit terram super aquas: quoniam in aeternum misericordia eius. </language></variant>
+<variant sigle="PR"><language value="lat">6. Qui fundauit terram super aquas: quoniam in saeculum misericordia eius. </language></variant>
+</verse>
+<verse id="7">
+<variant sigle="CP1"><language value="sla">сътво́ршемꙋ свѣ́тила́ велїа е̑ди́номꙋ, ꙗ̑ко въ вѣкы млⷭ҇ть е̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Ce feace lumină mare unul, că în veacu e m[i]l[o]<i>s</i>tea lui. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Celui ce feace lumină mare unuia, că în veacu e m[i]l[os]tea sa! </language></variant>
+<variant sigle="CP"><language value="ro">• Ce feace lumină mare unul, că în veacu e milostea lui! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Ce feace lumină mare u_ 155r nu<i>l</i>, că în veacu e milostea lui! </language></variant>
+<variant sigle="PS"><language value="ro">• Ce<i>l</i> ce feace lumină mare unu<i>l</i>, că în veacu e meserearea lui! </language></variant>
+<variant sigle="PH"><language value="ro">Cel ce feace luminra cea mare însuşi, că în veaci e mila lui. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>C</red>ela ce feace lumi<i>r</i>[ă] mare uru<i>l</i>, că în veacu e meserearea lui. </language></variant>
+<variant sigle="PG"><language value="lat">7. Qui fecit luminaria magna: quoniam in aeternum misericordia eius. </language></variant>
+<variant sigle="PR"><language value="lat">7. Qui fecit luminaria magna solul: quoniam in saeculum misericordia eius. </language></variant>
+</verse>
+<verse id="8">
+<variant sigle="CP1"><language value="sla">сл҃нце въ ѡбла́сть дн҃и, ꙗ̑ко въ вѣ́кы млⷭ҇ть е̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Soarele, în despusul zioei, că în veacu e m[i]l[o]<i>s</i>tea lui. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Soarele, în despusul zio ei, că în veacu e m[i]l[o]<i>s</i>tea sa! </language></variant>
+<variant sigle="CP"><language value="ro">• Soarele, în despusul zioei, că în veacu e milostea lui! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> <red>S</red>oarele, despusu<i>l</i> dzioei, că în veacu e milostea lui! </language></variant>
+<variant sigle="PS"><language value="ro">• Soarele, în despusu<i>l</i> dzileei, • că în veacu e me<i>s</i>[e]rearea lui! </language></variant>
+<variant sigle="PH"><language value="ro">Soarele în putearea dzileei, că în veaci e mila lui. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>S</red>oarele, în despusu<i>l</i> dzileei, că în veacu e meserearea lui. </language></variant>
+<variant sigle="PG"><language value="lat">8. Solem in potestatem diei: quoniam in aeternum misericordia eius. </language></variant>
+<variant sigle="PR"><language value="lat">8. Solem in potestatem diei: quoniam in saeculum misericordia eius. </language></variant>
+</verse>
+<verse id="9">
+<variant sigle="CP1"><language value="sla">лꙋнѫ и ѕвѣ́зды въ ѡ́бласть но́щи, ꙗ̑ко въ вѣкы млⷭ҇ть е̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Luna și stealele în despusul nopției, că în veacu e milostea lui. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Luna și stealele în despusu<i>l</i> nopției, </language><page pageID="276v"/><language value="ro"> că în veacu e m[i]l[o]<i>s</i>tea sa! </language></variant>
+<variant sigle="CP"><language value="ro">• Luna și stealele în despusul nopției, că în veacu e milostea lui! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> <red>L</red>una și stealele în despusul nopției, că în veacu e m[i]l[o]<i>s</i>tea lui! </language></variant>
+<variant sigle="PS"><language value="ro">• Luna și stealele în despusu<i>l</i> nopției, <red>•</red> că în veacu e </language><page pageID="443"/><language value="ro"> meserearea lui! </language></variant>
+<variant sigle="PH"><language value="ro">Lunra şi stealele în putearea nopţiei, că în veaci e mila lui. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>L</red>ura și stealele, în despusu<i>l</i> nopției, că în veacu e meserearea lui. </language><page pageID="39r"/><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">9. Lunam et stellas in potestatem noctis: quoniam in aeternum misericordia eius. </language></variant>
+<variant sigle="PR"><language value="lat">9. Lunam et stellas in potestatem noctis: quoniam in saeculum misericordia eius. </language></variant>
+</verse>
+<verse id="10">
+<variant sigle="CP1"><language value="sla">поражшомꙋ е̑гӱпта съ пръвѣнци иⷯ, ꙗ̑ко вв҃ѣкы млⷭ҇ть е̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Cel ce vatămă Eghipetul cu întîi născutele lui, că în veacu e milostea lui. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Cel ce vatămă Eghipetul cu întîi născuții săi, că în veacu e milostea lui! </language></variant>
+<variant sigle="CP"><language value="ro">• Cel ce vatămă Eghi_ </language><page pageID="157r"/><language value="ro"> petul cu întîi născutele lui, • că în veacu e milostea lui! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Ce<i>l </i>ce vătămă Eghípetu<i>l</i> cu întîii născutele lui, că în veacu e m[i]l[o]<i>s</i>tea lui! </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Ce<i>l</i> ce vătămă Eghipetu<i>l</i> cu întîniele născutele lui, că în veacu e meserearea lui! </language></variant>
+<variant sigle="PH"><language value="ro">Celui ce pierdu Ieghiptu<i>l</i> cu întîni[i] lui, că e în veaci domnia lui. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">10. Qui percussit aegyptum cum primogenitis eorum: quoniam in aeternum misericordia eius. </language></variant>
+<variant sigle="PR"><language value="lat">10. Qui percussit aegyptum cum primitius eorum: quoniam in saeculum misericordia eius. </language></variant>
+</verse>
+<verse id="11">
+<variant sigle="CP1"><language value="sla">и҆зведшомꙋ и҆зраи́лѣ ѿ срѣдныиⷯ, ꙗ̑ко вв҃ѣкы млⷭ҇ть е̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Ce scoase izrailii de mijloc de ei, că în veacu e milostea lui. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Celui ce scoase izrailii de mijloc de ei, că în veacu e milostea sa! </language></variant>
+<variant sigle="CP"><language value="ro">• Ce scoase izrailii de mijloc de ei, că în veacu e milostea lui! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Ce scoase izrailii de mijlo<i>c </i>de ei, că în veacu e milostea lui! </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Ce<i>l</i> ce feace izrailii din <note><language value="ro"> Scris:  </language><language value="sla">дїꙟ</language><language value="ro">. </language></note> mijloc de ei, • că în veacu e meserearea lui! </language></variant>
+<variant sigle="PH"><language value="ro">[...] </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">11. Qui eduxit israel de medio eorum: quoniam in aeternum misericordia eius. </language></variant>
+<variant sigle="PR"><language value="lat">11. Et eduxit israel de medio eius: quoniam in saeculum misericordia eius. </language></variant>
+</verse>
+<verse id="12">
+<variant sigle="CP1"><language value="sla">рѫкоѫ крѣпкою и҆ мышцеѫ вы́сокоѫ, ꙗ̑кѡ</language><language value="sla"> </language><page pageID="261r"/><language value="sla">  </language><language value="sla">вв҃кы ми́лость е̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Cu mînă tare și braț înalt, că în veacu e milostea lui. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Cu mînă tare și braț înalt, că în veacu e m[i]l[o]<i>s</i>tea sa! </language></variant>
+<variant sigle="CP"><language value="ro">• Cu mînă tare și braț înalt, că în veacu e milostea lui! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Cu mînă tare și braț îna<i>l</i>t, că în veacu e milostea lui! </language></variant>
+<variant sigle="PS"><language value="ro">• Cu mînă tare și brațu înaltu, că în veacu e me<i>s</i>[e]rearea lui! </language></variant>
+<variant sigle="PH"><language value="ro">Cu mînra lui cea tare, că e în veaci mila lui, şi cu braţul celu înraltu, că </language><page pageID="116r"/><language value="ro"> e în veaci mila lui. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">12. In manu potenti et brachio excelso: quoniam in aeternum misericordia eius. </language></variant>
+<variant sigle="PR"><language value="lat">12. In manu forti et brachio excelso: quoniam in saeculum misericordia eius. </language></variant>
+</verse>
+<verse id="13">
+<variant sigle="CP1"><language value="sla">разѣ́лшомꙋ чръвное мо́ре въ раздѣленїе ꙗ̑ко вв҃ѣкы млⷭ҇ть е̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Cel ce împărți Marea Mohorîtă împărțire, că în veacu e milostea lui. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Cel ce împărți Marea Mohorîtă întru împărțire, că în veacu e m[i]l[o]<i>s</i>tea sa, </language></variant>
+<variant sigle="CP"><language value="ro">• Cel ce împărți Marea Mohorîtă împărțire, că în veacu e milostea lui! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> </language><page pageID="155v"/><language value="ro"> Cela ce împărți Marea Mohorîtă împărțire, că în veacu e milostea lui! </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Ce<i>l</i> ce împărți Marea Mohorită împărțire, că în veacu e meserearea lui, </language></variant>
+<variant sigle="PH"><language value="ro">Celui ce au împă[r]ţit Marea Neagră într-[îm]be parţile, că e veaci mila lui. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">13. Qui diuisit mare rubrum in diuisiones: quoniam in aeternum misericordia eius. </language></variant>
+<variant sigle="PR"><language value="lat">13. Qui diuisit mare rubrum in diuisiones: quoniam in saeculum misericordia eius. </language></variant>
+</verse>
+<verse id="14">
+<variant sigle="CP1"><language value="sla">и҆ проведшомꙋ їил҃ѣ посрѣ́дѣ е̑го ꙗко въ вѣкы ми́лость е̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Și trecu izrailii pre mijloc de ea, că în veacu e milostea lui. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Și cel ce trecu izrailii pre mijloc den ea, că în vea_ </language><page pageID="277r"/><language value="ro"> cu e milostea lui! </language></variant>
+<variant sigle="CP"><language value="ro">• Și trecu izrailii pre mijloc de ea, că în veacu e milostea lui! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> <red>Ș</red>i trecu izrailii pre mijlo<i>c</i> de ea, că în veacu e milostea lui! </language></variant>
+<variant sigle="PS"><language value="ro">• Și trecu isr[ail]ii pre mijlo<i>c</i> de ea, că în vea<i>c</i>[u]! </language></variant>
+<variant sigle="PH"><language value="ro">Şi acelui ce a dus Israili[i] pre mijloc de ea, că în veaci e mila lui. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">14. Et eduxit israel per medium eius: quoniam in aeternum misericordia eius. </language></variant>
+<variant sigle="PR"><language value="lat">14. Et eduxit israel per medium eius: quoniam in saeculum misericordia eius. </language></variant>
+</verse>
+<verse id="15">
+<variant sigle="CP1"><language value="sla">и стрѧсшомоу фараѡна и҆ си́лѫ е̑го въ мѡ́ре чръмное, ꙗ̑ко въ вѣкы ми́лость е̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Cel ce scutură Faraon și sila lui în Marea Mohorîtă, că în veacu e milostea lui. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Și sfărîmi pre Faraon sila lui în Marea Mohorîtă, că în veacu e m[i]l[o]<i>s</i>tea sa! </language></variant>
+<variant sigle="CP"><language value="ro">• Cel ce scutură Faraon și sila lui în Marea Mohorîtă, că în veacu e milostea lui! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> <red>C</red>ela ce scutură farao<i>n</i> și sila lu<i>i</i> în Marea Mohorîtă, că în veacu e milostea lui! </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Scutură Faráo<i>n</i> și sila lui în Marea Mohorită, că în veacu e me<i>s</i>[erearea]! </language></variant>
+<variant sigle="PH"><language value="ro">Celui ce au scutura<i>t</i> Faraon şi sila lui în Marea Neagră, că e în veaci mila lui. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">15. Et excussit pharaonem et virtutem eius in mari rubro: quoniam in aeternum misericordia eius. </language></variant>
+<variant sigle="PR"><language value="lat">15. Et excussit pharaonem et exercitum eius in mare rubrum: quoniam in saeculum misericordia eius. </language></variant>
+</verse>
+<verse id="16">
+<variant sigle="CP1"><language value="sla">и҆ прове́дшѡмоу люди свѡ́ѧ въ поу́сты́нѧ, ꙗ̑ко въ вѣ́кы ми́лость е̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Și trecu oamenii săi în pustie, că în veacu e milostea lui. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Și trecu oamenii săi în pustie, că în veacu e m[i]l[o]<i>s</i>tea sa! </language></variant>
+<variant sigle="CP"><language value="ro">• Și trecu oamenii săi în pustie, că în veacu e milostea lui! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Și trecu oamenii săi în pustie, că în veacu e milostea lui </language></variant>
+<variant sigle="PS"><language value="ro">• Și trecu oaminii săi în pu_ </language><page pageID="444"/><language value="ro"> stie, că în veacu e! </language></variant>
+<variant sigle="PH"><language value="ro">Cel ce purtă oamenrii săi în pustinie, că e veaci mila lui. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">16. Qui traduxit populum suum per desertum: quoniam in aeternum misericordia eius. </language></variant>
+<variant sigle="PR"><language value="lat">16. Qui transduxit populum suum per desertum: quoniam in saeculum misericordia eius. </language></variant>
+</verse>
+<verse id="17">
+<variant sigle="CP1"><language value="sla">поразшомꙋ цр҃ѧ велїа,</language><language value="sla">  </language><language value="sla">ꙗ̑ко въ вѣ́кы ми́лость е̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Cel ce vătămă împărați mari, </language><page pageID="261v"/><language value="ro"> că în veacu e m[i]l[o]<i>s</i>tea lui. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Și cel ce vătămă împărați mari, că în veacu e m[i]l[o]<i>s</i>tea sa! </language></variant>
+<variant sigle="CP"><language value="ro">• Cel ce vătămă împărați mari, că în veacu e milostea lui! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Ce<i>l</i> ce vătămă împărați mari, că în veacu e m[i]l[o]<i>s</i>tea lui! </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Vătămă împărați mari, că în veacu! </language></variant>
+<variant sigle="PH"><language value="ro">Celui ce pierdu împăratu<i>l</i> cel mare, că în veaci e mila lui. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">17. Qui percussit reges magnos: quoniam in aeternum misericordia eius. </language></variant>
+<variant sigle="PR"><language value="lat">17. Qui percussit reges magnos: quoniam in saeculum misericordia eius. </language></variant>
+</verse>
+<verse id="18">
+<variant sigle="CP1"><language value="sla">и̑ оуби́вшѡмꙋ цр҃ѧ крѣ́пкы, ꙗко въ вѣ́кы млⷭ҇ть е̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Cel ce ucise împărați mari, că în veacu e milostea lui. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Și cel ce ucise împărați tari, că în veacu e milostea sa! </language></variant>
+<variant sigle="CP"><language value="ro">• Cel ce ucise împărați tari, că în veacu e milostea lui! • </language><page pageID="157v"/><language value="ro"> </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Ce<i>l </i>ce ucise împărații </language><page pageID="156r"/><language value="ro"> mari, că în veacu e milostea lui! </language></variant>
+<variant sigle="PS"><language value="ro">• Cel ce ucise împărați tari, că în vea<i>c</i>[u]! </language></variant>
+<variant sigle="PH"><language value="ro">Şi celu[i] ce ucisă împăratu<i>l</i> tare, că în veaci e mila lui. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">18. Et occidit reges fortes: quoniam in aeternum misericordia eius. </language></variant>
+<variant sigle="PR"><language value="lat">18. Et occidit reges mirabiles: quoniam in saeculum misericordia eius. </language></variant>
+</verse>
+<verse id="19">
+<variant sigle="CP1"><language value="sla">сїѡна цр҃ѣ а҆мѡре́иска, ꙗ҆ко въ вѣ́кы млⷭ҇ть е̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Sionu, împăratul Amoriei, că în veacu e m[i]l[o]<i>s</i>tea lui. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Sionu, împă_ </language><page pageID="277v"/><language value="ro"> ratul Amoriei, că în veacu e m[i]l[o]<i>s</i>tea sa! </language></variant>
+<variant sigle="CP"><language value="ro">Sionu, împăratul  </language><language value="ro">Amoriei, • că în veacu e milostea lui! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Sionu, împăratu<i>l</i> Amóriei <note><language value="ro"> Scris iniţial - </language><language value="sla">ре</language><language value="ro">-, apoi corectat: - </language><language value="sla">рї</language><language value="ro">-. </language></note>, că în veacu e milostea lui! </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Sionu<i>l</i>, împăratu<i>l</i> Amuriei, că în veacu e me<i>s</i>[e]rea[rea]! </language></variant>
+<variant sigle="PH"><language value="ro">Sionulu, împăratu<i>l</i> Amoreiului, că în veaci e mila lui. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">19. Seon regem amorraeorum: quoniam in aeternum misericordia eius. </language></variant>
+<variant sigle="PR"><language value="lat">19. Seon regem amorraeorum: quoniam in saeculum misericordia eius. </language></variant>
+</verse>
+<verse id="20">
+<variant sigle="CP1"><language value="sla">і҆ ѡга цр҃ѣ васанска, ꙗ҆ко въ вѣкы млⷭ҇ть е̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> I Oga, împăratul Vasanului, că în veacu e milostea lui. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Și Ioga, împăratul Vasanului, că în veacu e m[i]l[o]<i>s</i>tea sa! </language></variant>
+<variant sigle="CP"><language value="ro">• I Oga, împăratul Vasanului, că în veacu e milostea lui! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> I <note><language value="ro"> Cf. sl.  </language><language value="sla">І</language><language value="ro">. </language></note> Oga, împăratu<i>l </i>Vasanului, că în veacu e milostea lui! </language></variant>
+<variant sigle="PS"><language value="ro">• I Oga, împăratu<i>l</i> Vasánului, că în veacu e me<i>s</i>[erearea]! </language></variant>
+<variant sigle="PH"><language value="sla">И</language><language value="ro"> <note><language value="ro"> În slavonă în text: <i>şi</i>. </language></note>  </language><language value="sla">Ѡга</language><language value="ro"> <note><language value="ro"> În slavonă în text: <i>al lui Og</i>. </language></note>, împăratu<i>l</i> Vaseiului, că în veaci mila lui. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">20. Et og regem basan: quoniam in aeternum misericordia eius. </language></variant>
+<variant sigle="PR"><language value="lat">20. Et og regem basan: quoniam in saeculum misericordia eius. </language></variant>
+</verse>
+<verse id="21">
+<variant sigle="CP1"><language value="sla">и давшомꙋ зе́млѧ ихь достоа҆нїе, ꙗ̑ко вв҃кы млⷭ҇ть е̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Și deade pămîntul lor în ocină, că în veacu e m[i]l[o]<i>s</i>tea lui. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Și deade pămîntu<i>l </i>lo<i>r</i> parte, că în veacu e m[i]l[o]<i>s</i>tea sa! </language></variant>
+<variant sigle="CP"><language value="ro">• Și deade pămîntul lo<i>r</i> în ocină, că în veacu e milostea lui! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Și deade pămî<i>n</i>tu<i>l</i> lo<i>r</i> în ocină, că în veacu e milostea lui! </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Și deade pămîntu<i>l</i> lo<i>r</i> în ocină, că ia<i>r</i>! </language></variant>
+<variant sigle="PH"><language value="ro">Celui ce-au dat pămîntu<i>l</i> lor parte, că în veaci e mila lui. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">21. Et dedit terram eorum haereditatem: quoniam in aeternum misericordia eius. </language></variant>
+<variant sigle="PR"><language value="lat">21. Et dedit terram eorum haereditatem: quoniam in saeculum misericordia eius. </language></variant>
+</verse>
+<verse id="22">
+<variant sigle="CP1"><language value="sla">достоа́нїе і҆и́л҃ю ра́бу свое̑му, ꙗ̑ко въ вѣкы млⷭ҇ть е̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> În ocină lu Israil, șerbului său, că în veacu e milostea lui. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> În ocină lu I[sra]il, șerbului său, că în veacu e m[i]l[o]<i>s</i>tea sa! </language></variant>
+<variant sigle="CP"><language value="ro">• În ocină lu Izrail, șerbului său, că în veacu e milostea lui! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> <red>În</red> ocină lu Izrai<i>l</i>, șerbului său, că în veacu e m[i]l[o]<i>s</i>tea lui! </language></variant>
+<variant sigle="PS"><language value="ro">În ocină lu Is[rai]l, șerbului său, că în vea<i>c</i>[u]! </language></variant>
+<variant sigle="PH"><language value="ro">Partea lu Isril, şerbului său, că e în veaci mila lui. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">22. Haereditatem israel seruo suo: quoniam in aeternum misericordia eius. </language></variant>
+<variant sigle="PR"><language value="lat">22. Haereditatem israel seruo suo: quoniam in saeculum misericordia eius. </language></variant>
+</verse>
+<verse id="23">
+<variant sigle="CP1"><language value="sla">ꙗко въ смѣре́ни нашеⷨ помѣ́нѫ ны г҃ь, ꙗ̑ко вв҃ѣкы млⷭ҇ть е̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Că în smerenia noastră pomeni-ne Domnul, că în veacu e milostea lui. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Că în smerenia noastră pomeani-ne Do<i>m</i>nu<i>l</i>, că în veacu e m[i]l[o]<i>s</i>tea sa! </language></variant>
+<variant sigle="CP"><language value="ro">• Că în smerenia noastră pomeni-ne Domnul, că în veacu e milostea lui! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Că în smerenia noastră pomeni-ne Domnu<i>l</i>, că în veacu e milostea lui! </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Că în smerenia noastră pomeni-nă D[om]nu<i>l</i>, că în veacu! </language></variant>
+<variant sigle="PH"><language value="ro">Că în smerenia noastră pomeni-ne Domnulu, că în veaci e mila lui. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">23. Quia in humilitate nostra memor fuit nostri: quoniam in aeternum misericordia eius. </language></variant>
+<variant sigle="PR"><language value="lat">23. Quia in humilitate nostra memor fuit nostri dominus: quoniam in saeculum misericordia eius. </language></variant>
+</verse>
+<verse id="24">
+<variant sigle="CP1"><language value="sla">и҆ избавил ны</language><language value="sla"> </language><page pageID="262r"/><language value="sla">  </language><language value="sla">е̑сть ѿ вра́гь на́шиⷯ, ꙗ̑ко въ вѣкы млⷭ҇ть е̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Izbăvitu-ne-au de vrăjmașii noștri, că în veacu e m[i]l[o]<i>s</i>tea lui. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Izbăvitu-ne-au de vrăjmașii noștri, că în veacu e m[i]l[o]<i>s</i>tea sa! </language></variant>
+<variant sigle="CP"><language value="ro">• Izbăvitu-ne-au de vrăjmașii noștri, că în veacu e milostea lui! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> <red>I</red>zbăvitu-ne-au de vrăjmașii noștri, că în veacu e m[i]l[o]<i>s</i>tea lui! </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Izbăvitu-n-au de drracii noștrii, că în veacu e me<i>s</i>[e]rearea lui! </language></variant>
+<variant sigle="PH"><language value="ro">Izbăvitu-ne-au de vrăjmaşi[i] noştri, că în veaci e mila lui. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">24. Et redemit nos ab inimicis nostris: quoniam in aeternum misericordia eius. </language></variant>
+<variant sigle="PR"><language value="lat">24. Et redemit nos de manu inimicorum nostrorum: quoniam in saeculum misericordia eius. </language></variant>
+</verse>
+<verse id="25">
+<variant sigle="CP1"><language value="sla">да́ѫи пи́щѫ въсѣ́ко и плъти</language><language value="sla">, </language><language value="sla"> ꙗ̑ко въ вѣ́кы млⷭ҇ть е̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Cel ce deade mîncare a toată pelița, că în veacu e m[i]l[o]<i>s</i>tea lui. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Cel ce deade mîn_ </language><page pageID="278r"/><language value="ro"> care a toate trupurile, că în veacu e m[i]l[o]<i>s</i>tea sa! </language></variant>
+<variant sigle="CP"><language value="ro">• Cel ce deade mîncare a toată pelița, că în veacu e milostea lui! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> </language><page pageID="156v"/><language value="ro"> Ce<i>l</i> ce deade mî<i>n</i>care a toată pelíța, că în veacu e m[i]l[o]<i>s</i>tea lui! </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Deade mîncare a toată pelița, că în veacu e meserearea! </language></variant>
+<variant sigle="PH"><language value="ro">Dat-au hrană a toată peliţa, că e în veaci mila lui. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">25. Qui dat escam omni carni: quoniam in aeternum misericordia eius. </language></variant>
+<variant sigle="PR"><language value="lat">25. Qui dat escam omni carni: quoniam in saeculum misericordia eius. </language></variant>
+</verse>
+<verse id="26">
+<variant sigle="CP1"><language value="sla">исповѣдаи́тесѧ б҃ꙋ нбⷭ҇нѡ́мꙋ, ꙗ̑ко въ вв҃кы млⷭ҇ть е̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Ispovediți-vă Zeului den ceriu, că în veacu e m[i]l[o]<i>s</i>tea lui. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Ispovediți-vă Zeului ceriului, că în veacu e m[i]l[o]<i>s</i>tea sa! </language></variant>
+<variant sigle="CP"><language value="ro">• Ispovediți-vă Zeului den ceriu, că dulce că în veacu e milostea lui! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Ispovediți-vă Dumnedzeului den ceriu, că du<i>l</i>ce e, că în veacu e m[i]l[o]<i>s</i>tea lui! </language></variant>
+<variant sigle="PS"><language value="ro">• </language><page pageID="445"/><language value="ro"> Ispoveadiți-vă D[umne]dzeului din <note><language value="ro"> Scris:  </language><language value="sla">дїꙟ</language><language value="ro">. </language></note> ceriu, că dulce e, că în veacu mes[erearea]! </language></variant>
+<variant sigle="PH"><language value="ro">Ispovediţi-vă Dumnedzeulu[i] ceriului, că e în veaci mila lui. </language></variant>
+<variant sigle="PV"><language value="ro">[...] <note><language value="ro"> Fragment lipsă. </language></note></language></variant>
+<variant sigle="PG"><language value="lat">26. Confitemini deo coeli: quoniam in aeternum misericordia eius. </language></variant>
+<variant sigle="PR"><language value="lat">26. Confitemini deo coeli: quoniam in saeculum misericordia eius. 27. Confitemini domino dominorum quoniam bonus: quoniam in saeculum misericordia eius. </language></variant>
+</verse>
+<verse id="27">
+<variant sigle="PG"><language value="lat">27. Confitemini domino dominorum: quoniam in aeternum misericordia eius. </language></variant>
+</verse>
+</psalm>

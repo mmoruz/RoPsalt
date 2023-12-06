@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="psaltiri.css"?>
+<psalm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="roPsalt.xsd" id="116">
+<titles><title sigle="CP1" ><language value="sla">а̑ллилꙋїа</language>. 116</title>
+<title sigle="CP1" ><language value="sla">а̑ллилꙋїа</language>. 116</title>
+<title sigle="CP2" >Alliluia. 116} /239r</title>
+<title sigle="CP" ><red>Alliluia • 116</red></title>
+<title sigle="PC" ><red>Al<i>l</i>iluia</red><note> Scris în josul paginii: Al<i>l</i>iluia.</note> <red>116</red></title>
+<title sigle="PS" ><red>Alli<i>l</i>[u]ia. 116</red></title>
+<title sigle="PH" ><red>Cîntec[u] lu 116</red></title>
+<title sigle="PV" ><red>116</red></title>
+<title sigle="PG" ><red>HALELVIA. CXVI</red></title>
+<title sigle="PR" ><red>HALELVIA. CXVI</red></title>
+</titles><verse id="1">
+<variant sigle="CP1"><language value="sla">Хвали́те г҃а въсѝ ѧзы́ци</language><language value="ro"> ++  </language><language value="sla">похва́лѝте е̑го въсѝ лю́дїи</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Lăudați Domnul toate limbile, </language><language value="sla">··</language> <language value="ro">prealăudați el toți oamenii. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Lăudați Domnul toate limbile, </language><language value="sla">··</language> <language value="ro">prealăudați-l toți oamenii. </language></variant>
+<variant sigle="CP"><language value="ro"><red>•</red> <red>L</red>ăudați Domnul toate limbile, • prealăudați el toți oamenii. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Lăuda<i>ț</i>[i] Domnu<i>l</i> toate li<i>m</i>bile, </language><language value="sla">··</language> <language value="ro">prealău_ </language><page pageID="123r"/><language value="ro"> dați el toți oamenii. </language></variant>
+<variant sigle="PS"><language value="ro"><red>L</red>ăudați D[om]nu<i>l</i> toate li<i>m</i>bile, prealăudați elu toți oaminii. </language></variant>
+<variant sigle="PH"><language value="ro"><red>L</red>ăudaţi Domnulu toate limbile, mai lăudaţi-lu toţi oamenrii. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>L</red>ăudați pre D[o]mnu<i>l</i> toate li<i>m</i>bili, </language><language value="sla">··</language> <language value="ro"><red>c</red>a<red> </red>lăudați însu<i>l</i> toți oamerii. </language></variant>
+<variant sigle="PG"><language value="lat">1. Laudate dominum omnes gentes: laudate eum omnes populi. </language></variant>
+<variant sigle="PR"><language value="lat">1. Laudate dominum omnes gentes: et collaudate eum omnes populi. </language></variant>
+</verse>
+<verse id="2">
+<variant sigle="CP1"><language value="sla">ꙗ̑ко оутвръди́сѧ млⷭ҇ть е̑го на нⷭ҇а</language><language value="ro"> ++  </language><language value="sla">и̑ исти́на гнⷭ҇ѣ прѣбы́вае̑ть въ вѣ́кы</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Că întări-se milostea lui spre noi </language><language value="sla">··</language> <language value="ro">și deadevărul Domnului lăcuiaște în veac. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Că întări-se milostea sa spre noi </language><language value="sla">··</language> <language value="ro">și deadevărul Domnului lăcuiaște în veac. </language></variant>
+<variant sigle="CP"><language value="ro">• Că întări-se milostea lui spre noi • și deadevărul Do<i>m</i>nului lăcuiaște în veac. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Că întări-se milóstea lui spre noi </language><language value="sla">··</language> <language value="ro">și deadevăru<i>l</i> Domnului lăcuiaște în vea<i>c</i>. </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Că învîrtoșe-<i>s</i>[e] mesererea lui spre noi și deadeavăru<i>l</i> D[om]nului lăcu_ </language><page pageID="387"/><language value="ro"> iaște în veacu <note><language value="ro"> Urmează semnul „:”, scris cu negru. </language></note>. </language></variant>
+<variant sigle="PH"><language value="ro">Că se învîrtoşe mila lui pre noi şi adevărul lui Dumnedzeu lăcui-va în veaci. </language><page pageID="101r"/><language value="ro"> </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>C</red>ă învîrtoșe-se meserearea lui spre noi </language><language value="sla">··</language> <language value="ro"><red>ș</red>i deadevăru<i>l</i> D[o]mnu<i>l</i>[u]i lăcuiaște <note><language value="ro"> Scris:  </language><language value="sla">лъкоуѫще</language><language value="ro">. </language></note> în veacu. </language></variant>
+<variant sigle="PG"><language value="lat">2. Quoniam confirmata est super nos misericordia eius: et veritas domini manet in aeternum. </language></variant>
+<variant sigle="PR"><language value="lat">2. Quoniam confirmata est super nos misericordia eius: et veritas domini manet in aeternum. </language></variant>
+</verse>
+</psalm>

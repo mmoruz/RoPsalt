@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="psaltiri.css"?>
+<psalm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="roPsalt.xsd" id="127">
+<titles><title sigle="CP1" ><language value="sla">пⷭ҇ѣ степенїи</language>. Cîntecele spițelor 127</title>
+<title sigle="CP1" ><language value="sla">пⷭ҇ѣ степенїи</language>. Cîntecele spițelor 127</title>
+<title sigle="CP2" ><language value="sla">пⷭ҇ѣ́ сте́пенїи</language>. Cîntecele spițelo<i>r</i> 127</title>
+<title sigle="CP" ><red>Cîntecele spițelor • 127</red>} /151v</title>
+<title sigle="PC" ><language value="sla"><red>пⷭ҇ѣ. степеⷩ҇</red></language><red>. 127</red></title>
+<title sigle="PS" ><red>C[în]tecele spițelor 127</red></title>
+<title sigle="PH" ><red>127</red></title>
+<title sigle="PV" ><language value="sla"><red>пⷭ҇ѣ́ стеⷫ҇ рк҃ꙁ</red></language><note> Scris marginal.</note><red>. Cînte<i>c</i>[e] ste<i>p</i>[eni]</red></title>
+<title sigle="PG" ><red>Canticum graduum. CXXVII</red></title>
+<title sigle="PR" ><red>Canticum graduum. CXXVII</red></title>
+</titles><verse id="1">
+<variant sigle="CP1"><language value="sla">Бл҃жени въсѝ боющеисѧ г҃а</language><language value="ro"> ++  </language><language value="sla">хо́дѧщеи въ пѫтехь е̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Ferice de toți ce temu-se de Domnul, </language><language value="sla">··</language> <language value="ro">ce îmblă </language><page pageID="253v"/><language value="ro"> în căile lui! </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Ferice de toți ce temu-se de Domnul, </language><language value="sla">··</language> <language value="ro">ce îmblă în căile sale! </language></variant>
+<variant sigle="CP"><language value="ro"><red>•</red> <red>F</red>erice de toți ce temu-se de Domnul, • ce îmblă în căile lui! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Ferice de toți ce temu-se de Do<i>m</i>nu<i>l</i>, </language><language value="sla">··</language> <language value="ro">ce îmblă în căile lui! </language></variant>
+<variant sigle="PS"><language value="ro"><red>F</red>erice de toți ce temu-se de D[om]nul, <red>•</red> ce îmblă în cale lui! </language></variant>
+<variant sigle="PH"><language value="ro"><red>F</red>erice de toţi cinre se teame de Domnu<i>l</i>, ce îmblă în calea lui. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>F</red>erice de toți ce се temu de D[om]nu<i>l</i>, cei ce îmblă în calea lui! </language></variant>
+<variant sigle="PG"><language value="lat">1. Beati omnes qui timent dominum: qui ambulant in vijs eius. </language></variant>
+<variant sigle="PR"><language value="lat">1. Beati omnes qui timent dominum: qui ambulant in vijs eius. </language></variant>
+</verse>
+<verse id="2">
+<variant sigle="CP1"><language value="sla">троу̑ды плѡ́дь своиⷯ сънѣ́си</language><language value="ro"> ++  </language><language value="sla">бл҃жень е̑си и добро̀ те́бѣ бѫдеть</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Truda rodului tău mînca-veri; </language><language value="sla">··</language> <language value="ro">fericat ești și bine ție fi-va. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Truda rodului tău mînca-veri; </language><language value="sla">··</language> <language value="ro">fericit ești și bine ție fi-va. </language></variant>
+<variant sigle="CP"><language value="ro">• Truda rodului tău mînca-veri; • fericat ești și bine ție fi-va. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Truda rodului tău mî<i>n</i>ca-veri; </language><language value="sla">··</language> <language value="ro">ferica<i>t</i> ești și bine ție fi-va. </language></variant>
+<variant sigle="PS"><language value="ro">• Truda rodului tău mînca-veri; <red>•</red> ferica<i>t</i> ești și bine ție fi-va. </language></variant>
+<variant sigle="PH"><language value="ro">Truda rroadeei sale <note><language value="ro"> Adăugat deasupra rândului. </language></note> mî[n]ca-veri; fericat eşti, binre-ţi va fi. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>T</red>rudu<i>l</i> rrodului tău mînca-veri; </language><language value="sla">··</language> <language value="ro"><red>f</red>erice ești și bire ție va fi. </language></variant>
+<variant sigle="PG"><language value="lat">2. Labores manuum tuarum quia manducabis: beatus es et bene tibi erit. </language></variant>
+<variant sigle="PR"><language value="lat">2. Labores fructum tuorum manducabis: beatus es et bene tibi erit. </language></variant>
+</verse>
+<verse id="3">
+<variant sigle="CP1"><language value="sla">жена̀ твоа̀ ꙗ̑ко лоза пло́довита въ стра́нахь дѡ́мꙋ твое̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Muiarea ta, ca viță roditoare în laturile casei tale; </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Muiarea ta ca vița roditoare în laturile caseei tale; </language></variant>
+<variant sigle="CP"><language value="ro">• Muiarea ta, ca viță roditoare în laturile caseei tale; </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Muiarea ta, ca viță roditoare în laturile caseei tale; </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Muiaire ta, ca viță roditoare în lature casei tale; </language></variant>
+<variant sigle="PH"><language value="ro">Muiarea ta ca o viţă rodită în laturea casaei tale; </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>M</red>uiarea ta, ca viță rroditoare în laturea caseei tale </language><page pageID="35r"/><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">3. Vxor tua sicut vitis abundans: in lateribus domus tuae. </language></variant>
+<variant sigle="PR"><language value="lat">3. Vxor tua sicut vitis abundans: in lateribus domus tuae. </language></variant>
+</verse>
+<verse id="4">
+<variant sigle="CP1"><language value="sla">сн҃о́ве твои ꙗ̑ко но́ворасли масли́ныѧ о҆крⷭ҇ть тра́пезы твое̑ѫ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Fiii tăi, ca noao odrasle de maslin împrejurul measeei tale. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Fiii tăi ca niște stîlpări noao de maslin împrejurul measeei tale. </language><language value="sla">··</language> <language value="ro"></language><page pageID="268r"/><language value="ro"> </language></variant>
+<variant sigle="CP"><language value="ro">• Fiii tăi, ca noao odrasle de maslin împrejurul measeei tale. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Fiii tăi, ca noao odrasle de maslin împregiuru<i>l</i> mea_ </language><page pageID="147v"/><language value="ro"> seei tale. </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Fii tăi, ca noao o<i>t</i>drasle de maslin împregiuru<i>l</i> measeei tale. </language></variant>
+<variant sigle="PH"><language value="ro">Feciorii tăi ca de nou odraslele maslinului denpregiuru<i>l</i> measei tale. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">4. Filij tui sicut nouellae oliuarum: in circuitu mensae tuae. </language></variant>
+<variant sigle="PR"><language value="lat">4. Filij tui sicut nouellae oliuarum: in circuitu mensae tuae. </language></variant>
+</verse>
+<verse id="5">
+<variant sigle="CP1"><language value="sla">сѐ такѡ блⷭ҇витсѧ чл҃кь боѫисѧ г҃а</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Așa blagosloveaști-se omul ce teame-se de Domnul. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Adecă așa bl[ago]<i>s</i>[lo]veaște-se omul ce teame-se de Domnu<i>l</i>. </language></variant>
+<variant sigle="CP"><language value="ro">• Așa blagosloveaște-se omul ce teame-se de Domnul. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Așa blagosloveaști-se omu<i>l</i> ce teame-se de Do<i>m</i>nu<i>l</i>. </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Așa bl[ago]<i>s</i>[lo]v[ea]ște omu<i>l</i> ce<i>l</i> ce teme-<i>s</i>[e] de D[om]nu<i>l</i>. </language></variant>
+<variant sigle="PH"><language value="ro">Adecă aşea blagoslovi-se-va omul carele se teame de Domnu<i>l</i>. </language><page pageID="112v"/><language value="ro"> </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">5. Ecce sic benedicetur homo: qui timet dominum. </language></variant>
+<variant sigle="PR"><language value="lat">5. Ecce sic benedicetur omnis homo: qui timet dominum. </language></variant>
+</verse>
+<verse id="6">
+<variant sigle="CP1"><language value="sla">блⷭ҇вить тѧ г҃ь ѿ сїѡ́на</language><language value="ro"> ++  </language><language value="sla">и҆ оузри́ши бл҃гаа̀ і҆е̑рⷭ҇лимꙋ въсѧ̀ дн҃и живѡ́та твое̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Blagosloveaște-te Domnul den Sion, </language><language value="sla">··</language> <language value="ro">și vedea-veri dulceața Ier[usa]limului în toate zile vieției tale, </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Bl[a]<i>g</i>[oslo]veaște-te Domnul den Sio<i>n</i>, </language><language value="sla">··</language> <language value="ro">și vedea-veri dulceața Ier[u]<i>s</i>[a]limului în toate zile vieție tale, </language></variant>
+<variant sigle="CP"><language value="ro">• Blagosloveaște-te Domnul den Sion, • și vedea-veri dulceața Ier[usa]limului în toate zile vieției tale. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Bl[ago]<i>s</i>[lo]veaște-te Do<i>m</i>nu<i>l</i> den Sio<i>n</i>, </language><language value="sla">··</language> <language value="ro">și vedea-veri du<i>l</i>ceața Ier[u]<i>s</i>[a]limului în toate dzile vieției tale, </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Bl[ago]<i>s</i>[lo]veaște-te D[om]nu<i>l</i> din <note><language value="ro"> Scris:  </language><language value="sla">дїꙟ</language><language value="ro">. </language></note> Sion, <red>•</red> și vedea-veri du<i>l</i>[cea]ța Ier[u]<i>s</i>[a]l[i]mului în to_ </language><page pageID="431"/><language value="ro"> ate dzilele viației tale, </language></variant>
+<variant sigle="PH"><language value="ro">Blagoslovi-te-va de Sion şi veri vedea bunrătatea Ierusalimului întru toate dzilele viiaţeei tale. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">6. Bendicat tibi dominus ex sion: et videas bona hierusalem omnibus diebus vitae tuae. </language></variant>
+<variant sigle="PR"><language value="lat">6. Bendicat te dominus ex sion: et videas quae bona sunt in hierusalem omnibus diebus vitae tuae. </language></variant>
+</verse>
+<verse id="7">
+<variant sigle="CP1"><language value="sla">и ви́диши сн҃ы сн҃ѡ́вь твоихь, ми́рь на і҆и҃лѣ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Și vedea-veri </language><page pageID="254r"/><language value="ro"> fiii fiilor tăi. Pace spre Israil! </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Și vedea-veri fiii fiilor tăi. Pace spre Izrail! </language></variant>
+<variant sigle="CP"><language value="ro">• Și vedea-veri fiii fiilo<i>r</i> tăi. Pace spre Israil! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Și vedea-veri fiii fiilo<i>r</i> tăi. Pace spre Izraíl! </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Și vedea-veri fii fiilo<i>r</i> tăi. Pa<i>ce</i> spre Is[rai]l! </language></variant>
+<variant sigle="PH"><language value="ro">Şi veri videa feciorii feciorilor tăi. Pace pre Israilii! </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">7. Et videas filios filiorum tuorum: pacem super israel. </language></variant>
+<variant sigle="PR"><language value="lat">7. Et videas filios filiorum tuorum: pax super israel. </language></variant>
+</verse>
+</psalm>

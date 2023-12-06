@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="psaltiri.css"?>
+<psalm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="roPsalt.xsd" id="42">
+<titles><title sigle="CP1" ><language value="sla">ѱа́лѡⷨ дв҃дь. </language>CînteculluD[а]v[i]d 42</title>
+<title sigle="CP1" ><language value="sla">ѱа́лѡⷨ дв҃дь. </language>Cîntecul lu D[а]v[i]d 42</title>
+<title sigle="CP2" ><language value="sla">ѱл҃ѡⷨ дв҃дь</language>.Cîntecul lu David 42</title>
+<title sigle="CP" ><red>Cîntecul lu David42</red></title>
+<title sigle="PS" ><red>Cîntecul lu D[avi]d scri<i>s</i> pre ușie 42</red>} <dot color="black"/> /13</title>
+<title sigle="PH" >Cîntecu<i>l</i> D[a]v[i]<i>d</i><note> Scris cu negru.</note>, <red>42</red></title>
+<title sigle="PG" ><red>Psalmus Dauid. XXXXII</red></title>
+<title sigle="PR" ><red>XXXXII</red></title>
+</titles><verse id="1">
+<variant sigle="CP1"><language value="sla">Сѫди́ми б҃е и расѫдѝпрѧмоѫ ѿ ѫ̑ꙁы́ка непрѣпоⷣбна </language><language value="sla">  </language><language value="sla">ѿ чл҃ка неправедна и̑</language><language value="sla">/79r </language><language value="sla">лъсти́ва иꙁбави мѧ</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Judecă-mi, Doamne, și dezjudecă pîra mea de li<i>m</i>bă nepreapo<i>d</i>obnă!  </language><language value="sla"></language><language value="ro"> De om nederept și hitlean izbăveaște-mă! </language></variant>
+<variant sigle="CP2"><language value="ro">Judecă, Doamne, și socoteaște pîra mea de limbă nepreapodobnică!  De om nederept și hitlean izbăveaște-mă! </language></variant>
+<variant sigle="CP"><language value="ro"><red>J</red>udecă-mi,Doamne, și dezjudecă pîra mea de li<i>m</i>bă nepreapo<i>d</i>obnă! </language><dot color="black"/><language value="ro">De om nederept și hitlean izbăveaște-mă! </language><dot color="black"/></variant>
+<variant sigle="PS"><language value="ro"><red>Gi</red>udecă-mi, Dzeu,  și dezgiudecă pîrra mea de limbă nepr[e]p[o]<i>d</i>[o]bnică!  </language><dot color="red"/><language value="ro"> De omu nedereptu și hicleanu izbăveaște-me! </language></variant>
+<variant sigle="PH"><language value="ro"><red>Gi</red>udecă-mi, Dzeule, și alege pîrra mea den limbă necuvinio[a]să! De la omul nederept și lăstitoriu mîntuiaște-me! </language></variant>
+<variant sigle="PG"><language value="lat">1. Iudica me deus et discerne causam meam: de gente non sancta </language><page pageID=""/><language value="lat"> ab homine iniquo et doloso erue me. </language></variant>
+<variant sigle="PR"><language value="lat">1. Iudica me deus et discerne causam meam: de gente non sancta ab homine iniquo et doloso eripe me. </language></variant>
+</verse>
+<verse id="2">
+<variant sigle="CP1"><language value="sla">ꙗко ты̏ е̑си б҃е дръжава моа </language><language value="sla"> </language><language value="sla">въскꙋѧ ѿри́нѫ мѧ и̑ въскѫѧ сѣ́тꙋѧ хо́ждѫ е̑гда̀ стѫ́жае̑тми вра́гь </language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Că tu ești Doamne, ținutul mieu; </language><language value="sla"></language><language value="ro"> derep ce împinseși-mă? Și derep ce trist îmblu cînd dodeiaște-mi dracul? </language></variant>
+<variant sigle="CP2"><language value="ro">Că tu ești Doamne, ținerea mea;  derepce lepădă-mă? Și derep ce trist îmblu cînd dodeiaște-mi vrăjmașul? </language></variant>
+<variant sigle="CP"><language value="ro">Că tu ești Doamne, ținutul mieu; </language><dot color="black"/><language value="ro">derepce împinseși-mă? Și derep ce trist îmblu cînd dodeiaște-mi dracul? </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro"> Că tu ești Dzeu, țirutu<i>l</i> mieu;  </language><dot color="red"/><language value="ro"> derep ce înpenseși-me? Și derep ce tristu îmblu cîndu dodeiaște-mi dracu<i>l</i>? </language></variant>
+<variant sigle="PH"><language value="ro">Că ești, Dzăule, vîrtutea mea; </language><page pageID="36v"/><language value="ro"> derep ce me împinseși? Și dereptu carea mîhnitu îmblu cîndu dodeiaște-mi vrăjmașul? </language></variant>
+<variant sigle="PG"><language value="lat">2. Quia tu es deus fortitudo mea </language><page pageID=""/><language value="lat"> quare me repulisti / quare tristis incedo dum affligit me inimicus? </language></variant>
+<variant sigle="PR"><language value="lat">2. Quia tu es deus meus et fortitudo mea </language><page pageID=""/><language value="lat"> quare me repulisti et quare tristis incedo: dum affligit me inimicus? </language></variant>
+</verse>
+<verse id="3">
+<variant sigle="CP1"><language value="sla"> послѝ свѣ́ть твои и̑ исти́нѫ твоѫ </language><language value="sla"> </language><language value="sla"> та̀ мѧ наста́виста и въве́дѡстами въ гѡ́рѫ ст҃ѫѧ твоѫ и̑ въ се́ла твоа̀</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Tremeate lumina ta și deadevărul tău,  </language><language value="sla"></language><language value="ro"> că eale mă năstăviră și băgară-mă în pădurea sfînta a ta și în satele tale. </language></variant>
+<variant sigle="CP2"><language value="ro">Tremeate lumina ta și deadevărul </language><page pageID="81r"/><language value="ro"> tău,  că aceaia mă năstăviră și duseră-mă în pădurea sfînta a ta și în satele tale. </language></variant>
+<variant sigle="CP"><language value="ro">Tremeate lumina ta și deadevărul tău, </language><dot color="black"/><language value="ro">că eale mă năstăviră și băgară-mă în pădurea sfînta a ta și în satele tale. </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro"> Tremeate lumire ta și deadevăru<i>l</i> tău! Iale me năstăviră  </language><dot color="red"/><language value="ro"> și băgară-me îm pădurea s[fîn]tă a ta și în fsatele tale. </language></variant>
+<variant sigle="PH"><language value="ro">Tremeate luminra ta și adevăru<i>l</i> tău, aceale me năstăviră și me duseră în codrul sfîntul tău și în satul <note><language value="ro"> Scris:  </language><language value="sla">съатоуль.</language><language value="ro"> </language></note> tău. </language></variant>
+<variant sigle="PG"><language value="lat">3. Emitte lucem tuam et veritatem tuam </language><page pageID=""/><language value="lat"> ipsa me deduxerunt et adduxerunt in montem sanctum tuum: et in tabernacula tua. </language></variant>
+<variant sigle="PR"><language value="lat">3. Emitte lucem tuam et veritatem tuam </language><page pageID=""/><language value="lat"> ipsa me deduxerunt et adduxerunt in montem sanctum tuum et in tabernacula tua. </language></variant>
+</verse>
+<verse id="4">
+<variant sigle="CP1"><language value="sla">и̑ въни́дѫ къ ѡлта́рю бж҃їю </language><language value="sla"> </language><language value="sla">къ б҃оу весе́лѧщомꙋ ю́нѡ́стъ моѫ </language><language value="sla"> </language><language value="sla">и̑сповѣ́мсѧ те́бѣ въ гѫ́слехь бж҃е б҃е мои </language><language value="sla">/79v </language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Și întra-voiu cătră altariul Zeului,  </language><language value="sla"></language><language value="ro"> cătră Domnul, ce veseleaște tinereațele meale. </language></variant>
+<variant sigle="CP2"><language value="ro">Și întra-voiu cătră altariul Zeului,  cătră Domnul, ce vesendu-se tinereațele meale. </language></variant>
+<variant sigle="CP"><language value="ro">Și întra-voiu cătră altariul Zeului, </language><dot color="black"/><language value="ro">cătră Domnul, ce veseleaște tinereațele meale. </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro"> Și întra-voiu cătră oltariu<i>l</i> Dzeu<i>l</i>[u]i,  </language><dot color="black"/><language value="ro"><red>c</red>ătră Dzeu, ce veseleaște </language><page pageID="135"/><language value="ro"> tirereațele meale. </language></variant>
+<variant sigle="PH"><language value="ro">Și întra-voiu cătră altariul Dzeului și cătră D[u]m[ne]dzăul ce ve<i>s</i>[e]leașt<i>e</i> <note><language value="ro"> Urmează:  </language><language value="sla">омꙋ</language><language value="ro">, tăiat cu roșu. </language></note>giunriia mea. </language></variant>
+<variant sigle="PG"><language value="lat">4. Et introibo ad altare dei: ad deum qui laetificat iuuentutem meam. </language></variant>
+<variant sigle="PR"><language value="lat">4. Introibo ad altare dei: ad deum qui laetificat iuuentutem meam </language></variant>
+</verse>
+<verse id="5">
+<variant sigle="CP1"><language value="sla">въскѫѧ прискръбна е̑си дш҃ѫ моа̀</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Ispovedescu-mă ție ceateri, Doamne, Dumnezeul mieu!  </language><language value="sla"></language><language value="ro">Derep ce scîrbeaște-te sufletul mieu și derep ce turburi-mă? </language></variant>
+<variant sigle="CP2"><language value="ro">Ispovedescu-mă ție ceateri, Doamne, Dumnezeul mieu!  Derep ce scîrbit ești sufleul mieu și derepce turburi-mă?  </language><page pageID="81v"/><language value="ro"> </language></variant>
+<variant sigle="CP"><language value="ro">Ispovedescu-mă ție în </language><page pageID="47r"/><language value="ro"> ceateri, Doamne, Dumnezeul mieu! </language><dot color="black"/><language value="ro">Derepce scîrbeaște-te sufletul mieu </language><dot color="black"/><language value="ro">și derep ce turburi-mă? </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro"> Ispovedescu-me ție în ceateri, Dzeae, Dzeu<i>l</i> mieu!  </language><dot color="red"/><language value="ro"> Derep ce scîrbi<i>t</i> ești, sufletu<i>l</i> mieu, și derep ce turr<i>b</i>uri-me? </language></variant>
+<variant sigle="PH"><language value="ro">Spuiu-me ție în ceatere, Dzăule, Dz[ău]l mieu! Dereptu carea în bănatu ești, sufletu<i>l</i> mieu, și prentru ce me smi<i>n</i>tești? </language></variant>
+<variant sigle="PG"><language value="lat">5. Confitebor tibi in cithara deus deus meus: quare tristis es anima mea et quare conturbas me? </language></variant>
+<variant sigle="PR"><language value="lat">5. Confitebor tibi in cithara deus deus meus: quare tristis es anima mea et quare conturbas me? </language></variant>
+</verse>
+<verse id="6">
+<variant sigle="CP1"><language value="sla">ѹпова́и на б҃а ꙗко испобѣ́мсѧ е̑мꙋ</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Upovăiaște în Zeul că ispovedescu-mă lui;  </language><language value="sla"></language><language value="ro"> sp[ă]senie feațeei meale și Zeului mieu. </language></variant>
+<variant sigle="CP2"><language value="ro">Upovăiaște în Zeul că ispovedimu-ne sinei;  spăsenie feațeei meale și Zeului mieu. </language></variant>
+<variant sigle="CP"><language value="ro">Upovăiaște în Zeul că ispovedescu-mă lui; </language><dot color="black"/><language value="ro">spăsenie feațeei meale și Zeului mieu </language></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro"> Upuvăiaște în D[umne]dzeu, că ispovedescu-me lu<i>i</i>,  </language><dot color="red"/><language value="ro"> Sp[ă]senie feațeei meale și Dzeu<i>l</i> mieu. </language></variant>
+<variant sigle="PH"><language value="ro">Nedejdeaște pre D[u]m[ne]dzău, că me spușu lui; scoaterea feațeei meale, D[u]m[ne]dzeu mieu. </language></variant>
+<variant sigle="PG"><language value="lat">6. Spera in deo quoniam adhuc confitebor illi: salutare vultus mei et deus meus. </language></variant>
+<variant sigle="PR"><language value="lat">6. Spera in deum quoniam confitebor illi: salutare vultus mei et deus meus. </language></variant>
+</verse>
+</psalm>

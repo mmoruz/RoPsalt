@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="psaltiri.css"?>
+<psalm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="roPsalt.xsd" id="120">
+<titles><title sigle="CP1" ><language value="sla">пⷭ҇ѣ сте́пенїи</language>. Cîntecele spițelor 120</title>
+<title sigle="CP1" ><language value="sla">пⷭ҇ѣ сте́пенїи</language>. Cîntecele spițelor 120</title>
+<title sigle="CP2" ><language value="sla">пⷭ҇ѣ́ сте́пенїи</language>. Cîntecele spițelor 120} /262r</title>
+<title sigle="CP" ><red>Cîntecele spițelor • 120</red></title>
+<title sigle="PC" ><language value="sla"><red>пⷭ҇ѣ́</red></language><red> </red><language value="sla"><red>степе́нїи</red></language><red>. Cîntecele spițilo<i>r</i> 120</red></title>
+<title sigle="PS" ><red>C[în]te<i>ce</i>le spițelor</red><note> Urmează semnul „:”, scris cu roșu; numărul psalmului este scris marginal.</note><red> 120</red></title>
+<title sigle="PH" ><red>Cîntec den scară 120</red></title>
+<title sigle="PV" ><language value="sla"><red>пѣ́снь степенїи</red></language><red>. Cîntecu<i>l</i> step[eni] 120</red></title>
+<title sigle="PG" ><red>Canticum graduum. CXX</red></title>
+<title sigle="PR" ><red>Canticum graduum. CXX</red></title>
+</titles><verse id="1">
+<variant sigle="CP1"><language value="sla">Възведохь о҆чи мои въ гѡ́ры, ѿнѫ́дꙋже прїи́деть помо́щь</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Rădicai ochii miei în codri, de unde vine ajutoriu mie? </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Rădicai în sus ochii miei în sus, de unde vine ajutoriul mieu? </language></variant>
+<variant sigle="CP"><language value="ro"><red>•</red> <red>R</red>ădicai ochii miei în codri, de unde vine ajutoriu mie? </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Rădicaiu ochii miei în codri, de unde vine ajutoriu mieiu. </language></variant>
+<variant sigle="PS"><language value="ro"><red>R</red>ădicai ochii miei în codri, de unde vine agiutoriu mie? </language></variant>
+<variant sigle="PH"><language value="ro"><red>În</red>rălţaiu ochii mie[i] în dealuri, de unde va venri agiutoriulu mieu. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>R</red>rădicaiu ochii miei în codri, de unde vere agiuto<i>r </i>mie. </language></variant>
+<variant sigle="PG"><language value="lat">1. Leuaui oculos meos in montes: vnde veniet auxilium michi. </language></variant>
+<variant sigle="PR"><language value="lat">1. Leuaui oculos meos ad montes: vnde veniet auxilium michi. </language></variant>
+</verse>
+<verse id="2">
+<variant sigle="CP1"><language value="sla">помѡ́щь моа̀ ѿ г҃а сътворшагѡ нб҃ѡ и землѧ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Ajutoriu mie de Domnul ce feace ceriul și pămîntul. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Ajutoriu mie de la Domnul ce feace ceriul și pămîntul. </language></variant>
+<variant sigle="CP"><language value="ro">• Ajutoriu mie de Domnul ce feace ceriul și pămîntul. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Agiutoriu mie de Do<i>m</i>nu<i>l</i> ce feace ceriu<i>l</i> și pămî<i>n</i>tu<i>l</i>. </language></variant>
+<variant sigle="PS"><language value="ro">• Agiutoriu mie de D[om]nu<i>l</i> ce feace ceru<i>l</i> și pămîntu<i>l</i>. </language></variant>
+<variant sigle="PH"><language value="ro">Agiutoriul mieu de la Domnulu ce au faptu ceriu<i>l</i> şi păm[î]ntu<i>l</i>. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>A</red>giutoriu<i>l</i> mieu de la D[o]mnu<i>l</i> cela ce feace ceriu<i>l</i> și pă_ </language><page pageID="32v"/><language value="ro"> mîntu<i>l</i>. </language></variant>
+<variant sigle="PG"><language value="lat">2. Auxilium meum a domino: qui fecit coelum et terram. </language></variant>
+<variant sigle="PR"><language value="lat">2. Auxilium meum a domino: qui fecit coelum et terram. </language></variant>
+</verse>
+<verse id="3">
+<variant sigle="CP1"><language value="sla">не да́ждь въ смѧте́нїе нѡ́гѫ твоѫ</language><language value="ro"> ++  </language><language value="sla">ниже да въздрѣ́млеть хранѧи тѧ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Nu da în smintire piciorul tău </language><language value="sla">··</language> <language value="ro">și să nu durmiteaze cel ce fereaște tine. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Nu da în smintire piciorul tău </language><language value="sla">··</language> <language value="ro">nice să durmiteaze cel ce fereaște tine. </language></variant>
+<variant sigle="CP"><language value="ro">• Nu da în smintire piciorul tău • și să nu durmiteaze cel ce feareaște tine. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Nu da în smintire picioru<i>l</i> tău, </language><language value="sla">··</language> <language value="ro">și să nu durmiteaze ce<i>l </i>ce fereaște tine. </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Nu da în smentire picioru<i>l</i> tău • și se nu durrmiteadze ce<i>l</i> ce fereaște-te. </language></variant>
+<variant sigle="PH"><language value="ro">Nu  </language><language value="sla">даждь</language><language value="ro"> <note><language value="ro"> În slavonă în text: <i>da</i>. </language></note> în smiintire picioarele tale, nece va durmita cinre te va ţinrea. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>N</red>u da în smentire picioru<i>l</i> tău, </language><language value="sla">··</language> <language value="ro"><red>ș</red>i se nu du<i>r</i>miteadze ce te fereaște. </language></variant>
+<variant sigle="PG"><language value="lat">3. Non det in commotionem pedem tuum: neque dormitet qui custodit te. </language></variant>
+<variant sigle="PR"><language value="lat">3. Non det in commotionem pedem tuum: neque obdormiat qui custodit te </language></variant>
+</verse>
+<verse id="4">
+<variant sigle="CP1"><language value="sla">сѐ невъздреⷨлеть и не оу̑снеть хранѧи і҆и҃лѣ</language><language value="ro"> ++  </language><language value="sla">г҃ь съхра́нит тѧ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Adecă nu durmitează, nece adurmi ce fereaște Israilii. </language><language value="sla">··</language> <language value="ro">Do<i>m</i>nul hrăneaște-te. </language><page pageID="248v"/><language value="ro"> </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Că adecă nu durmiteaze, nece adoarme cel ce păzeaște Israilii. </language><language value="sla">··</language> <language value="ro">Do<i>m</i>nul păzeaște-te. </language></variant>
+<variant sigle="CP"><language value="ro">• Adecă, nu durmitează, nece adurmi ce fereaște Israilii. • Domnul hrăneaște-te. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Adecă, nu durmiteadză, nece adurmi, ce fereaște I[sra]ilea. </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Ade<i>c</i>[ă], nu durmiteadză, ni<i>ci</i> adurrmi ce fereaște iis[rai]li. D[om]nul fereaște-te. </language></variant>
+<variant sigle="PH"><language value="ro">Adecă nu va durmita, nece va adurmi cinre va ţinre Israil. Domnul ţinrea-te-va, </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>A</red>decă nu du<i>r</i>miteadză, nice ado[a]<i>r</i>me, ce fereaște Iz<i>d</i>rail <note><language value="ro"> Scris:  </language><language value="sla">ізⷣтаилѣ</language><language value="ro">; cf. sl.  </language><language value="sla">ии҃лѣ</language><language value="ro">. </language></note>. </language></variant>
+<variant sigle="PG"><language value="lat">4. Ecce non dormitabit neque dormiet: qui custodit israel. 5. Dominus custodit te </language><page pageID=""/><language value="lat"> </language></variant>
+<variant sigle="PR"><language value="lat">4. Ecce non dormitabit neque obdormiet: qui custodit israel. 5. Dominus custodit te </language><page pageID=""/><language value="lat"> </language></variant>
+</verse>
+<verse id="5">
+<variant sigle="CP1"><language value="sla">г҃ь покро́вь твои на рѫ́кѫ де́снѫ твоѫ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Domnul coperimîntu ție în mîna dereaptă. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Domnul copermînt ție despre mîna dereaptă a ta. </language><language value="sla">··</language> <language value="ro"></language><page pageID="262v"/><language value="ro"> </language></variant>
+<variant sigle="CP"><language value="ro">• Domnul coperimîntu ție în mîna dereaptă. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Do<i>m</i>nu<i>l</i> hrăneaște-te, </language><language value="sla">··</language> <language value="ro">Domnu<i>l</i> coperimîntu ție în mîna dereaptă. </language></variant>
+<variant sigle="PS"><language value="ro">D[om]nu<i>l</i> coperemîntu ție, mîna dereapta ta; </language></variant>
+<variant sigle="PH"><language value="ro">Domnu<i>l</i> acoperem[î]ntu<i>l</i> tău pre mînra dereapta ta. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>D</red>[om]nu<i>l</i> fereaște-te, </language><language value="sla">··</language> <language value="ro">Do[m]nu<i>l</i> e coperemîntu ție spre mîra dereapta ta. </language></variant>
+<variant sigle="PG"><language value="lat">dominus protectio tua: super manum dexteram tuam. </language></variant>
+<variant sigle="PR"><language value="lat">dominus protectio tua: super manum dexterae tuae. </language></variant>
+</verse>
+<verse id="6">
+<variant sigle="CP1"><language value="sla">въ дн҃ь сл҃нце не о҆же́жеть те́бѣ нѝ лꙋна̀ но́щїѫ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> În zi soarele nu arde tine, nece luna noaptea. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> În zi soarele nu va înfierbînta pre tine, nece luna noaptea. </language></variant>
+<variant sigle="CP"><language value="ro">• În zi soarele nu arde </language><page pageID="148v"/><language value="ro"> tine, nece luna noaptea. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> </language><page pageID="143r"/><language value="ro"> <red>În</red> dzi soarele nu arde tine, nece luna noaptea. </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> În dzi soarele nu arde tine, nice luna noaptea. </language></variant>
+<variant sigle="PH"><language value="ro">La dzuo soarele nu te va arde, nece lunra nopţiei. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>Î</red>n dzi soarele nu arrde tire, nice lura noaptea. </language></variant>
+<variant sigle="PG"><language value="lat">6. Per diem sol non vret te: neque luna per noctem. </language></variant>
+<variant sigle="PR"><language value="lat">6. Per diem sol non vret te: neque luna per noctem. </language></variant>
+</verse>
+<verse id="7">
+<variant sigle="CP1"><language value="sla">г҃ь съхра́нит тѧ ѿ въсѣ́кого зла̀</language><language value="ro"> ++  </language><language value="sla">съхранить дш҃ѫ твоѫ г҃ь</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Domnu fereaște-te de tot răul; </language><language value="sla">··</language> <language value="ro">fereaște sufletul tău Domnul. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Domnul feri-te-va de tot răul; </language><language value="sla">··</language> <language value="ro">feri-va sufletul tău Domnul. </language></variant>
+<variant sigle="CP"><language value="ro">• Domnul fereaște-te de tot răul; • fereaște sufletul tău Do<i>m</i>nul. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> <red>D</red>omnu<i>l</i> fereaște-te de to<i>t</i> rău<i>l</i>; </language><language value="sla">··</language> <language value="ro">fereaște sufletu<i>l</i> tău Domnu<i>l</i>. </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> D[om]nu<i>l</i> veghie-te de to<i>t</i> reul; <red>•</red> fereaște sufletu<i>l</i> tău D[om]nul. </language></variant>
+<variant sigle="PH"><language value="ro">Domnul ţinrea-te-va de tot rreul, ţinrea-va sufletu<i>l</i> tău Domnulu. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>D</red>[o]mnu<i>l</i> fereaște-te de to<i>t</i> rrău<i>l</i>; </language><language value="sla">··</language> <language value="ro"><red>h</red>răneaște sufletu<i>l</i> tău D[o]mnu<i>l</i>. </language></variant>
+<variant sigle="PG"><language value="lat">7. Dominus custodit te ab omni malo: custodiat animam tuam dominus. </language></variant>
+<variant sigle="PR"><language value="lat">7. Dominus custodit te ab omni malo: custodiat animam tuam dominus. </language></variant>
+</verse>
+<verse id="8">
+<variant sigle="CP1"><language value="sla"> г҃ь съхра́нить въхо́жденїе твоѐ и̑ исхо́жденїе твое ѿ ни́нѣ́ и до вѣка</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Domnul fereaște-te întru întratul tău și ieșirea ta de acmu pînă în veac. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Domnul păzi-va întratul tău și ieșitul tău acmu și pînă în veac. </language></variant>
+<variant sigle="CP"><language value="ro">• Do<i>m</i>nul fereaște-te întru întratul tău și ieșirea ta de acmu pînă în veac. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Do<i>m</i>nu<i>l</i> fereaște-te întru întratu<i>l</i> tău și ieșirea ta de acmu pînă în veac. </language></variant>
+<variant sigle="PS"><language value="ro">• </language><page pageID="423"/><language value="ro"> D[om]nu<i>l</i> fereaște-te întru întratu<i>l</i> tău <red>•</red> și ieșirea ta de acmu pînă în veacu. </language></variant>
+<variant sigle="PH"><language value="ro">Domnu<i>l</i> ţinrea-va întrarea ta şi ieşirea ta de acmu şi pără în veacu. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>D</red>[o]mnu<i>l</i> fereaște întratu<i>l</i> tău </language><language value="sla">··</language> <language value="ro"><red>ș</red>i ieșitu<i>l</i> tău de acmu <note><language value="ro"> Scris:  </language><language value="sla">дѣакмоу</language><language value="ro">. </language></note> pără în veacu. </language></variant>
+<variant sigle="PG"><language value="lat">8. Dominus custodiat introitum tuum et exitum tuum: ex hoc nunc et vsque in saeculum. </language></variant>
+<variant sigle="PR"><language value="lat">8. Dominus custodiat introitum tuum et exitum tuum: ex hoc nunc et vsque in saeculum. </language></variant>
+</verse>
+</psalm>

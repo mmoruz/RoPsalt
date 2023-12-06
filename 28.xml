@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="psaltiri.css"?>
+<psalm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="roPsalt.xsd" id="28">
+<titles><title sigle="CP1" ><language value="sla">ѱа́лѡⷨдв҃дь</language>. CînteculluD[а]v[i]d28</title>
+<title sigle="CP1" ><language value="sla">ѱа́лѡⷨдв҃дь</language>. Cîntecul lu D[а]v[i]d28</title>
+<title sigle="CP2" ><language value="sla">ѱл҃ѡⷨ дв҃дь</language>. Cîntecul lu David 28} /45</title>
+<title sigle="CP" ><red>Cîntecul lu David 28</red></title>
+<title sigle="PS" ><red>Cî<i>n</i>tecul lu D[avi]d 28</red></title>
+<title sigle="PH" ><red>Cîntecu<i>l</i> lui David 28</red></title>
+<title sigle="PG" ><red>Psalmus Dauid in consummatione tabernaculi. XXVIII</red></title>
+<title sigle="PR" ><red>Psalmus Dauid in consummatione tabernaculi. XXVIII</red></title>
+</titles><verse id="1">
+<variant sigle="CP1"><language value="sla"> Принесѣ́те гв҃и сн҃о́ве бж҃їи </language><language value="sla"> </language><language value="sla">принесѣ́те гв҃и сн҃ы ѡвны</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Aduce-ți Domnului, fiii Zeului;  </language><language value="sla"></language><language value="ro"> aduce-ți Domnului fiii berbecilor; </language></variant>
+<variant sigle="CP2"><language value="ro">Aduce-ți Domnului, fiii Zeului;  aduce-ți Domnului fiii berbecilo<i>r</i>; </language></variant>
+<variant sigle="CP"><language value="ro"><red>A</red>duce-ți Domnului, fiii Zeului;aduce-ți Domnului fiii berbecilo<i>r</i>; </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro"> <red>A</red>duceți D[o]<i>m</i>nul[u]i, fii Dzeului;  </language><dot color="black"/><language value="ro">/83 <red>a</red>duceți D[o]<i>m</i>nul[u]i fii berrbeci; </language></variant>
+<variant sigle="PH"><language value="ro"><red>A</red>duceţi lui Dumnedzău, fii Dzăului, aduceţi Domnului feciori de ber_/23r beace; </language></variant>
+<variant sigle="PG"><language value="lat">1. Afferte domino filij dei: afferte domino filios arietum. </language></variant>
+<variant sigle="PR"><language value="lat">1. Afferte domino filij dei: afferte domino filios arietum. </language></variant>
+</verse>
+<verse id="2">
+<variant sigle="CP1"><language value="sla"> принесѣ́те гв҃и сла́вѫ и чъсть</language><language value="sla"> </language><language value="sla">принесѣ́те гв҃и сла́вѫ имени е̑го </language><language value="sla"> </language><language value="sla">покло́нитесѧ гв҃и въ дво́рѣ ст҃ѣ́мь е̑гѡ</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Aduceți Domnului slavă și cinste,  </language><language value="sla"></language><language value="ro"> aduceți Domnului slavă în numele lui,/47v </language><language value="sla"></language><language value="ro">închinați-vă Domnului în curtea sf[î]nta a lui. </language></variant>
+<variant sigle="CP2"><language value="ro">Aduceți Domnului slavă și cinste, aduceți Domnului slavă numelui său, închinați-vă Domnului în curtea sfînta a sa. </language></variant>
+<variant sigle="CP"><language value="ro">Aduceți Domnului slavă și cinste,/25v aduceți Domnului slavă în numele lui, </language><dot color="black"/><language value="ro">închinați-vă Domnului în curtea sfînta a lui. </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro">Aduceți D[o]<i>m</i>nul[u]i slavă și ci[n]ste <note><language value="ro"> Scris:  </language><language value="sla">чїисе</language><language value="ro">. </language></note>, </language><dot color="red"/><language value="ro">aduceți D[o]<i>m</i>nul[u]i slavă numele lui,  </language><dot color="red"/><language value="ro"> închirați-vă D[o]<i>m</i>nul[u]i în currtea sf[în]tă a lu<i>i</i>. </language></variant>
+<variant sigle="PH"><language value="ro">Aduceţi Domnului slavă şi cinste, aduceţi Domnului mărie nu[me]lui a lui, închinraţi-vă Domnului <note><language value="ro"> Scris:  </language><language value="sla">домнолꙋи</language><language value="ro">. </language></note> în curtea sfî[n]tă a lui. </language></variant>
+<variant sigle="PG"><language value="lat">2.Afferte domino gloriam et honorem </language><page pageID=""/><language value="lat"> afferte domino gloriam nomini eius: adorate dominum in atrio sancto eius. </language></variant>
+<variant sigle="PR"><language value="lat">2. Afferte domino gloriam et honorem: afferte domino gloriam nomini eius. 3. Adorate dominum in aula sancta eius </language><page pageID=""/><language value="lat"> </language></variant>
+</verse>
+<verse id="3">
+<variant sigle="CP1"><language value="sla"> глⷭ҇а́ гн҃ь на во́дахь</language><language value="sla"> </language><language value="sla">б҃ь сла́вѣ въꙁгръмѣ</language><language value="sla"> </language><language value="sla"> г҃ь на во́дахь мно́гахь</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Glasul Do<i>m</i>nului spre ape,  </language><language value="sla"></language><language value="ro"> Dumnezeul slaveei tună;  </language><language value="sla"></language><language value="ro"> Do<i>m</i>nul spre ape multe. </language></variant>
+<variant sigle="CP2"><language value="ro">Glasul Domnului spre apă, Dumnezeul slaveei tună;  Domnul spre ape multe. </language></variant>
+<variant sigle="CP"><language value="ro">Glasul Domnului spre ape,  </language><dot color="black"/><language value="ro">Dumnezeul slaveei tună; </language><dot color="black"/><language value="ro">Domnul spre ape multe. </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro">Glasu<i>l</i> D[o]<i>m</i>nul[u]i spre ape,  </language><dot color="red"/><language value="ro"> Dzeu<i>l</i> slaveei turăspre ape mu<i>l</i>te. </language></variant>
+<variant sigle="PH"><language value="ro">Glasu lui Dumnedzău la apă, Dumnedzăul slaveei tunră, Domnulu la apă multă. </language></variant>
+<variant sigle="PG"><language value="lat">3. Vox domini super aquas </language><page pageID=""/><language value="lat"> deus maiestatis intonuit: dominus super aquas multas. </language></variant>
+<variant sigle="PR"><language value="lat">vox domini super aquas </language><page pageID=""/><language value="lat"> deus maiestatis intonuit: dominus super aquas multas. </language></variant>
+</verse>
+<verse id="4">
+<variant sigle="CP1"><language value="sla"> глⷭ҇а́ гн҃ь въ крѣ́пости </language><language value="sla"> </language><language value="sla">глⷭ҇а́ гн҃ь въ веллѣпѡтѣ </language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Glasul Domnului în vîrtute,  </language><language value="sla"></language><language value="ro"> glasul Domnului în mare frîmseațe; </language></variant>
+<variant sigle="CP2"><language value="ro">Glasul Domnului în tărie,  glasul Domnului în mare </language><page pageID="46r"/><language value="ro"> frîmseațe; </language></variant>
+<variant sigle="CP"><language value="ro">Glasul Domnului în vîrtute, </language><dot color="black"/><language value="ro">glasul Domnului în mare frîmseațe; </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro"> Glasu<i>l</i> D[o]<i>m</i>nul[u]i în vîrtute,  </language><dot color="red"/><language value="ro"> glasu<i>l</i> D[o]<i>m</i>nul[u]i în mare frumseațe; </language></variant>
+<variant sigle="PH"><language value="ro">Glasul Domnului în tărie; glasul lui Dumnedzău în mare frumseţe. </language></variant>
+<variant sigle="PG"><language value="lat">4. Vox domini in virtute: vox domini in magnificentia. </language></variant>
+<variant sigle="PR"><language value="lat">4. Vox domini in virtute: vox domini in magnificentia. </language></variant>
+</verse>
+<verse id="5">
+<variant sigle="CP1"><language value="sla"> глⷭ҇а́ гн҃ь съкрꙋшаѫщага ке́дры </language><language value="sla"> </language><language value="sla">и съкроушить г҃ь ке́дры ли́ванстыѧ</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Glasul Domnului frînge chedrii,  </language><language value="sla"></language><language value="ro"> și frînge Domnul <note><language value="ro"> Scris:  </language><language value="sla">до́мнꙋлль.</language><language value="ro"> </language></note> chedrii Livanului, </language></variant>
+<variant sigle="CP2"><language value="ro">Glasul Domnului sfărîmă chedrii,  și zdrobeaște Domnul chedrii Livanului, </language></variant>
+<variant sigle="CP"><language value="ro">Glasul Domnulfrînge chedrii, </language><dot color="black"/><language value="ro">și frînge Domnul chedrii Livanului, </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro"> Glasul D[o]<i>m</i>nul[u]i frînge chedrii,  </language><dot color="red"/><language value="ro"> și frînge D[o]<i>m</i>nul chedrii Livanulu<i>i</i>, </language></variant>
+<variant sigle="PH"><language value="ro">Glasul Domnului frînge chedrii, frînge Domnulu chedrii Livanului. </language></variant>
+<variant sigle="PG"><language value="lat">5. Vox domini confringentis cedros: et confringet dominus cedros libani. </language></variant>
+<variant sigle="PR"><language value="lat">5. Vox domini confringentis cedros </language><page pageID=""/><language value="lat"> et confringet dominus cedros libani: </language></variant>
+</verse>
+<verse id="6">
+<variant sigle="CP1"><language value="sla"> и̑ истнать ѧ̏ ꙗ̑ко те́лець ли́ванскы </language><language value="sla"> </language><language value="sla">и въ</language><language value="sla">[ </language><language value="sla">ꙁ</language><language value="sla">] <note><language value="sla"> Ilizibil, pagină deteriorată; completat după exemplarul 2. </language></note> </language><language value="sla">любленыиꙗко сн҃ь и̑но́рожь </language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Și însupțiiază-i ca vițeii Livanului,  </language><language value="sla"></language><language value="ro"> și iubitul ca fiiu lui cu-n corn. </language></variant>
+<variant sigle="CP2"><language value="ro">Și însupțiiază-i ca vițeii Livanului,  și iubitul ca fiiul unul născut. </language></variant>
+<variant sigle="CP"><language value="ro">Și însupțiiază-i ca vițeii Livanului, </language><dot color="black"/><language value="ro">și iubitul ca fiiu cu-n corn. </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro"> Și însupțiadză ei ca vițeii Livanulu<i>i</i>,  </language><dot color="red"/><language value="ro"> și iubit ca fiiu<i>l</i>cuu[n] corrnu. </language></variant>
+<variant sigle="PH"><language value="ro">Şi deşartă-i ca viţelulu Livanului şi e iubit ca fiiul inorogului. </language></variant>
+<variant sigle="PG"><language value="lat">6. Et comminuet eas tanquam vitulum libani: et dilectus quemadmodum filius vnicornium. </language></variant>
+<variant sigle="PR"><language value="lat">et comminuet eas tanquam vitulum libani </language><page pageID=""/><language value="lat"> et dilectus sicut filius vnicornuorum. </language></variant>
+</verse>
+<verse id="7">
+<variant sigle="CP1"><language value="sla">глⷭ҇а́ гн҃ь прѡ</language><language value="sla">[ </language><language value="sla">с</language><language value="sla">] </language><language value="sla">ѣкаѫщаго</language><language value="sla"> <note><language value="sla"> Ilizibil, pagină deteriorată;completat după exemplarul 2.  </language></note> </language><language value="sla"> пла́мень ѡгнѣ</language><language value="sla"> </language><language value="sla">глⷭ҇а́ гн҃ь сътрѧ́саѫщаго поу</language><language value="sla"> </language><language value="sla"> и̑ сътрѧ́сеть г҃ь пꙋсты́нѧ ка́дскѫѧ</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Glasul Domnu_ </language><page pageID="48rlui"/><language value="ro"> tăie văpaia focului,  </language><language value="sla"></language><language value="ro">glasul Domnului scutură pustiile,  </language><language value="sla"></language><language value="ro"> și scutură Domnul pustiia Cadului. </language></variant>
+<variant sigle="CP2"><language value="ro">Glasul Domnului ce tăie para focului,  glasul Domnului ce scutură pustiile,  și scutură Domnul pustiia Cadscului. </language></variant>
+<variant sigle="CP"><language value="ro">Glasul Domnului tăie văpaia focului, </language><dot color="black"/><language value="ro">glasul Domnului scutură pustiile, </language><dot color="black"/><language value="ro">și scutură Domnul pustiia Cádului. </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="black"/><language value="ro"><red>G</red>lasu<i>l</i> D[o]<i>m</i>nul[u]i tăie văpaia foculu<i>i</i>,  </language><dot color="red"/><language value="ro">glasu<i>l</i> D[o]<i>m</i>nul[u]i cutre_ </language><page pageID="84"/><language value="ro"> mură  D[o]<i>m</i>nul[u]i pustinia Cadulu<i>i</i>. </language></variant>
+<variant sigle="PH"><language value="ro">Glasulu Domnului preseceaşte <note><language value="ro"> Scris:  </language><language value="sla">пресѣчѧще</language><language value="ro">. </language></note> cu parră de foc, glasul <note><language value="ro"> Urmează:  </language><language value="sla">лꙋи</language><language value="ro">, tăiat. </language></note> Domnului scutură pustinia, scutură Domnulu pustinia Cadului. </language></variant>
+<variant sigle="PG"><language value="lat">7. Vox domini intercidentis flammam ignis: vox domini concutientis desertum: et commouebit dominus desertum caddes </language></variant>
+<variant sigle="PR"><language value="lat">6. Vox domini intercidentis flammam ignis: vox domini concutientis solitudinem: et commouebit dominus desertum caddes </language></variant>
+</verse>
+<verse id="8">
+<variant sigle="CP1"><language value="sla"> глⷭ҇а́ гн҃ь съвръшаѭщаго е̑ле́ни </language><language value="sla"> </language><language value="sla">и̑ ѿкрыеть дѫ́бравꙑ</language><language value="sla"> </language><language value="sla">и̑ въ цр҃кви е̑гѡ въсѣ́кь и гл҃е́ть сла́вѫ </language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Glasul Domnului sfîrșaște cerbii;  </language><language value="sla"></language><language value="ro"> și descoaperi dumbrăvile,  </language><language value="sla"></language><language value="ro"> și în beseareca lui toți ce zic: „Slavă!” </language></variant>
+<variant sigle="CP2"><language value="ro">Glasul Domnului ce sfîrșaște cerbii;  și descoaperi dumbrăvile,  și în beseareca sa toți carii grăiesc: „Slavă!” </language></variant>
+<variant sigle="CP"><language value="ro">Glasul Domnului sfîrșaște cerbii; </language><dot color="black"/><language value="ro">și </language><page pageID="26r"/><language value="ro"> descoaperi dumbrăvile,și în beseareca lui toți ce zic: „Slavă!” </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro"> Glasul D[o]<i>m</i>nul[u]i sfîrșaște cerrbii; </language><dot color="red"/><language value="ro"> și descoapere dumbravile, </language><dot color="red"/><language value="ro"> și în băseareca lu<i>i</i> toți ce grăiescu: „Slavă!” </language></variant>
+<variant sigle="PH"><language value="ro">Glasulu Domnului ce sfîrşeşte <note><language value="ro"> Scris:  </language><language value="sla">сфръчеще</language><language value="ro">. </language></note> cerbii şi descoapere dumbravileşi în beseareca lui tot cenre va grăi „Slavă!”. </language></variant>
+<variant sigle="PG"><language value="lat">8. Vox domini praeparantis ceruos et reuelabit condensa: et in templo eius omnisdicet gloriam. </language></variant>
+<variant sigle="PR"><language value="lat">7. Vox domini praeparantis ceruos </language><page pageID=""/><language value="lat"> et reuelauit condensa: et in templo eius omnes dicent gloriam. </language></variant>
+</verse>
+<verse id="9">
+<variant sigle="CP1"><language value="sla">г҃ьпото́пь насе́лѣеть </language><language value="sla"> </language><language value="sla">и сѣдить г҃ь цр҃ь въ вѣ́кы</language><language value="sla"> </language><language value="sla">[10] г҃ькрѣ́постьлюдеⷨсвоиⷨ да́сть</language><language value="sla"> </language><language value="sla">г҃ь блⷭ҇ви́ть лю́ди своѧ мирѡⷨ</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Domnul potop aduce  </language><language value="sla"></language><language value="ro"> și șade <note><language value="ro"> Scris:  </language><language value="sla">ша́дѣ</language><language value="ro">. </language></note> Domnul împărat în veac. </language></variant>
+<variant sigle="CP2"><language value="ro">Domnul potop spre aceasta varsă  și șade Domnul împărat în veac. </language></variant>
+<variant sigle="CP"><language value="ro">Domnul potop aduce </language><dot color="black"/><language value="ro">și șade Domnul împărat în veac. </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro"> D[o]<i>m</i>nul potop aduce  </language><dot color="red"/><language value="ro"> și șade D[o]<i>m</i>nul împăratu în veacu. </language></variant>
+<variant sigle="PH"><language value="ro">Domnulu potop <note><language value="ro"> Scris:  </language><language value="sla">попътъ</language><language value="ro">. </language></note> va muta şi şedea-va Domnulu împărat în vecie. </language></variant>
+<variant sigle="PG"><language value="lat">9. Dominus diluuium inhabitare facit: et sedebit dominus rex in aeternum. </language></variant>
+<variant sigle="PR"><language value="lat">8. Dominus diluuium inhabitat: et sedebit dominus rex in aeternum. </language></variant>
+</verse>
+<verse id="10">
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Domnul tărie oamenilor săi dă,  </language><language value="sla"></language><language value="ro"> Do<i>m</i>nul bl[ago]<i>s</i>[lo]veaște oamenii săi cu pace. </language></variant>
+<variant sigle="CP2"><language value="ro">Domnul tărie oamenilo<i>r</i> săi dă,  Domnul bl[ago]<i>s</i>[lo]veaște oamenii săi cu pace. </language></variant>
+<variant sigle="CP"><language value="ro">Domnul tărie oamenilo<i>r</i> săi dă, </language><dot color="black"/><language value="ro">Domnul blagosloveaște oamenii săi cu pace. </language><dot color="black"/></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro"> D[o]<i>m</i>nul tărie oamerilo<i>r</i> săi dă,  </language><dot color="black"/><language value="ro"><red> D</red>[o]<i>m</i>nul bl[ago]<i>s</i>[lo]veaște oame<i>r</i>ii să<i>i</i> cu pace. </language></variant>
+<variant sigle="PH"><language value="ro">Domnulu tărie oamenrilor săi da-va, Domnulu blagoslovi-va oamerii săi cu pace. </language></variant>
+<variant sigle="PG"><language value="lat">10. Dominus virtutem populo suo dabit: dominus benedicet populo suo in pace. </language></variant>
+<variant sigle="PR"><language value="lat">9. Dominus virtutem populo suo dabit: et benedicet populum suum in pace. </language></variant>
+</verse>
+</psalm>

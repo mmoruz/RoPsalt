@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="psaltiri.css"?>
+<psalm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="roPsalt.xsd" id="132">
+<titles><title sigle="CP1" ><language value="sla">пⷭ҇ѣ сте́пены</language>. Cîntecele spițelor 132</title>
+<title sigle="CP1" ><language value="sla">пⷭ҇ѣ сте́пены</language>. Cîntecele spițelor 132</title>
+<title sigle="CP2" ><language value="sla">пⷭ҇ѣ́ сте́пенїи</language>. Cîntecele spițelo<i>r</i> 132</title>
+<title sigle="CP" ><red>Cîntecele spițelor • 132</red></title>
+<title sigle="PC" ><language value="sla"><red>пⷭ҇ѣ́. степе́нїи</red></language><red> 132</red></title>
+<title sigle="PS" ><red>C[în]te<i>ce</i> spițelo<i>r</i> 132</red></title>
+<title sigle="PH" ><red>132</red></title>
+<title sigle="PV" ><language value="sla"><red>пⷭ҇ѣ сⷫ҇ении рл҃в</red></language><red>. Cî<i>n</i>te<i>c</i>[e] 132</red></title>
+<title sigle="PG" ><red>Canticum graduum. CXXXII</red></title>
+<title sigle="PR" ><red>Canticum graduum. CXXXII</red></title>
+</titles><verse id="1">
+<variant sigle="CP1"><language value="sla">Сѐ нн҃ѣ что̀ до́бро илѝ что̀ кра́сно</language><language value="ro"> ++  </language><language value="sla">нѫ е̑же жи́ти бра́ти въкоу́пѣ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Adecă acmu ce bine și ce e frumosu </language><language value="sla">··</language> <language value="ro">ce să vie frații depreună? </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Adecă acmu ce e bine și ce e frumo<i>s</i> </language><language value="sla">··</language> <language value="ro">ce să lăcuiască frații depreună? </language></variant>
+<variant sigle="CP"><language value="ro"><red>•</red> <red>A</red>decă acmu ce e bine și ce e frumosu • ce să vie frații depreună? </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Adecă acmu ce e bine și ce e frumosu, </language><language value="sla">··</language> <language value="ro">ce să vie frații depreună! </language></variant>
+<variant sigle="PS"><language value="ro"><red>A</red>decă acmu ce e bine și ce e frumo<i>s</i> <red>•</red> ce se vie frații depreună! </language></variant>
+<variant sigle="PH"><language value="ro"><red>A</red>decă acmu ce e binre sau ce e frumo<i>s</i> numai se vie ca fraţi depreunră? </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>A</red>decă acmu ce e bire sau ce e frumosu, </language><language value="sla">··</language> <language value="ro"><red>c</red>e se vie frații depreună? </language></variant>
+<variant sigle="PG"><language value="lat">1. Ecce quam bonum et quam iocundum: habitare fratres in vnum. </language></variant>
+<variant sigle="PR"><language value="lat">1. Ecce quam bonum et quam iocundum: habitare fratres in vnum. </language></variant>
+</verse>
+<verse id="2">
+<variant sigle="CP1"><language value="sla">ꙗ̑ко мӱрѡⷨ на гла́вѣ съхо́дѧщее на бра́дѫ</language><language value="ro"> ++  </language><language value="sla">бра́дѫ а҆а҆рѡнѧ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Că mirul în cap ce deștinge în barbă, </language><language value="sla">··</language> <language value="ro">în barba lu Aaron, </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Că veșmîntul în cap, ce deștinge în barbă, </language><language value="sla">··</language> <language value="ro">în barba lu Aaro<i>n</i>, </language></variant>
+<variant sigle="CP"><language value="ro">• Că mirul în cap, ce deștinge în barbă, • în barba lu Aaron. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Ca miru<i>l</i> în ca<i>p</i>, ce dești<i>n</i>ge în barbă, <note><language value="ro"> Scris cu negru: punctul care desparte textul slavonesc de cel românesc. </language></note> </language><language value="sla">··</language> <language value="ro">în barba lu A<i>a</i>ron, </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Ca mirul în capu, ce deștinge în barbă, <red>•</red> în barba lu Arόn, </language></variant>
+<variant sigle="PH"><language value="ro">Ca mirul pre capu<i>l</i> se deştingă pre barba, barba lu Aaro<i>n</i>, </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>C</red>a miru<i>l</i> spre capu ce deștinge îm barbă, </language><language value="sla">··</language> <language value="ro"><red>în</red> ba<i>r</i>ba lui Aron, </language></variant>
+<variant sigle="PG"><language value="lat">2. Sicut vnguentum in capite: quod descendit in barbam </language><page pageID=""/><language value="lat"> barbam aaron. </language></variant>
+<variant sigle="PR"><language value="lat">2. Sicut vnguentum in capite: quod descendit in barbam </language><page pageID=""/><language value="lat"> barbam aaron. </language></variant>
+</verse>
+<verse id="3">
+<variant sigle="CP1"><language value="sla">съхо́дѧщее на ѡме́ты о҆де́ждѫ е̑го</language><language value="ro"> ++  </language><language value="sla">ꙗ̑ко роса̀ і҆е̑рмо́нскаа съхо́дѧщїа на го́ры сїѡ́нскыѧ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> De deștingea în omet veșmîntul <note><language value="ro"> Scris:  </language><language value="sla">бе́шмѫтꙋль</language><language value="ro">. </language></note> lui, </language><language value="sla">··</language> <language value="ro">ca roa Ermonului, ce deștinse în codrii Sionului. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> De deștingea în omet veșmîntu<i>l</i> lui, </language><language value="sla">··</language> <language value="ro">ca roa Ermonului, ce deștinse în codrii Sionului. </language><language value="sla">··</language> <language value="ro"></language><page pageID="273r"/><language value="ro"> </language></variant>
+<variant sigle="CP"><language value="ro">• De deștingea în omet veșmîntul lui, • ca roa Ermonului, ce deștinse în codrii Sionului. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> De deștingea în omet veșmî<i>n</i>tu<i>l</i> lui, </language><language value="sla">··</language> <language value="ro">ca roa Ermonulúi, ce deștinse în codrii Siónulu<i>i</i>. </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> De deștinge în ometu veșmîntu<i>l</i> lui, <red>•</red> ca rroao Ermonului, ce deștinse în codrii Sionului. </language></variant>
+<variant sigle="PH"><language value="ro">Se deştingă pre tivitura veşmie[n]telor a lui. Ca rroa Iermonulu ce deştinge pre dealurile Sionului. </language></variant>
+<variant sigle="PV"><language value="ro">Deștinge spre omătu veșmî<i>n</i>tu<i>l</i> lui, </language><language value="sla">··</language> <language value="ro"><red>c</red>a rrooa lui Errmonu ce deștinse spre codrii Siónu<i>l</i>[u]i. </language></variant>
+<variant sigle="PG"><language value="lat">3. Quod descendit in oram vestimenti eius: sicut ros hermon qui descendit in montem sion. </language></variant>
+<variant sigle="PR"><language value="lat">3. Quod descendit in oram vestimenti eius: sicut ros hermon qui descendit in montem sion. </language></variant>
+</verse>
+<verse id="4">
+<variant sigle="CP1"><language value="sla">ꙗ̑ко тоу заповѣ́да г҃ь блⷭ҇венїе живо́ть до вѣ́ка</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Că aciia zise Domnul </language><page pageID="258v"/><language value="ro"> blagoslovire, viață pînă în veac. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Că aciia zise Domnul bl[a]goslovire, viață pînă în veac. </language></variant>
+<variant sigle="CP"><language value="ro">• Că aciia zise Domnul blagoslovire, viață pînă în veac. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Că aciia zise Do<i>m</i>nu<i>l </i>bla_ </language><page pageID="152r"/><language value="ro"> goslovire, viața pînă în veac. </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Că acie dzise D[om]nu<i>l</i> bl[ago]<i>s</i>[lo]vire, viiață pînă în v<i>ea</i>cu. </language></variant>
+<variant sigle="PH"><language value="ro">Că acie dzise Dumnedzeu viaţă pănră în veacu. </language><page pageID="114v"/><language value="ro"> </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>C</red>ă aciia dzise D[o]mnu<i>l</i> bl[ago]<i>s</i>[lo]vire, viiață pără în veacu. </language></variant>
+<variant sigle="PG"><language value="lat">4. Quoniam illic mandauit dominus benedictionem: et vitam vsque in saeculum. </language></variant>
+<variant sigle="PR"><language value="lat">4. Quoniam illic mandauit dominus benedictionem: et vitam vsque in saeculum. </language></variant>
+</verse>
+</psalm>

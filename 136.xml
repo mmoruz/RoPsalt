@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="psaltiri.css"?>
+<psalm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="roPsalt.xsd" id="136">
+<titles><title sigle="CP1" ><language value="sla">пѣ́снь да́вида о̑ і̑е̑ре́́мїи</language>. Cîntarea lu David de Ieremiia 136</title>
+<title sigle="CP1" ><language value="sla">пѣ́снь да́вида о̑ і̑е̑ре́́мїи</language>. Cîntarea lu David de Ieremiia 136</title>
+<title sigle="CP2" ><language value="sla">п͑҇ѣ́ двⷣа о̑ іере́́мїи</language>. Cîntarea lu D[a]v[i]d de Ieremie 136</title>
+<title sigle="CP" ><red>Cîntarea lu David de Ieremiia • 136</red>} /158r</title>
+<title sigle="PC" ><language value="sla"><red>пѣ́снь давы́да о̑ і̑еремїи</red></language><red>. Cî<i>n</i>tarea lu<i>i</i> D[a]v[i]d de Ieremiia 136</red></title>
+<title sigle="PS" ><red>C[în]tarea lu D[a]v[i]<i>d</i> de Ieremiia 136</red></title>
+<title sigle="PH" ><red>David de la</red><note> Adăugat deasupra rândului.</note><red> </red><language value="sla"><red>Іеремианꙋ десꙋ</red></language><note> Secvenţă neclară, fără corespondent în sursele slavone cunoscute; poate fi recunoscut numele <i>Ieremia</i>, păstrat şi de celelalte Psaltiri.</note></title>
+<title sigle="PV" ><red>[Cî]ntarea</red><note> Primele două litere scrise probabil pe fila lipsă.</note><red> lui Davidu de Eremiia</red></title>
+<title sigle="PG" ><red>Hieremiae. CXXXVI</red></title>
+<title sigle="PR" ><red>Psalmus Dauid. CXXXVI</red></title>
+</titles><verse id="1">
+<variant sigle="CP1"><language value="sla">На рѣ́цѣ вавӱлѡнстѣи, тꙋ сѣ́дохѡⷨ и҆ плакахѡⷨ</language><language value="ro"> ++  </language><language value="sla">пѡмѣ́нѫше сїѡна</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> La rîul Vavilonului, aciia șezum și plînse<i>m</i>, </language><language value="sla">··</language> <language value="ro">cînd pomeniiam Sionul. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> La rîul Vavilonului, acolo șezu<i>m</i> și plense<i>m</i>, </language><language value="sla">··</language> <language value="ro">pomeniiam Sionul. </language></variant>
+<variant sigle="CP"><language value="ro"><red>•</red> <red>L</red>a rîul Vavilonului, aciia șezum și plînsem, cînd pomeniiam Sionul. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> La rîu<i>l</i> Vavilonulúi, aciia șezu<i>m</i> și plî<i>n</i>se<i>m</i>, </language><language value="sla">··</language> <language value="ro">cînd pomeniiam Siónu<i>l</i>. </language></variant>
+<variant sigle="PS"><language value="ro"><red>L</red>a <note><language value="ro"> Scris:  </language><language value="sla"><red>Л</red>аоу</language><language value="ro">. </language></note> riul Vavilonului, acie ședzu<i>m</i> și plînse<i>m</i>, cînd pomeniiamu noi Sionul. </language></variant>
+<variant sigle="PH"><language value="ro"><red>L</red>a rriul Vavilonului, aciia şedzum şi </language><page pageID="116v"/><language value="ro"> plînsem, că pomenim noi Sionu<i>l</i>. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>L</red>a rrîu<i>l</i> Vav[[ilo]]nul[u]i <note><language value="ro"> Ilizibil: -<i>ilo</i>-; pagină deteriorată. </language></note>, </language><language value="sla">··</language> <language value="ro"><red>a</red>cii ședzumu și plî<i>n</i>semu, de cîndu pomeniiamu noi Sionu<i>l</i>. </language></variant>
+<variant sigle="PG"><language value="lat">1. Super flumina babylonis illic sedimus et fleuimus: cum recordaremur sion. </language></variant>
+<variant sigle="PR"><language value="lat">1. Super flumina babylonis illic sedimus et fleuimus: dum recordaremur tui sion. </language></variant>
+</verse>
+<verse id="2">
+<variant sigle="CP1"><language value="sla">на връби посрѣ́дѣ е̑ѫ о̑бѣ́сихѡⷨ ѡ</language><language value="sla">_ </language><page pageID="262v"/><language value="sla">  </language><language value="sla">рганы на́шѧ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> În salce, pre mijloc de ea, spînzurăm organele noastre, </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> În sălci, pre mijloc de ea, spînzurăm organele noastre, </language></variant>
+<variant sigle="CP"><language value="ro">• În salce, pre mijloc de ea, spînzurăm organele noastre. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> În sa<i>l</i>ce, pre mijloc de ea, spîndzurăm organele noastre, </language></variant>
+<variant sigle="PS"><language value="ro">• În salce, pre mijloc de ea <note><language value="ro"> Scris:  </language><language value="sla">ꙟ</language><language value="ro">. </language></note>, spîndzurămu organele noastre, </language></variant>
+<variant sigle="PH"><language value="ro">În salce, în mijlocu<i>l</i> ei, spîndzurăm orgoanele noastre. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>În</red> sa<i>l</i>ce, pri<i>m</i> mi<i>j</i>lo<i>c</i> de ea, spîndzurămu orrganele noastre, </language></variant>
+<variant sigle="PG"><language value="lat">2. In salicibus in medio eius: suspendimus organa nostra. </language></variant>
+<variant sigle="PR"><language value="lat">2. In salicibus in medio eius: suspendimus organa nostra. </language></variant>
+</verse>
+<verse id="3">
+<variant sigle="CP1"><language value="sla">ꙗ̑ко тꙋ въпросиши ны плѣ́ишенны сло́вⷭ҇е пѣ́снеи</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Că aciia întrebară-ne prădătorii-ne cuvintele de cîntări </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Că aciia întrebară-ne prădătorii de cuvintele de cîntări, </language></variant>
+<variant sigle="CP"><language value="ro">• Că aciia întrebară-ne prădătorii-ne cuvinte de cîntări. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> <red>C</red>ă aciia întrebară-ne prădătorii-ne cuventele de cî<i>n</i>tări </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Că acie întrebară-nă prădătorii-nă cuvinte de cîntari </language></variant>
+<variant sigle="PH"><language value="ro">Că acolo întrebară-ne cei ce ne prădară cuvente de a <note><language value="ro"> Adăugat deasupra rândului. </language></note> cîntecelor: </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>C</red>ă acie întrebară-ne prădătorii-ne cuvente de cîntare </language></variant>
+<variant sigle="PG"><language value="lat">3. Quia illic interrogauerunt nos qui captiuos duxerunt nos: verba cantionum. </language></variant>
+<variant sigle="PR"><language value="lat">3. Quia illic interrogauerunt nos qui captiuos duxerunt nos </language><page pageID=""/><language value="lat"> verba cantionum: </language></variant>
+</verse>
+<verse id="4">
+<variant sigle="CP1"><language value="sla">и҆ ве́дшеи на́сь пѣ́нїе</language><language value="ro"> ++  </language><language value="sla">въспои́те на́мь ѿ пѣ́снеи сїѡнскыⷯ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Și ducea noi în cîntare: </language><language value="sla">··</language> <language value="ro">„Cîntați noao de cîntecele Sionuluiˮ. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Și cei ce ducea pre noi de cîntare: </language><language value="sla">··</language> <language value="ro"></language><page pageID="278v"/><language value="ro"> </language><language value="sla">··</language> <language value="ro">„Cîntați noao de cîntecele Sionului!ˮ </language></variant>
+<variant sigle="CP"><language value="ro">• Și ducea noi în cîntare: • „Cîntați noao de cîntecele Sionului!ˮ </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Și ducea noi în cîntare: </language><page pageID="157r"/><language value="ro"> </language><language value="sla">··</language> <language value="ro">„Cî<i>n</i>tați noao de cîntecele Siónului!ˮ </language></variant>
+<variant sigle="PS"><language value="ro">• Și ducea noi în cîntare: • „Cîntați noao de cînte<i>ce</i>le Sionulúi!ˮ </language></variant>
+<variant sigle="PH"><language value="ro">„Cîntaţi noa[o] de cîntecele Sionului!”. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>Ș</red>i ducea pre noi în cîntare: </language><language value="sla">··</language> <language value="ro">„<red>C</red>întați noo[u15] de cîntecele Sionului!ˮ </language></variant>
+<variant sigle="PG"><language value="lat">4. Et qui abduxerunt nos: hymnum cantate nobis de canticis sion. </language></variant>
+<variant sigle="PR"><language value="lat">et qui abduxerunt nos. 4. Hymnum cantate nobis de canticis sion: </language></variant>
+</verse>
+<verse id="5">
+<variant sigle="CP1"><language value="sla">ка́ко въспоеⷨ пѣ́снь гн҃ѧ на́ земли тоу́ждеи</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Cum cînta-vre<i>m</i> <note><language value="ro"> Scris:  </language><language value="sla">вънтавреⷨ</language><language value="ro">. </language></note> cîntarea <note><language value="ro"> Scris:  </language><language value="sla">кътарѣ</language><language value="ro">. </language></note> Domnului în țeară striină? </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Cuvînta-vre<i>m</i> cîntarea Do<i>m</i>nului în pămînt striină? </language></variant>
+<variant sigle="CP"><language value="ro">• Cum cînta-vrem cîntarea Domnului în țeară striină? </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> <red>C</red>um cî<i>n</i>ta-vre<i>m</i> cîntarea Do<i>m</i>nului în țeară striină? </language></variant>
+<variant sigle="PS"><language value="ro">Cumu vremu cînta cîntare D[om]nului în țeară striină? </language></variant>
+<variant sigle="PH"><language value="ro">Cum vrem cînta cîntecul lu Domnedzău pre pămînt striinru? </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>C</red>u<i>m</i> vre<i>m</i> cînta cîntarea D[o]mnu<i>l</i>[u]i în țară striiră? </language></variant>
+<variant sigle="PG"><language value="lat">5. Quomodo cantabimus canticum domini: in terra aliena? </language></variant>
+<variant sigle="PR"><language value="lat">quomodo cantabimus canticum domini in terra aliena? </language></variant>
+</verse>
+<verse id="6">
+<variant sigle="CP1"><language value="sla">а҆ще забѫ́дѫ те́бе і҆е҆рⷭ҇лиⷨ, забвена бѫдѝ десница моа̀</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Să ultare tine, Ierusalime, ultară fie derepta mea! </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Să voiu ulta pre tine, Ierusalime, ultată să fie derepta mea! </language></variant>
+<variant sigle="CP"><language value="ro">• Să ultare tine, Ier[u]<i>s</i>[a]lime, ultară fie derepta mea! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> <red>S</red>ă uitare tine, Ierosalime, uitată fie derepta mea! </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Să ultaru </language><page pageID="446"/><language value="ro"> tine, Ier[u]<i>s</i>[a]l[i]me, ultată <note><language value="ro"> Slova - </language><language value="sla">оу</language><language value="ro">- este scrisă peste un punct roșu. </language></note> fie dereapta me! </language></variant>
+<variant sigle="PH"><language value="ro">Se aşu uita tinri, Ierusalime, uitată fie dereapta mea! </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>S</red>e uitare tire, Ierosálime, uitată fie derepta mea. </language></variant>
+<variant sigle="PG"><language value="lat">6. Si oblitus fuero tui hierusalem: obliuioni detur dextera mea. </language></variant>
+<variant sigle="PR"><language value="lat">5. Si oblitus fuero tui hierusalem </language><page pageID=""/><language value="lat"> obliuiscatur me dextera mea / </language></variant>
+</verse>
+<verse id="7">
+<variant sigle="CP1"><language value="sla">прилъпнѝ ѧзы́кь мои грътани моеⷨ аще не помѣ́ню те́бе</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Să lipească-se li<i>m</i>ba mea de grumazul mieu, să nu pomeni-voiu tine, </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Să lipească-se li<i>m</i>ba mea de grumazu<i>l</i> mieu, să nu pomeni-voiu tine: </language></variant>
+<variant sigle="CP"><language value="ro">• Să lipească-se limba mea de grumazul mieu, să nu pomeni-voiu tine: </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Să lipească-se li<i>m</i>ba mea de grumazu<i>l</i> mieu să nu pomeni-voiu tine! </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Se leapescă-se limba me de pănațu<i>l</i> mieu, se nu pomeni-voiu tine: </language></variant>
+<variant sigle="PH"><language value="ro">Lepească-se limba mea grumadzilor miei, </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>S</red>e se lipască li<i>m</i>ba mea de grumadzu<i>l</i> mieu se nu pomenire tire: </language></variant>
+<variant sigle="PG"><language value="lat">7. Adhaereat lingua mea faucibus meis: si non meminero tui. </language></variant>
+<variant sigle="PR"><language value="lat">adhaereat lingua mea faucibus meis: si non meminero tui. </language></variant>
+</verse>
+<verse id="8">
+<variant sigle="CP1"><language value="sla">а҆ще не прⷣѣло́жѫ і҆е҆рⷭ҇лима ꙗ̑ко въ началѡ весе́лїа мое̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Să nu ainte pomeni-voiu Ie_ </language><page pageID="263r"/><language value="ro"> rusalimul ca începutul veseliei meale. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Să nu ainte pomeni-voiu Ierusalimu<i>l</i> ca începutul veseliei mealeˮ. </language></variant>
+<variant sigle="CP"><language value="ro">• Să nu ainte pomeni-voiu Ier[u]<i>s</i>[a]limul ca începutul veseliei meale </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Să nu ainte pomeni-voiu Ier[u]<i>s</i>[a]l[i]mu<i>l</i> ca începutu<i>l</i> veselii meale! </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Se nu ainte pune-voiu Ier[u]<i>s</i>[a]l[i]mul ca începutu<i>l</i> ve<i>s</i>[e]liei mele! </language></variant>
+<variant sigle="PH"><language value="ro">se nu înrainte-aşu punre Ierusalimulu ca dentru începutulu veseliiei meale. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>S</red>e nu ainte pomeni-voiu Ierosalimu<i>l </i>ca în ceputu<i>l</i> <note><language value="ro"> Cf. sl.  </language><language value="sla">ꙗ̑ко въ на́чѧло</language><language value="ro">. </language></note> veselieei meale! </language></variant>
+<variant sigle="PG"><language value="lat">8. Si non proposuero hierusalem: in principio laetitiae meae. </language></variant>
+<variant sigle="PR"><language value="lat">6. Si non praeposuero hierusalem: in principio laetitiae meae. </language></variant>
+</verse>
+<verse id="9">
+<variant sigle="CP1"><language value="sla">помѣнѝ г҃и сн҃ы е̑дѡмскыѧ въ дн҃ь і҆е҆рⷭ҇лимовь</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Pomeneaște, Doamne, fiii Edomului în zioa Ier[u]<i>s</i>[a]limului, </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Pomeneaște, Doamne, fiii lu Edomu în zilele Ier[u]<i>s</i>[a]limului, </language><language value="sla">··</language> <language value="ro"></language><page pageID="279r"/><language value="ro"> </language></variant>
+<variant sigle="CP"><language value="ro">• Pomeneaște, Doamne, fiii Edomului în zioa Ier_ </language><page pageID="158v"/><language value="ro"> [u]<i>s</i>[a]limului! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> <red>P</red>omeneaște, Doa<i>m</i>ne, fiii Edomulu<i>i</i> în dzioa Ier<i>s</i>[a]l[i]mului, </language></variant>
+<variant sigle="PS"><language value="ro">• Pomeaneaște, D[oam]ne, fii Edomului în dzua Ier[u]<i>s</i>[a]l[i]mului, </language></variant>
+<variant sigle="PH"><language value="ro">Pomeneaşte, Doamne, fii[i] Edomului în dzua Ierusalimului, </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>P</red>omeneaște, D[oa]mne, fiii Edomu<i>l</i>[u]i în dzua Ierosa[li]mului <note><language value="ro"> Scris greșit:  </language><language value="sla">і̑е̑росамоулꙋи</language><language value="ro">. </language></note>, </language><page pageID="39v"/><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">9. Memor esto domine filiorum edom: in diem hierusalem. </language></variant>
+<variant sigle="PR"><language value="lat">7. Memento domine filiorum edom: in die hierusalem: </language></variant>
+</verse>
+<verse id="10">
+<variant sigle="CP1"><language value="sla">гл҃ѧщѫѧ и҆стъщаи́те и̑стъщаѝте до о҆снованїи е̑и</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Ce ziseră: „Deșertați, deșertați pînă la urziturile eiˮ. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Ce zicea: „Deșertați, deșertați pînă la temeliia ei!ˮ </language></variant>
+<variant sigle="CP"><language value="ro">• Ce ziseră: „Deșertați, deșertați pînă la urziturile ei!ˮ. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Ce dziseră: „Deșertați, </language><page pageID="157v"/><language value="ro"> deșertați pînă la urdziturile ei!ˮ </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Ce dziseră: „Deșerrtați <note><language value="ro"> Scris:  </language><language value="sla">дешеррта́цїи</language><language value="ro">. </language></note>, deșertați <red>•</red> pînă la urdziturile ei!ˮ </language></variant>
+<variant sigle="PH"><language value="ro">Cinre grăiia: „Deşertaţi, deşertaţi pănra la urdzirea lui!” </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>C</red>e dzisără: „Deșe<i>r</i>tați, deșe<i>r</i>tați pără la u<i>r</i>dziturile lui!ˮ </language></variant>
+<variant sigle="PG"><language value="lat">10. Qui dicunt exinanite </language><page pageID=""/><language value="lat"> exinanite: vsque ad fundamentum in ea. </language></variant>
+<variant sigle="PR"><language value="lat">8. Qui dicunt exinanite </language><page pageID=""/><language value="lat"> exinanite: quousque ad fundamentum in ea. </language></variant>
+</verse>
+<verse id="11">
+<variant sigle="CP1"><language value="sla">дъщи вавӱлѡнѣ о҆каа́на</language><language value="ro"> ++  </language><language value="sla">бл҃же́нь и҆же възда́сть те́бѣ възда́нїе твоѐ е̑же въздасть на́мь</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Fiele Vavilonului măratele, </language><language value="sla">··</language> <language value="ro">ferice de cel ce dă ție darea ta ce dat-ai noao. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Fiele Vavilonului amăratele! Ferice de cel ce da-va ție darea ta ce dat-ai noao! </language></variant>
+<variant sigle="CP"><language value="ro">Fiele Vavilonului măratele! • Ferice de cel ce dă ție darea ta ce dat-ai noao! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Fiele Vavilo<i>n</i>ului măratele! Ferice de cel ce dă ție darea ta ce dat-ai noao! </language></variant>
+<variant sigle="PS"><language value="ro">Fiile Vavilonului, vai de iale! <red>•</red> Ferice de cel ce dă ție darea ta ce dai noao! </language></variant>
+<variant sigle="PH"><language value="ro">Featele Vavilonului, mişelelor, fericatu e cenre va plăti ţie plata ta ce ea va plati noo. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>F</red>eatele Vavilonului măratele! </language><language value="sla">··</language> <language value="ro"><red>F</red>erice de cela ce dă ție darea ta ce ai datu <note><language value="ro"> Scris:  </language><language value="sla">даⷮоу̏</language><language value="ro">, cf. PVsl.  </language><language value="sla">въꙁда́сть</language><language value="ro">. </language></note> noao. </language></variant>
+<variant sigle="PG"><language value="lat">11. Filia babylonis misera </language><page pageID=""/><language value="lat"> beatus qui retribuet tibi retributionem tuam: quam retribuisti nobis. </language></variant>
+<variant sigle="PR"><language value="lat">9. Filia babylonis misera </language><page pageID=""/><language value="lat"> beatus qui retribuet tibi retributionem tuam: quam tu retribuisti nobis </language></variant>
+</verse>
+<verse id="12">
+<variant sigle="CP1"><language value="sla">бл҃жень иже имѧть и разбїеть мла́денцѧ твоѧ̏ о҆ ка́мень</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Ferice cine prinde și frînge tinerii tăi de piatră. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Ferice de cine prinde-va și frînge tinerii tăi de piatră! </language></variant>
+<variant sigle="CP"><language value="ro">• Ferice cine prinde și frînge tinerii tăi de piatră! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Ferice cine prinde și frînge tinerii tăi de piatră! <red>Sla<i>v</i>ă!</red> </language></variant>
+<variant sigle="PS"><language value="ro">• Ferice cine prinde și frînge tînerii <note><language value="ro"> Scris:  </language><language value="sla">ънере́и</language><language value="ro">. </language></note> tăi de piatră! </language></variant>
+<variant sigle="PH"><language value="ro">Ferice e ce va lua şi va răzbi pruncii tăi de piiatră. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>F</red>erice cire prinde și frînge tirerii tăi de piatră. </language></variant>
+<variant sigle="PG"><language value="lat">12. Beatus qui tenebit et allidet: paruulos tuos ad petram. </language></variant>
+<variant sigle="PR"><language value="lat">10. Beatus qui tenebit et allidet: paruulos tuos ad petram. </language></variant>
+</verse>
+</psalm>

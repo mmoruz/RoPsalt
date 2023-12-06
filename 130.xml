@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="psaltiri.css"?>
+<psalm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="roPsalt.xsd" id="130">
+<titles><title sigle="CP1" ><language value="sla">пⷭ҇ѣ степенїи</language>. Cîntecele spițelor 130</title>
+<title sigle="CP1" ><language value="sla">пⷭ҇ѣ степенїи</language>. Cîntecele spițelor 130</title>
+<title sigle="CP2" ><language value="sla">пⷭ҇ѣ́ степенїи</language>. Cîntecele spițelo<i>r</i> 130</title>
+<title sigle="CP" ><red>Cîntecele spițelo<i>r</i> • 130 </red></title>
+<title sigle="PC" ><language value="sla"><red>пⷭ҇ѣ́. степе́нїи</red></language><red>. 130</red></title>
+<title sigle="PS" ><red>C[în]te<i>ce</i> spițelo<i>r</i></red><note> Urmează semnul „:”, scris cu roșu.</note><red> 130</red></title>
+<title sigle="PH" ><red>Cîntarea 130</red></title>
+<title sigle="PV" ><language value="sla"><red>пⷭ҇ѣ сте́пенїи</red></language><red>. 130</red></title>
+<title sigle="PG" ><red>Canticum graduum. CXXX</red></title>
+<title sigle="PR" ><red>Canticum graduum. CXXX</red></title>
+</titles><verse id="1">
+<variant sigle="CP1"><language value="sla">Ги҃ не възнⷭ҇есесѧ срⷣ҇це моѐ, нѝ възне́состѣсѧ о҆чи мои</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Doamne, nu rădică-se inema mea, nece înălțară-se ochii miei. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Doamne, nu rădică-se inima mea, nece înălțară-se ochii miei. </language></variant>
+<variant sigle="CP"><language value="ro"><red>•</red> Doamne, nu rădică-se inema mea, nece înălțară-se ochii miei. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Doa<i>m</i>ne, nu rădicắ-se inema mea, nece se înălțară-se ochii miei. </language></variant>
+<variant sigle="PS"><language value="ro"><red>D</red>[oam]ne, nu rădică-se înema me, ni<i>ci</i> înălțară-se ochii miei. </language></variant>
+<variant sigle="PH"><language value="ro"><red>D</red>oamne, nu se înrălţă înrima mea, nece se înră[l]ţară ochii miei. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>D</red>[oam]ne, nu sе rrădică înrema mea, </language><language value="sla">··</language> <language value="ro"><red>n</red>ece se înralță ochii miei <note><language value="ro"> Scris:  </language><language value="sla">мїе</language><language value="ro">. </language></note>. </language></variant>
+<variant sigle="PG"><language value="lat">1. Domine non est exaltatum cor meum: neque elati sunt oculi mei. </language></variant>
+<variant sigle="PR"><language value="lat">1. Domine non est exaltatum cor meum: neque elati sunt oculi mei. </language></variant>
+</verse>
+<verse id="2">
+<variant sigle="CP1"><language value="sla">нѝ хѡ́диⷯ въ вели́кыⷯ нѝ въ ди́вныⷯ па́че ме́не</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Nece îmblaiu cu nalții, nece cu mai minunații de mine. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Nece îmblaiu întru mai marii, nece cu mai minunații de mine. </language></variant>
+<variant sigle="CP"><language value="ro">• Nece îmblaiu cu înalții, nece cu mai minunații de mine. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Nece îmblaiu cu na<i>l</i>ții, nice cu mai-minunații </language><page pageID="149v"/><language value="ro"> de mene. </language></variant>
+<variant sigle="PS"><language value="ro">• Nici îmblaiu cu înalți, ni<i>ci </i>cu mai minunații de mine. </language></variant>
+<variant sigle="PH"><language value="ro">Nice îmblaiu mai în mari, nece în mai iudaţi de menre. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>Nice îmblaiu </red>cu înralții, nice cu mai mirurații de mere. </language></variant>
+<variant sigle="PG"><language value="lat">2. Neque ambulaui in magnis: neque in mirabilibus super me. </language></variant>
+<variant sigle="PR"><language value="lat">2. Neque ambulaui in magnis: neque in mirabilibus super me. </language></variant>
+</verse>
+<verse id="3">
+<variant sigle="CP1"><language value="sla">а̑ще не смѣрѣахсѧ не възнесохь дш҃ѫ моѫ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Să nu </language><page pageID="256r"/><language value="ro"> plecaret mîndriia ce înălțară sufletul mieu, </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Că să nu mă plecai ce înălțai sufletu<i>l</i> mieu, </language></variant>
+<variant sigle="CP"><language value="ro">• Să nu plecaret mîndriia ce înălțară sufletul mieu. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Să nu plecaret sufletu<i>l</i> mieu, </language><language value="sla">··</language> <language value="ro"></language></variant>
+<variant sigle="PS"><language value="ro">• </language><page pageID="434"/><language value="ro"> Se nu plecare<i>t</i> mîndrriia, ce înălțaiu sufletu<i>l</i> mieu </language></variant>
+<variant sigle="PH"><language value="ro">Se nu smerit înţeleşu, ce înrălţaiu sufletu<i>l</i> mieu. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>S</red>e nu plecare tu mîndriia ce înralță sufletul mieu, </language></variant>
+<variant sigle="PG"><language value="lat">3. Si non humiliter sentiebam: sed exaltaui animam meam. </language></variant>
+<variant sigle="PR"><language value="lat">3. Si non humiliter sentiebam: sed exaltaui animam meam. </language></variant>
+</verse>
+<verse id="4">
+<variant sigle="CP1"><language value="sla">ꙗ̑ко ѿдое́нѡе на мт҃е́рь своѫ</language><language value="ro"> ++  </language><language value="sla">ꙗ̑ко възда́си на дш҃ѫ моѫ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Ca băiatul spre mumă-sa, </language><language value="sla">··</language> <language value="ro">că da-veri spre sufletul mieu. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Ca băiatul spre mumă-sa, </language><language value="sla">··</language> <language value="ro">că da-veri spre sufletul mieu. </language></variant>
+<variant sigle="CP"><language value="ro">• Ca băiatul spre mumă-sa, • că da-veri spre sufletul mieu. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Ca băiatu<i>l</i> spre mumă-sa, </language><language value="sla">··</language> <language value="ro"><red>c</red>ă da-veri spre sufletu<i>l </i>mieu. </language></variant>
+<variant sigle="PS"><language value="ro">• Ca băiatul spre ma-sa, <red>•</red> că da-veri spre sufletu<i>l</i> mieu. </language></variant>
+<variant sigle="PH"><language value="ro">Ca aplecatul cătră mumă-sa, că veri da pre sufletu<i>l</i> mieu. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>C</red>a sugătoriu<i>l</i> spre maică-sa, </language><language value="sla">··</language> <language value="ro"><red>c</red>ă veri da spre sufletu<i>l</i> mieu. </language></variant>
+<variant sigle="PG"><language value="lat">4. Sicut ablactatus est super matre sua: ita retributio in anima mea. </language></variant>
+<variant sigle="PR"><language value="lat">4. Sicut ablactatus super matre sua: ita retribues in animam meam. </language></variant>
+</verse>
+<verse id="5">
+<variant sigle="CP1"><language value="sla">да оу̑повае̑ть і҆ил҃ь на г҃а, ѿни́нѣ́ и̑ дѡ вѣка</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Să upovăiască I[sra]il spre Domnul de acmu pînă în veac. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Să upovăiască I[sra]il spre </language><page pageID="270v"/><language value="ro"> Domnul, de acmu și pînă în veac. </language></variant>
+<variant sigle="CP"><language value="ro">• Să upovăiască Israil spre Domnul, de acmu pînă în veac. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Să upovăiască I[zra]il spre Do<i>m</i>nul de acmu pînă în veac! </language></variant>
+<variant sigle="PS"><language value="ro">• Să upuvăiască Is[rai]l spre D[om]nu<i>l</i>, de acmu pînă în veacu. </language></variant>
+<variant sigle="PH"><language value="ro">Se nedejdească Israil pre Dumnedzeu de acmu şi pără în veac. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>S</red>e nedejduiască creștiru<i>l</i> spre D[om]<i>n</i>u<i>l</i> </language><language value="sla">··</language> <language value="ro"><red>d</red>e acmu pără în veac. </language></variant>
+<variant sigle="PG"><language value="lat">5. Speret israel in domino: ex hoc nunc et vsque in saeculum. </language></variant>
+<variant sigle="PR"><language value="lat">5. Speret israel in domino: ex hoc nunc et vsque in saeculum. </language></variant>
+</verse>
+</psalm>

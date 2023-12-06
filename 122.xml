@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="psaltiri.css"?>
+<psalm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="roPsalt.xsd" id="122">
+<titles><title sigle="CP1" ><language value="sla">пⷭ҇ѣ степенїи</language>. Cîntecele spițelor 122</title>
+<title sigle="CP1" ><language value="sla">пⷭ҇ѣ степенїи</language>. Cîntecele spițelor 122</title>
+<title sigle="CP2" ><language value="sla">пⷭ҇ѣ́</language> <language value="sla">степенїи</language>. Cîntecele spițelo<i>r</i> 122</title>
+<title sigle="CP" ><red>Cîntecele spițelor • 122</red></title>
+<title sigle="PC" ><language value="sla"><red>пⷭ҇ѣ́</red></language><red> </red><language value="sla"><red>степе́нїи</red></language><red>. Cî<i>n</i>. 122</red></title>
+<title sigle="PS" ><red>C[în]te<i>ce</i> spițelor 122</red><note> Urmează semnul „:”, scris cu roșu.</note></title>
+<title sigle="PH" ><red>Cî[n]tec [122]</red></title>
+<title sigle="PV" ><language value="sla"><red>пⷭ҇ѣ́</red></language><red> </red><language value="sla"><red>степеⷩ҇ⷩ</red></language><red>. Cî<i>n</i>tece ste<i>p</i>[eni]</red></title>
+<title sigle="PG" ><red>Canticum graduum. CXXII</red></title>
+<title sigle="PR" ><red>Canticum graduum. CXXII</red></title>
+</titles><verse id="1">
+<variant sigle="CP1"><language value="sla">К тебѣ възве́дохь о̑чи моа̀ жи́вѫщемꙋ на нб҃си</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Cătră tine rădicai ochii miei, vietoriul în ceriu. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Cătră tine rădicai ochii miei, ce viezi în ceriu. </language></variant>
+<variant sigle="CP"><language value="ro"><red>C</red>ătră tine rădicai ochii miei, viitoriul în ceriu. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Cătră tine rădicaiu ochii miei, vietoriu<i>l</i> în ceriu. </language></variant>
+<variant sigle="PS"><language value="ro"><red>C</red>ătră tine rrădicaiu ochii miei, vietoru<i>l</i> în cerure. </language></variant>
+<variant sigle="PH"><language value="ro"><red>C</red>ătră tinre rrădicaiu ochii miei, celui ce vii în ceriu. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>C</red>ătră tire rrădicaiu ochii miei, viitoriu<i>l</i> spre ceriu. </language></variant>
+<variant sigle="PG"><language value="lat">1. Ad te leuaui oculos meos: qui habitas in coelis. </language></variant>
+<variant sigle="PR"><language value="lat">1. Ad te leuaui oculos meos: qui habitas in coelo. </language></variant>
+</verse>
+<verse id="2">
+<variant sigle="CP1"><language value="sla">сѐ ꙗ̑ко о̑чи ра́бь въ рѫ́цѣ го́спѡднїи своиⷯ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Adecă, ca ochii șerbilor în mîinile domnilor săi, </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Adecă, ca ochii robilo<i>r</i> în mînile domnilo<i>r</i> săi, </language></variant>
+<variant sigle="CP"><language value="ro">• Adecă, ca ochii șerbilo<i>r</i> în mîinile domnilo<i>r</i> săi. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> <red>A</red>decă, ca ochii șerbilo<i>r</i> în mînule do<i>m</i>nilo<i>r</i> săi, </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Adecă, ca ochii șerrbilor în mînule d[om]nilor să<i>i</i>, </language></variant>
+<variant sigle="PH"><language value="ro">Adecă ca ochii şerbului în mînrule domnilor săi </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>A</red>decă ca ochii șe<i>r</i>bilo<i>r</i> în mîrule do<i>m</i>nilo<i>r</i> săi, </language></variant>
+<variant sigle="PG"><language value="lat">2. Ecce sicut oculi seruorum: in manibus dominorum suorum. </language></variant>
+<variant sigle="PR"><language value="lat">2. Ecce sicut oculi seruorum: in manibus dominorum suorum. </language></variant>
+</verse>
+<verse id="3">
+<variant sigle="CP1"><language value="sla">ꙗ̑ко о̑чи рабынѧ въ рѫ́коу го́спождѫ своѫ</language><language value="ro"> ++  </language><language value="sla">та́ко о́чи на́ши къ г҃ꙋ б҃ꙋ на́шему дондеже оущедри́т ны</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Ca ochii șarbelor în mî_ </language><page pageID="250r"/><language value="ro"> inile doamnelor sale, </language><language value="sla">··</language> <language value="ro">așa și ochii noștri cătră Dumnezeul nostru pînă milui-ne-va. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Ca o_ </language><page pageID="264r"/><language value="ro"> chii roabei în mîniile doamnelo<i>r</i> sale, </language><language value="sla">··</language> <language value="ro">așa și ochii noștri cătră Dumnezeul nostru pînă milui-ne-va. </language></variant>
+<variant sigle="CP"><language value="ro">• Ca ochii șarbelo<i>r</i> în mîinile doamnelo<i>r</i> sale, • așa și ochii noștri cătră Dumnezeul nostru pînă milui-ne-va. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Ca ochii șarbelo<i>r</i> în mînule doa<i>m</i>nelo<i>r </i>sale, </language><language value="sla">··</language> <language value="ro">așa și ochii noștri cătră Dumnedzeu<i>l</i> nostru pînă milui-ne-va </language></variant>
+<variant sigle="PS"><language value="ro">Ca ochi șerbilor în mînule doamnelor sale, <red>•</red> așa și </language><page pageID="425"/><language value="ro"> ochi noștri cătră D[umne]dzeu<i>l</i> nostru pînă milui-nă-va. </language></variant>
+<variant sigle="PH"><language value="ro">Şi adecă ca ochii şerbeei în mînrule doamnă-sa, aşea ochii noştri cătră Domnulu Dumnedzeu<i>l</i> nostru, pănră ne va cru_ </language><page pageID="111r"/><language value="ro"> ţa. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>C</red>a ochii șea<i>r</i>belo<i>r</i> în mîrule do[a]<i>m</i>nelo<i>r </i>sale, așea și ochii noștri cătră D[um]n[e]dzău<i>l</i> nostru pără eftini-va. </language></variant>
+<variant sigle="PG"><language value="lat">3. Sicut oculi ancillae in manibus dominae suae: ita oculi nostri ad dominum deum nostrum donec misereatur nostri. </language></variant>
+<variant sigle="PR"><language value="lat">3. Et sicut oculi ancillae in manibus dominae suae: ita oculi nostri ad dominum deum nostrum donec misereatur nobis. </language></variant>
+</verse>
+<verse id="4">
+<variant sigle="CP1"><language value="sla">помл҃ꙋи нⷭ҇а г҃и помл҃ꙋи нⷭ҇а ꙗ̑ко помно́гꙋ исплъмихѡⷨсѧ оуничиженїе</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Miluiaște noi, Doamne, miluiaște noi, că mult împlumu-ne de ocărîre. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Miluiaște noi, Doamne, miluiaște noi, că prea mult împlumu-ne de ocărîre; </language></variant>
+<variant sigle="CP"><language value="ro">• Miluiaște noi, Doamne, miluiaște noi, că mult împlumu-ne de ocărîre. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Miluiaște noi, Doa<i>m</i>ne, miluiaște noi, că mu<i>l</i>t împlumu-ne de ocărîre! </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Miluiaște noi, D[oam]ne, miluiaște noi, că multu împlumu-nă de ocărrirre; </language></variant>
+<variant sigle="PH"><language value="ro">Miluiaşte noi, Doamne, miluiaşte-ne, că mai multu împlemu-ne de urriciunri. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>M</red>iluiaște pre noi, D[oa]mne, miluia[ște] <note><language value="ro"> Scris:  </language><language value="sla">ми́лоуѧ</language><language value="ro">. </language></note> pre noi, </language><language value="sla">··</language> <language value="ro"><red>c</red>ă mu<i>l</i>tu împlumu-ne de ocărrîre! </language></variant>
+<variant sigle="PG"><language value="lat">4. Miserere nostri domine miserere nostri: quia multum repleti sumus despectione. </language></variant>
+<variant sigle="PR"><language value="lat">4. Miserere nobis domine miserere nobis: quia multum repleti sumus contemptione. </language></variant>
+</verse>
+<verse id="5">
+<variant sigle="CP1"><language value="sla">наипа́че наплънисѧ дш҃а нш҃а поношеїе гꙋбзꙋѧщиⷨ, и҆ оуничиженїа гръдиⷨ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Ce mai împlu-se sufletul nostru împutare ce înmulțescu-o și ocărîrea trufașilor. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Ce mai împlu-se sufletul nostru de împutarea celo<i>r</i> ce se îngrașe și de ocărîrea trufașilo<i>r</i>. </language></variant>
+<variant sigle="CP"><language value="ro">• Ce mai împlu-se sufle_ </language><page pageID="149v"/><language value="ro"> tul nostru împutare ce înmulțescu-o și ocărîrea trufașilo<i>r</i>. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Ce mai împlu-se sufletu<i>l</i> nostru împutare ce </language><page pageID="144v"/><language value="ro"> înmu<i>l</i>țescu-o și ocărîrea trúfașilo<i>r</i>. </language></variant>
+<variant sigle="PS"><language value="ro">Ce mai împlu-se sufletu<i>l </i>nostru împutarea ce înmu<i>l</i>țescu-o și ocărire pășenilor <note><language value="ro"> Urmează semnul „:”, scris cu negru. </language></note>. </language></variant>
+<variant sigle="PH"><language value="ro">Mai împlu-se sufletu<i>l</i> nostru de ponoslu, adurîndu ponoslu trufaşilor. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>C</red>e mai vîrto<i>s</i> împlu-se sufletu<i>l</i> nostru de împutare ce înmu<i>l</i>țescu-o și ocărrîre trufașilo<i>r</i>. </language></variant>
+<variant sigle="PG"><language value="lat">5. Quia multum repleta est anima nostra: opprobrium abundantibus et despectio superbis. </language></variant>
+<variant sigle="PR"><language value="lat">5. Et multum repleta est anima nostra: opprobrium abundantibus et despectio superbis. </language></variant>
+</verse>
+</psalm>

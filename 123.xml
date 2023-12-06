@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="psaltiri.css"?>
+<psalm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="roPsalt.xsd" id="123">
+<titles><title sigle="CP1" ><language value="sla">пⷭ҇ѣ сте́пенїи</language>. Cîntecele spițelor 123</title>
+<title sigle="CP1" ><language value="sla">пⷭ҇ѣ сте́пенїи</language>. Cîntecele spițelor 123</title>
+<title sigle="CP2" ><language value="sla">пⷭ҇ѣ́ степенїи</language>. Cîntecele spițelo<i>r</i> 123</title>
+<title sigle="CP" ><red>Cîntecele spițelor • 122</red></title>
+<title sigle="PC" ><language value="sla"><red>пⷭ҇ѣ́</red></language><red> </red><language value="sla"><red>сте́пенїи</red></language><red>. Cî<i>n</i>tecile spițelo<i>r</i> 123</red></title>
+<title sigle="PS" ><red>Cîntece spiț[elor] 123</red></title>
+<title sigle="PH" ><red>Cînte<i>c</i> a prag[urelor] 123</red></title>
+<title sigle="PV" ><language value="sla"><red>пⷭ҇ѣ́ стеⷫ҇</red></language><red>.</red><language value="sla"><red> </red></language><red>Cî<i>n</i>[tare] 123</red><note> Scris marginal.</note></title>
+<title sigle="PG" ><red>Canticum graduum. CXXIII</red></title>
+<title sigle="PR" ><red>Canticum graduum. CXXIII</red></title>
+</titles><verse id="1">
+<variant sigle="CP1"><language value="sla">Ꙗко аще не г҃ь бѝ би́ль въ нⷭ҇а</language><language value="ro"> ++  </language><language value="sla">да речеть ни́нѣ і҆и҃ль, ꙗко а҆ще не г҃ь бѝ быль въ на́сь</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Ca să nu vrea fi Do<i>m</i>nul între noi, </language><language value="sla">··</language> <language value="ro">să zică acmu </language><page pageID="250v"/><language value="ro"> Israil! </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Ca să nu vrea fi Do<i>m</i>nul între noi, </language><language value="sla">··</language> <language value="ro"></language><page pageID="264v"/><language value="ro"> </language><language value="sla">··</language> <language value="ro">să zică acmu Israil, </language></variant>
+<variant sigle="CP"><language value="ro"><red>•</red> <red>C</red>a să nu vrea fi Do<i>m</i>nul între noi, • să zică acmu Israil, </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Că să nu vrea fi Do<i>m</i>nu<i>l</i> între noi, </language><language value="sla">··</language> <language value="ro">să dzică acmu Israi<i>l</i>! </language></variant>
+<variant sigle="PS"><language value="ro"><red>C</red>ă se nu vrea D[om]nu<i>l</i> fii întru noi, <red>•</red> se dzică acmu Is[rai]l, </language></variant>
+<variant sigle="PH"><language value="ro"><red>C</red>ă se nu <note><language value="ro"> Adăugat deasupra rândului. </language></note> au vru<i>t</i> fi întru noi, se dzică acmu Israil. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>C</red>ă se nu vrea fi D[o]mnu<i>l</i> fi întru noi, </language><language value="sla">··</language> <language value="ro"><red>s</red>e dzică acmu Iz<i>d</i>rail! </language></variant>
+<variant sigle="PG"><language value="lat">1. Nisi quia dominus erat in nobis dicat nunc israel: nisi quia dominus erat in nobis. </language></variant>
+<variant sigle="PR"><language value="lat">1. Nisi quia dominus erat in nobis dicat nunc israel: nisi quia dominus erat in nobis. </language></variant>
+</verse>
+<verse id="2">
+<variant sigle="CP1"><language value="sla">++  </language><language value="sla">въне́гда въстати чл҃кѡⷨ на ны, оу̑бо жи́ви пожрълини бы́шѫ</language><language value="ro"> ++  </language><language value="sla">вънегда прогнѣватисѧ ꙗрѡ́сти на ны</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="ro">Că să nu vrea Domnul fi întru noi, </language><language value="sla">··</language> <language value="ro">cînd sculase-vrea oamenii spre noi, amu vii înghiți-ne-vrea, </language><language value="sla">··</language> <language value="ro">cînd mîniia-se urgiia lor spre noi. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Că să nu vrea Domnul fi întru noi </language><language value="sla">··</language> <language value="ro">cînd sculase-vrea oamenii spre noi, amu vii înghiți-ne-vrea; </language><language value="sla">··</language> <language value="ro">cînd mîniia-se urgiia spre noi. </language></variant>
+<variant sigle="CP"><language value="ro">Că să nu vrea Domnul fie întru noi • cînd sculase-vrea oamenii spre noi, amu vii înghiți-ne-vrea; • cînd mîniia-se urgiia lo<i>r</i> spre noi. </language></variant>
+<variant sigle="PC"><language value="ro">Că să nu vrea Do<i>m</i>nu<i>l</i> fi întru noi, </language><language value="sla">··</language> <language value="ro">cînd sculase-vrea oamenii spre noi, <red>•</red> amu vii înghiți-ne-vrea; <red>c</red>înd mîniia-se urgiia lo<i>r</i> spre noi, </language></variant>
+<variant sigle="PS"><language value="ro">Că se nu vrea D[om]nu<i>l</i> fi întru noi <red>•</red> cîndu scula-se-vrea oaminii spre noi, amu vii înghiți-nă-vrea; • cîndu mîniia se mîniia lo<i>r</i> </language><page pageID="426"/><language value="ro"> spre noi. </language></variant>
+<variant sigle="PH"><language value="ro">Că se nu au vru<i>t</i> fi Domnu<i>l</i> întru noi, cîndu a sta oamenrilor pre noi. Iată vii înghiţi-ne-au vru<i>t</i>. Cîndu se-au vru<i>t</i> mînia băsăulu loru pre noi. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>C</red>ă se nu <note><language value="ro"> Scris deasupra rândului. </language></note> vrea D[om]nu<i>l</i> </language><page pageID="34r"/><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">2. Cum exurgerent homines in nos: forte viuos deglutissent nos. 3. Cum irasceretur furor eorum in nos: </language></variant>
+<variant sigle="PR"><language value="lat">2. Dum insurgerent homines in nos: forsitan viuos deglutissent nos. 3. Dum irasceretur animus eorum aduersum nos: forsitan velut aqua absorbuissent nos. </language></variant>
+</verse>
+<verse id="3">
+<variant sigle="CP1"><language value="sla">оубо во́да потѡпила ны бы̀</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Amu apa potopi-ne-vrea, </language></variant>
+<variant sigle="CP2"><language value="ro">Amu apa potopi-ne-vrea. </language><language value="sla">··</language> <language value="ro">Izvo<i>r</i> trecu sufletul nostru. </language></variant>
+<variant sigle="CP"><language value="ro">Amu apa potopi-ne-vrea. • Izvor trecu sufletul nostru. </language></variant>
+<variant sigle="PC"><language value="ro">Amu apa potopi-ne-vrea. </language></variant>
+<variant sigle="PS"><language value="ro">Amu apa potopi-nă-vrea. </language></variant>
+<variant sigle="PH"><language value="ro">Iată apă ne-au vru<i>t</i> neca. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">forsitan aqua absorbuisset nos. </language></variant>
+<variant sigle="PR"><language value="lat">4. Torrentem pertransiuit anima nostra: </language></variant>
+</verse>
+<verse id="4">
+<variant sigle="CP1"><language value="sla">пото́кь прѣи́де дш҃а на́ша</language><language value="ro"> ++  </language><language value="sla">оубо прѣи́де дш҃а на́ша во́дѫ непостоаннѫ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Izvor trecu sufletul nostru, </language><language value="sla">··</language> <language value="ro">amu trecu sufletul nostru apă nestătută. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Acmu trecu sufletul nostru apă nestătută. </language></variant>
+<variant sigle="CP"><language value="ro">• Amu trecu sufletul nostru apă nestătută. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Izvor trecu sufletu<i>l</i> nostru. Amu trecu sufletu<i>l</i> nostru apă nestătută? </language></variant>
+<variant sigle="PS"><language value="ro">Izvoru trecu sufletu<i>l</i> nostru, <red>•</red> amu trecu sufletu<i>l</i> nostru apă nestătutî. </language></variant>
+<variant sigle="PH"><language value="ro">Vale trecu sufletele noastre, [...] apă neoprită. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">4. Torrentem pertransiuit anima nostra: forsitan pertransisset anima nostra aquam intolerabilem. </language></variant>
+<variant sigle="PR"><language value="lat">forsitan pertransijsset anima nostra aquam intolerabilem. </language></variant>
+</verse>
+<verse id="5">
+<variant sigle="CP1"><language value="sla">блⷭ҇ве́нь г҃ь и҆же не да́сть нⷭ҇а въ лови́твѫ зѫбѡⷨ ихь</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Bl[ago]<i>s</i>[lo]vit Domnul ce nu deade noi în vînarea dințiloru-lă. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Bl[ago]<i>s</i>[lo]vit Domnul ce nu deade noi în vînarea dinților lo<i>r</i>. </language></variant>
+<variant sigle="CP"><language value="ro">• Blagoslovit Domnul ce nu deade noi în vînarea dințiloru-lă. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Blagoslovi<i>t</i> Domnu<i>l</i> ce nu dea_ </language><page pageID="145r"/><language value="ro"> de noi în vînarea dințiloru lo<i>r</i>. </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Bl[ago]<i>s</i>[lo]vi<i>t</i> D[om]nu<i>l</i> ce nu deade noi în vînare dințilo<i>r</i>. </language></variant>
+<variant sigle="PH"><language value="ro">Blagoslovitu e Domnu<i>l</i> carele n-au dat noi vîrat dinţilor al lor. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">5. Benedictus dominus: qui non dedit nos in captionem dentibus eorum. </language></variant>
+<variant sigle="PR"><language value="lat">5. Benedictus dominus: qui non dedit nos in captionem dentibus eorum. </language></variant>
+</verse>
+<verse id="6">
+<variant sigle="CP1"><language value="sla">дш҃а на́ша ꙗко птица и҆зба́висѧ ѿ сѣ́ти ловѧщиⷯ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Sufletul nostru ca pasărea izbăvi-se de cursa vînătorilor. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Su_ </language><page pageID="265r"/><language value="ro"> fletul nostru ca pasărea izbăvi-se de cursa vînătorilo<i>r</i>. </language></variant>
+<variant sigle="CP"><language value="ro">• Sufletul nostru ca pasărea izbăvi-se de cursa vînătorilo<i>r</i>. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Sufletul nostru ca pasărea izbăvi-se de cursa vînătorilo<i>r</i>. </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Sufletu<i>l</i> nostru ca pasărea izbăvi-se de currsa vînătorilo<i>r</i>. </language></variant>
+<variant sigle="PH"><language value="ro">Sufletele noastre ca paserea izbăvi-se de cursa vînrătorilor; </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">6. Anima nostra sicut passer erepta est: de laqueo venantium. </language></variant>
+<variant sigle="PR"><language value="lat">6. Anima nostra sicut passer erepta est: de laqueo venantium. </language></variant>
+</verse>
+<verse id="7">
+<variant sigle="CP1"><language value="sla">сѣ́ть съкроу́шисѧ и мы̏ и҆зба́</language><language value="sla">_ </language><page pageID="251r"/><language value="sla">  </language><language value="sla">влени бы́хѡⷨ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Cursa frînse-se și noi izbăviți fum. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Cursa frînse-se și noi izbăviți fum. </language></variant>
+<variant sigle="CP"><language value="ro">• Cursa frînse-se și noi izbăviți fum. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> <red>C</red>ursa frînse-se, și noi izbăviți fu<i>m</i>. </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Cursa frînse-se și noi izbăviți fu<i>m</i>. </language></variant>
+<variant sigle="PH"><language value="ro">Cursa frînse-se şi noi mîntuiţi fum. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">7. Laqueus contritus est: et nos liberati sumus. </language></variant>
+<variant sigle="PR"><language value="lat">7. Laqueus contritus est: et nos liberati sumus. </language></variant>
+</verse>
+<verse id="8">
+<variant sigle="CP1"><language value="sla">помо́щь на́ша въ имѧ гн҃е сътво́ршаго нб҃о и҆ землѧ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Ajutoriul nostru în numele Domnului, ce feace ceriul și pămîntul. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Ajutoriul nostru în numele Do<i>m</i>nului, ce feace ceriul și pămîntul. </language></variant>
+<variant sigle="CP"><language value="ro">• Aju_ </language><page pageID="150r"/><language value="ro"> toriul nostru în numele Domnului, ce feace ceriul și pămîntul. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Agiutoriu<i>l</i> nostru în numele Do<i>m</i>nului ce feace ceriu<i>l</i> și pămî<i>n</i>tu<i>l</i>. </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Agiutoriul nostru în numele D[om]nului, ce<i>l</i> ce fece ceru<i>l</i> și pămîntu<i>l</i>. </language></variant>
+<variant sigle="PH"><language value="ro">Agiutoriul nostru în numele lu Dumnedzău ce-au făcu<i>t</i> ceriul şi pămîntul. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">8. Adiutorium nostrum in nomine domini: qui fecit coelum et terram. </language></variant>
+<variant sigle="PR"><language value="lat">8. Adiutorium nostrum in nomine domini: qui fecit coelum et terram. </language></variant>
+</verse>
+</psalm>

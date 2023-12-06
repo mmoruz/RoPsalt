@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="psaltiri.css"?>
+<psalm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="roPsalt.xsd" id="107">
+<titles><title sigle="CP1" ><language value="sla">ѱа́лѡⷨ дв҃дь</language>. Cîntecul lu D[a]v[i]d 107</title>
+<title sigle="CP1" ><language value="sla">ѱа́лѡⷨ дв҃дь</language>. Cîntecul lu D[a]v[i]d 107</title>
+<title sigle="CP2" ><language value="sla">слава.</language> /226r <language value="sla">ѱл҃ѡⷨ дв҃дь</language>. Cîntecul lu D[a]v[i]d 107</title>
+<title sigle="CP" ><red>Slava. • Cîntecul lu David. • 107</red></title>
+<title sigle="PC" ><language value="sla"><red>сла́ва. ѱл҃ѡⷨ двⷣь</red></language><red>. Cîntecu<i>l</i> lui D[a]v[i]<i>d </i>107</red></title>
+<title sigle="PS" ><red>Sla<i>v</i>[a]. Cîntecul lu D[a]v[i]d 107</red></title>
+<title sigle="PH" ><red>Slava. Cîntecul 107</red></title>
+<title sigle="PV" ><language value="sla"><red>слⷡ҇а</red></language><note> Scris marginal.</note><red>. </red><language value="sla"><red>пⷭ҇ѣ ѱл҃ѡⷨ двⷣа</red></language><red>. Cî<i>n</i>tecu<i>l</i> lu D[avi]du 107</red><note> Scris marginal.</note></title>
+<title sigle="PG" ><red>Canticum psalmus Dauid. CVII</red></title>
+<title sigle="PR" ><red>Canticum psalmus Dauid. CVII</red></title>
+</titles><verse id="1">
+<variant sigle="CP1"><language value="sla">Го́тово срⷣце моѐ</language><language value="sla">  </language><language value="sla">б҃е го́тово срⷣце моѐ</language><language value="ro"> ++  </language><language value="sla">въспѡ́ю и пѡю сла́ва мое̑и</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Gata e inema mea, Doamne, gata e inema mea, </language><language value="sla">··</language> <language value="ro">tot cînta-voiu slaveei meale. </language><page pageID="215v"/><language value="ro"> </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Gata e inima mea, Doamne, gata e inima mea, </language><language value="sla">··</language> <language value="ro">sus cînt și cînta-voiu slaveei meale. </language></variant>
+<variant sigle="CP"><language value="ro"><red>•</red> <red>G</red>ata e inema mea, Doamne, gata e inema mea, • tot cînta-voiu slaveei meale. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Gata e inema mea, Doamne, gata e inema mea, </language><language value="sla">··</language> <language value="ro">to<i>t </i>cî<i>n</i>t și <note><language value="ro"> Scris ulterior, la capăt de rând: <i>tot cînt și</i>. </language></note> cînta-voiu slaveei meale. </language></variant>
+<variant sigle="PS"><language value="ro"><red>G</red>ata e înema me, Dzeu, gata e înema me, <red>•</red> to<i>t</i> cîntu și cânta-voiu slaveei meale. </language></variant>
+<variant sigle="PH"><language value="ro"><red>G</red>ata e înrima mea, Dzău, gata e înrima mea <note><language value="ro"> Adăugat deasupra rândului. </language></note>; cîntu şi vo[i] cî[n]ta slavei meale. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>G</red>ata e înrima mea, D[oam]ne, gata e înrima mea, </language><language value="sla">··</language> <language value="ro"><red>c</red>întu şi cîntu slaveei <note><language value="ro"> Scris:  </language><language value="sla">сла́вѣей</language><language value="ro">; cf. sl.  </language><language value="sla">сла́вѣ моей</language><language value="ro">. </language></note> meale. </language></variant>
+<variant sigle="PG"><language value="lat">1. Paratum cor meum deus: paratum cor meum: cantabo et psallam in gloria mea. </language></variant>
+<variant sigle="PR"><language value="lat">1. Paratum cor meum deus </language><page pageID=""/><language value="lat"> paratum cor meum: cantabo et psalmum dicam domino. </language></variant>
+</verse>
+<verse id="2">
+<variant sigle="CP1"><language value="sla">въста́ни сла́ва моа̀ въста́ниⷮ ѱа́лти́рю и҆ гѫсли</language><language value="ro"> ++  </language><language value="sla">въста́нѫ ра́но и исповѣ́мсѧ те́бѣ въ людехь г҃и</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Scoală-te, slava mea, scoală-te psăltire și ceateră! </language><language value="sla">··</language> <language value="ro">Scolu-mă demîneața </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Scoală-te, sla<i>v</i>a mea, scoală-te psăltire și ceateră! </language><language value="sla">··</language> <language value="ro">Scolu-mă de demîneață </language></variant>
+<variant sigle="CP"><language value="ro">• Scoală-te psăltire și ceateră! • Scolu-mă demîneața, </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Scoală-te, slava mea! Scoală-te, psa<i>l</i>tire și ceateră! </language><language value="sla">··</language> <language value="ro">Scolu-mă demîneața </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Scoală-te, slava me, scoală-te psăltîriu și cetîrea! <red>•</red> Scolu-me de demîneață </language></variant>
+<variant sigle="PH"><language value="ro">Scoală, slava mea! Scoală, orgoane şi ceterile, scoală de demînraţă! </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>S</red>co[a]lă-te, slava mea, </language><language value="sla">··</language> <language value="ro"><red>s</red>colu-te psă<i>l</i>tire și ceateri! </language><language value="sla">··</language> <language value="ro"><red>S</red>colu-me demîreața </language></variant>
+<variant sigle="PG"><language value="lat">2. Exurge psalterium et cithara: exurgam diluculo. </language></variant>
+<variant sigle="PR"><language value="lat">2. Exurge gloria mea exurge psalterium et cithara: exurgam diluculo. </language></variant>
+</verse>
+<verse id="3">
+<variant sigle="CP1"><language value="sla">++  </language><language value="sla">по́ѫ те́бѣ въ ѧ́зы́цехь</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="ro">Și ispovedescu-mă ție în oameni, Doamne, </language><language value="sla">··</language> <language value="ro">cînt ție întru li<i>m</i>bi, </language></variant>
+<variant sigle="CP2"><language value="ro">Și ispovedescu-mă ție în oameni, Doamne; </language><language value="sla">··</language> <language value="ro">cînt ție întru li<i>m</i>bi </language></variant>
+<variant sigle="CP"><language value="ro">Și ispovedescu-mă ție în oameni, Doamne; • cînt ție întru limbi, </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Și ispovedescu-mă ție în oameni, Doamne, </language><language value="sla">··</language> <language value="ro">cînt ție întru li<i>m</i>bi. </language></variant>
+<variant sigle="PS"><language value="ro">Și ispoveadescu-me ție în oamini, D[oam]ne; <red>•</red> cîntu ție întru limbi, </language></variant>
+<variant sigle="PH"><language value="ro">Ispovedescu-me în oamenri, Doamne, cînta-voiu ţie întru limbi. </language></variant>
+<variant sigle="PV"><language value="ro">Și ispovedescu-me ție în o[a]meri, D[oam]ne; </language><language value="sla">··</language> <language value="ro"><red>c</red>întu ție întru limbi, </language></variant>
+<variant sigle="PG"><language value="lat">3. Confitebor tibi in populis domine: et psallam tibi in nationibus. </language></variant>
+<variant sigle="PR"><language value="lat">3. Confitebor tibi in populis domine: et psalmum dicam tibi inter gentes. </language></variant>
+</verse>
+<verse id="4">
+<variant sigle="CP1"><language value="sla">ꙗ̑ко ве́лїа връхꙋ нб҃сь мтлⷭ҇ь твоа̀</language><language value="ro"> ++  </language><language value="sla">и҆ дѡ ѡблакь ѝсти́на твоа̀</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Că mare e spre ceriu milostea ta </language><language value="sla">··</language> <language value="ro">și pînă la nuori deadevărul tău. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Că mare e spre ceriu milostea ta </language><language value="sla">··</language> <language value="ro">și pînă la nuori deadevărul tău. </language><language value="sla">··</language> <language value="ro"></language><page pageID="226v"/><language value="ro"> </language></variant>
+<variant sigle="CP"><language value="ro">• Că mare e </language><page pageID="127r"/><language value="ro"> spre ceriu milostea ta • și pînă la nuori deadevărul tău. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Că mare e spre ceriu milostea ta </language><language value="sla">··</language> <language value="ro"></language><page pageID="111v"/><language value="ro"> și pînă la nuori deadevăru<i>l</i> tău. </language></variant>
+<variant sigle="PS"><language value="ro">• Că mare e spre ceru me<i>s</i>[e]rerea ta și pînă la nuori deadevăru<i>l</i> tău. </language></variant>
+<variant sigle="PH"><language value="ro">Că e mai mare pre vîrhul ceriului mila ta şi pănră la nuor adevărul tău, Dzeu. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>C</red>ă mare-i spre ce <note><language value="ro"> Scris infrapaginal, de altă mână: „Cî<i>n</i>ta-voi și cî<i>n</i>t măriri mele, scoală-te mărire me”. </language></note>_ </language><page pageID="21r"/><language value="ro"> riu meserearea ta </language><language value="sla">··</language> <language value="ro"><red>ș</red>i pără la nuori deadevăru<i>l</i> tău. </language></variant>
+<variant sigle="PG"><language value="lat">4. Quia magna super coelos mi[sericordi]a tua: et vsque ad nubes veritas tua. </language></variant>
+<variant sigle="PR"><language value="lat">4. Quoniam magnificata est vsque ad coelos misericordia tua: et vsque ad nubes veritas tua. </language></variant>
+</verse>
+<verse id="5">
+<variant sigle="CP1"><language value="sla">възне́сисѧ на нб҃са б҃е и҆ по въсе́и зе́мли сла́ва твоа̀</language><language value="ro"> ++  </language><language value="sla">ꙗ̑ко да изба́влѧтсѧ възлюбленїи твои</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Rădică-te în ceriu, Doamne, și prespre tot pămîntul slava ta, </language><language value="sla">··</language> <language value="ro">că să izbăvească-se iubiții tăi. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Înalță-te în ceriu, Doamne, și prespre tot pămîntul slava ta, </language><language value="sla">··</language> <language value="ro">că să izbăvească-se iubiții tăi. </language></variant>
+<variant sigle="CP"><language value="ro">• Rădică-te în ceriu, Doamne, și prespre tot pămîntul slava ta, • că să izbăvească-se iubiții tăi. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> <red>R</red>ădică-te în ceriu, Doamne, și prespre to<i>t</i> pămîntu<i>l</i> slava ta, </language><language value="sla">··</language> <language value="ro"><red>c</red>a să se izbăvască iubiții tăi, </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Rădică-te în ceriu, Dzeae, și prespre </language><page pageID="365"/><language value="ro"> tot pămîntu<i>l</i> slava ta, <red>•</red> că se izbăvească-se iubiții tăi. </language></variant>
+<variant sigle="PH"><language value="ro">Şi te înralţaşi în ceriu, Doamne, şi </language><page pageID="95r"/><language value="ro"> prespre to<i>t</i> pămîntu<i>l</i> slava ta, ca se se mîntuiască iubiţii. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>Rr</red>ădică-te spre ceriu, Dzău<i>l</i>, </language><language value="sla">··</language> <language value="ro"><red>ș</red>i prespre to<i>t</i> pămîntu<i>l</i> slava ta, </language><language value="sla">··</language> <language value="ro"><red>c</red>a se se izbăvească iubiții tăi. </language></variant>
+<variant sigle="PG"><language value="lat">5. Exaltare super coelos deus </language><page pageID=""/><language value="lat"> et super omnem terram gloria tua: vt liberentur dilecti tui. </language></variant>
+<variant sigle="PR"><language value="lat">5. Exaltare super coelos deus </language><page pageID=""/><language value="lat"> et super omnem terram gloria tua: vt liberentur electi tui. </language></variant>
+</verse>
+<verse id="6">
+<variant sigle="CP1"><language value="sla">сп҃си дени́цею твое̑ѫ и̑ оуслы́ши мѧ</language><language value="ro"> ++  </language><language value="sla">б҃ь възгл҃а въ ст҃ѣмь свое̑мь</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Spăseaște cu dereapta ta și auzi-mă. </language><language value="sla">··</language> <language value="ro">Zeul zise </language><page pageID="216r"/><language value="ro"> în sf[î]ntul său: </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Spăseaște cu dereapta ta și auzi-mă! </language><language value="sla">··</language> <language value="ro">Zeul grăi în sfințiia sa: </language></variant>
+<variant sigle="CP"><language value="ro">• Spăseaște cu dereapta ta și auzi-mă! • Zeul zise în sfîntul său: </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Spăseaște-mă cu dereapta ta și audzi-mă! </language><language value="sla">··</language> <language value="ro">Do<i>m</i>nu<i>l</i> dzise sfî<i>n</i>tului său: </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Sp[ă]<i>s</i>[ea]ște cu dereapta ta și auzi-me! <red>•</red> Dzeul dzise în sf[în]tu<i>l</i> său: </language></variant>
+<variant sigle="PH"><language value="ro">Scoate cu dereapta ta şi me audzi. Dumnedzeu grăi în sfînta sa: </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>S</red>păseaște cu dereapta ta și audzi-me! </language><language value="sla">··</language> <language value="ro"><red>Dz</red>ău<i>l</i> grăi întru sf[î]ntu<i>l</i> său: </language></variant>
+<variant sigle="PG"><language value="lat">6. Saluum fac dextera tua et exaudi me: deus locutus est in sancto suo. </language></variant>
+<variant sigle="PR"><language value="lat">6. Saluum me fac dextera tua et exaudi me </language><page pageID=""/><language value="lat"> deus locutus est in sancto suo / </language></variant>
+</verse>
+<verse id="7">
+<variant sigle="CP1"><language value="sla">възнесѫсе раздѣлѧ сикїмю</language><language value="ro"> ++  </language><language value="sla">и ѧдоль се́лѡⷨ размѣ́рѧ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> „Rădicu-mă și împarț Sichimă </language><language value="sla">··</language> <language value="ro">și Valea Satelor măsur. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> „Înălța-mă-voiu și împărți-voiu sichimă </language><language value="sla">··</language> <language value="ro">și valea satelo<i>r</i> măsur. </language></variant>
+<variant sigle="CP"><language value="ro">• „Rădicu-mă și împarț Sichimă • și valea satelor măsur. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> „Rădicu-mă și împarț sichimă </language><language value="sla">··</language> <language value="ro"><red>ș</red>i valea satelo<i>r </i>măsur. </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> „Rrădicu-me și împarrțu Sichimă <red>•</red> și valea fsatelor măsuru. </language></variant>
+<variant sigle="PH"><language value="ro">„Înrălţa-me-voiu şi împărţi-voiu Sichimulu şi zăpodiile Setului măsura-voiu. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> „<red>Rr</red>ădicu-mă și împa<i>r</i>țu Sichimă <note><language value="ro"> Cf. sl.  </language><language value="sla">сикїмѫ</language><language value="ro">. </language></note> </language><language value="sla">··</language> <language value="ro"><red>ș</red>i valea satelo<i>r</i> măsur. </language></variant>
+<variant sigle="PG"><language value="lat">7. Exultabo et diuidam sichimam: et conuallem tabernaculorum dimetiar </language></variant>
+<variant sigle="PR"><language value="lat">7. laetabor et diuidam sichimam: et conuallem tabernaculorum metibor </language></variant>
+</verse>
+<verse id="8">
+<variant sigle="CP1"><language value="sla"> мои е̑сть га́лаадь, и мои е̑сть ма́наси</language><language value="ro"> ++  </language><language value="sla">и е̑фре́мь застѫ́пленїе гла́вы мое̑ѫ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Al mieu Galaad și al mieu Manasia, </language><language value="sla">··</language> <language value="ro">și Efrem ajutoriu capului mieu, </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Al mieu e Galaad și al mieu e Manasia </language><language value="sla">··</language> <language value="ro">și Efre<i>m</i> ajutoriu capului mieu, </language></variant>
+<variant sigle="CP"><language value="ro">• Al mieu Galaad și al mieu Manasia • și Efrem ajutoriu capului mieu, </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Al mieu Galaa<i>d</i> și al mieu Manasiá, </language><language value="sla">··</language> <language value="ro">și Efre<i>m</i>, ajutoriu<i>l</i> capului mieu; </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> A<i>l</i> mieu e Gala<i>d</i> și al mieu e Manasia • și Efremu în agiutoriu capului mieu, </language></variant>
+<variant sigle="PH"><language value="ro">Al mieu e Galaadu<i>l</i> şi al mie[u] Manasii şi Efrem, tăria capului mieu </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>A</red>l mieu-i Galaadu<i>l</i> și al mieu-i Manasiia </language><language value="sla">··</language> <language value="ro"><red>ș</red>i Efre<i>m</i> în agiutoriu<i>l</i> capului mieu, </language></variant>
+<variant sigle="PG"><language value="lat">8. Meus est galaad et meus est manasses: et ephraim susceptio capitis mei </language></variant>
+<variant sigle="PR"><language value="lat">8. Meus est galaad et meus est manasses: et ephrem fortitudo capitis mei </language></variant>
+</verse>
+<verse id="9">
+<variant sigle="CP1"><language value="sla">і҆оуда̀ цр҃ь мои</language><language value="ro"> ++  </language><language value="sla">моа҆вь конѡбь оу̑пова́нїа мое̑го</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Iuda împăratul mieu, </language><language value="sla">··</language> <language value="ro">Moav <note><language value="ro"> Segmentare prin punct negru. </language></note> conob upovăința mea. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Iuda împăratul mieu, </language><language value="sla">··</language> <language value="ro"></language><page pageID="227r"/><language value="ro"> Moav conob, upovăința mea. </language></variant>
+<variant sigle="CP"><language value="ro">• Iuda împăratul mieu, • Moav conob, upovăința mea. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> <red>I</red>úda, împăratul mieu, </language><language value="sla">··</language> <language value="ro">Moáv, cono<i>b</i> </language><page pageID="112r"/><language value="ro"> upovăi<i>n</i>ța mea, </language></variant>
+<variant sigle="PS"><language value="ro">Iuda împăratu<i>l</i> mieu, <red>•</red> Moavu cono<i>b</i>, upuvuința me. </language></variant>
+<variant sigle="PH"><language value="ro">Iuda, împăratu<i>l</i> mieu, Moav, conob, nedejdea mea. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>Ș</red>i Iuda împăratu<i>l</i> mieu, </language><language value="sla">··</language> <language value="ro"><red>M</red>oav conob, nedeajdea mea. </language></variant>
+<variant sigle="PG"><language value="lat">9. Iuda rex meus: moab lebes spei meae. </language></variant>
+<variant sigle="PR"><language value="lat">9. Iuda rex meus moab olla spei meae </language><page pageID=""/><language value="lat"> </language></variant>
+</verse>
+<verse id="10">
+<variant sigle="CP1"><language value="sla">на і҆идоу́меѫ налѡ́жѫ сапо́кь мои</language><language value="ro"> ++  </language><language value="sla">мнѣ и҆нѡплеменници покоришѧсѧ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Spre idumei puiu zgarbura mea, </language><language value="sla">··</language> <language value="ro">mie alți striini plecară-se”. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Spre idumei puiu călțunul mieu, </language><language value="sla">··</language> <language value="ro">mie alți striini plecară-se”. </language></variant>
+<variant sigle="CP"><language value="ro">• Spre idumei puiu zgarbura mea, • mie alți striini plecară-se”. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Spre idumei puiu zga<i>r</i>bura mea; </language><language value="sla">··</language> <language value="ro"><red>m</red>ie alți striini plecară-se”. </language></variant>
+<variant sigle="PS"><language value="ro">Spre Idumei pu[iu] zgarbura mea, <red>•</red> mie alții striinii plecară-<i>s</i>[e].” </language></variant>
+<variant sigle="PH"><language value="ro">Pre Idumeea punre-voiu încălţămîntu<i>l</i> mieu, mie alte sămenţe plecară-se”. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>S</red>pre Idomeiu tinşu zgarbura mea, </language><language value="sla">··</language> <language value="ro"><red>m</red>ie alți streiri plecară-se”. </language></variant>
+<variant sigle="PG"><language value="lat">10. In idumaeam extendam calciamentum meum: michi alienigenae amici facti sunt. </language></variant>
+<variant sigle="PR"><language value="lat">in idumaeam extendam calciamentum meum: michi allophyli subditi sunt. </language></variant>
+</verse>
+<verse id="11">
+<variant sigle="CP1"><language value="sla">кто̀ ве́деть мѧ въ грⷣа о҆бьстоа́нїа</language><language value="ro"> ++  </language><language value="sla">лѝ кто̀ наста́вит мѧ до і҆оу̑думе́и</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Cine băga-mă-va în cetate de stare </language><language value="sla">··</language> <language value="ro">și cine dereage-mă-va pînă la iudumei? </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Cine băga-mă-va în cetate încungiurată </language><language value="sla">··</language> <language value="ro">și cine derepta-mă-va pînă la idumei? </language></variant>
+<variant sigle="CP"><language value="ro">• Cine băga-mă-va în cetate de stare • și cine dereage-mă-va pînă la iudumei? </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Cine băga-mă-va în cetate de stare, </language><language value="sla">··</language> <language value="ro">și cine dereage-mă-va pînă la Iudumei? </language></variant>
+<variant sigle="PS"><language value="ro">• Cine băga-me-va în cetate </language><page pageID="366"/><language value="ro"> de stare <red>•</red> și cine dereage-me-va pînă la [i]udumei? </language></variant>
+<variant sigle="PH"><language value="ro">Cinre duce-me-va în cetate de-a chinuirea, au cinre nastăvi-me-va pără la Idumeea? </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> </language><page pageID="21v"/><language value="ro"> <red>C</red>ere mă va băga în cetate de stare </language><language value="sla">··</language> <language value="ro"><red>s</red>au cire mă va derepta pără la [I]domeiu <note><language value="ro"> Scris:  </language><language value="sla">домею̀</language><language value="ro">. </language></note>? </language></variant>
+<variant sigle="PG"><language value="lat">11. Quis deducet me in ciuitatem munitam: quis deducet me usque in idumaeam? </language></variant>
+<variant sigle="PR"><language value="lat">10. Quis deducet me in ciuitatem munitam: aut quis deducet me vsque in idumaeam? </language></variant>
+</verse>
+<verse id="12">
+<variant sigle="CP1"><language value="sla">не ты̀ ли б҃е ѿри́нѫ ви́ны</language><language value="ro"> ++  </language><language value="sla">и҆ не и҆зы́деши б҃е въ си́лаьх нашихь</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Nu tu, Doamne, împenseși_ </language><page pageID="216v"/><language value="ro"> ne </language><language value="sla">··</language> <language value="ro">și nu ieșiș[i], Doamne, în vîrtutea noastră? </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Nu tu, Doamne, ce lepădași-ne </language><language value="sla">··</language> <language value="ro">și nu ieșiș, Doamne, în tăriia noastră? </language></variant>
+<variant sigle="CP"><language value="ro">• Nu tu, Doa_ </language><page pageID="127v"/><language value="ro"> mne, împenseși-ne • și nu ieșiș, Doamne, în vrîtutea noastră? </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Nu tu, Doamne, împenseși-ne? </language><language value="sla">··</language> <language value="ro">Și nu ieși<i>ș</i>[i], Doamne, în vîrtutea noastră? </language></variant>
+<variant sigle="PS"><language value="ro">Nu tu, Dzeu, împinseși-nă <red>•</red> <note><language value="ro"> Este semnul „;”, scris cu roșu. </language></note> și nu ieșiși, Dzeu, în sila noastră? </language></variant>
+<variant sigle="PH"><language value="ro">A[u] nu tu, Doamne, împînsu-ne-ai? Nu veri ieşi, Dzeu, în puteare[le] noastre? </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>A</red>u nu tu, D[oa]mne, împenseși-ne </language><language value="sla">··</language> <language value="ro"><red>ș</red>i nu ieși<i>ș</i>[i], D[oa]<i>m</i>ne, în vîrtutea no[a]stră? </language></variant>
+<variant sigle="PG"><language value="lat">12. Nonne tu deus qui reppulisti nos? et non exibis deus in virtutibus nostris? </language></variant>
+<variant sigle="PR"><language value="lat">11. Nonne tu deus qui repulisti nos? et non egredieris deus in virtutibus nostris? </language></variant>
+</verse>
+<verse id="13">
+<variant sigle="CP1"><language value="sla">да́ждь на́мь помо́щь ѿ печа́ли</language><language value="ro"> ++  </language><language value="sla">и҆ сꙋе̑тно спⷭ҇е́нїе чл҃чъско о̑ бз҃ѣ сътво́риⷨ си́лѫ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Dă noao ajutoriu de grije </language><language value="sla">··</language> <language value="ro">și deșartă sp[ă]senia omului. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Dă noao ajutoriu den grije </language><language value="sla">··</language> <language value="ro">și deșartă sp[ă]senia omului. </language></variant>
+<variant sigle="CP"><language value="ro">• Dă noao ajutoriu de grije • și deșartă spăsenia omului. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Dă noao ajutoriu de grije; </language><language value="sla">··</language> <language value="ro">și deșartă sp[ă]<i>s</i>enia omului. </language></variant>
+<variant sigle="PS"><language value="ro">• Dă noao agiutoriu de grije <red>•</red> și deșarrtă sp[ăs]enia omului. </language></variant>
+<variant sigle="PH"><language value="ro">Dă noa[o] agiutoriu de grije, deşartă scoaterea omenrească. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>D</red>ă noao agiutoriu de grije, </language><language value="sla">··</language> <language value="ro"><red>ș</red>i deșea<i>r</i>tă e spăseniia omerească. </language></variant>
+<variant sigle="PG"><language value="lat">13. Da nobis auxilium de tribulatione: quia vana salus hominis. </language></variant>
+<variant sigle="PR"><language value="lat">12. Da nobis auxilium de tribulatione: et vana salus hominis. </language></variant>
+</verse>
+<verse id="14">
+<variant sigle="CP1"><language value="sla">++  </language><language value="sla">и тъ̏ оу̑ничижить вра́гы на́шѧ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="ro">În Zeu feace<i>m</i> vîrtute </language><language value="sla">··</language> <language value="ro">și el ocărî dracii noștri. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> În Zeu feace tărie </language><language value="sla">··</language> <language value="ro"></language><page pageID="227v"/><language value="ro"> și acesta urî-va vrăjmașii. </language></variant>
+<variant sigle="CP"><language value="ro">În Zeu feacem vrîtute • și el ocărî dracii noștri. </language></variant>
+<variant sigle="PC"><language value="ro">În Du<i>m</i>nedzău feace<i>m</i> vîrtute.·· Și el ocărî dracii noștri. </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> În Dzeu feacemu vîrtute <red>•</red> și elu ocări vrăjmașii noștri. </language></variant>
+<variant sigle="PH"><language value="ro">De Dumnedzău se facem vîrtute şi acela urri-va vrăjimaşi[i] noştri. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>Î</red>ntru D[u]<i>m</i>n[e]dzău facemu vîrtutea, </language><language value="sla">··</language> <language value="ro"><red>ș</red>i acela ocărî dracii noștri. </language></variant>
+<variant sigle="PG"><language value="lat">14. In deo faciemus virtutem: et ipse ad nichilum deducet inimicos nostros. </language></variant>
+<variant sigle="PR"><language value="lat">13. In deo faciemus virtutem: et ipse ad nichilum deducet tribulantes nos. </language></variant>
+</verse>
+</psalm>

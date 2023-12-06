@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="psaltiri.css"?>
+<psalm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="roPsalt.xsd" id="128">
+<titles><title sigle="CP1" ><language value="sla">пⷭ҇ѣ степенїи</language>. Cîntecele spițelor 128</title>
+<title sigle="CP1" ><language value="sla">пⷭ҇ѣ степенїи</language>. Cîntecele spițelor 128</title>
+<title sigle="CP2" ><language value="sla">пⷭ҇ѣ́ сте́пенїи</language>. Cîntecele spițelo<i>r</i> 128</title>
+<title sigle="CP" ><red>Cîntecele spițelor • 128</red></title>
+<title sigle="PC" ><language value="sla"><red>пⷭ҇ѣ́. сте́пенїи</red></language><red>.</red><language value="sla"><red> </red></language><red>Cî<i>n</i>tece spițelor 128</red></title>
+<title sigle="PS" ><red>C[în]te<i>ce</i> spițelor 128</red></title>
+<title sigle="PH" ><red>128</red></title>
+<title sigle="PV" ><language value="sla"><red>пⷭ҇ѣ́ стеⷫ҇ рк҃ꙁ</red></language><note> Scris marginal.</note><red>. Cînte<i>c</i>[e] ste<i>p</i>[eni]</red></title>
+<title sigle="PG" ><red>Canticum graduum. CXXVIII</red></title>
+<title sigle="PR" ><red>Canticum graduum. CXXVIII</red></title>
+</titles><verse id="1">
+<variant sigle="CP1"><language value="sla">Мнѡжи́цеѫ бра́шѫсѧ съ мно́ѫ ѿ юности моѐѫ</language><language value="ro"> ++  </language><language value="sla">да́ речеть ни нѣ і҆и҃ль</language><language value="sla">  </language><language value="sla">мнѡ́жицеѫ бра́шѫсѧ съ мно́ѫ ѿ юно́сти мое̑ѫ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> De multe ori luptară-se cu mine de tinereațele meale, </language><language value="sla">··</language> <language value="ro">să zică acmu Izrail, </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Den multe ori luptară-se cu mine de tinereațele meale, </language><language value="sla">··</language> <language value="ro">să zică acmu Izrai<i>l</i>. </language></variant>
+<variant sigle="CP"><language value="ro"><red>•</red> <red>D</red>e multe ori luptară-se cu mine de tinereațele meale, • </language><page pageID="152r"/><language value="ro"> să zică acmu Israil, </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> De multe ori luptară-se cu mine de tinereațele meale, </language><language value="sla">··</language> <language value="ro">să dzică acmu Izrai<i>l</i>. </language></variant>
+<variant sigle="PS"><language value="ro"><red>D</red>e multe ori luptară-se cu mine de tinerețele mele, • se dzică acmu Is[rai]l. </language></variant>
+<variant sigle="PH"><language value="ro"><red>D</red>e multe ori se luptară cu menre; se dzică Israil acmu! </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">1. Saepe expugnauerunt me a iuuentute mea: dicat nunc israel. </language></variant>
+<variant sigle="PR"><language value="lat">1. Saepe expugnauerunt me a iuuentute mea </language><page pageID=""/><language value="lat"> dicat nunc israel </language></variant>
+</verse>
+<verse id="2">
+<variant sigle="CP1"><language value="sla">++  </language><language value="sla">и҆бо не прѣмо́гошѧ ме́не</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="ro">De multe ori luptară-se cu mine de tinereațele meale, </language><language value="sla">··</language> <language value="ro">e însă nu putură mine. </language></variant>
+<variant sigle="CP2"><language value="ro">De multe ori luptară-se cu mi_ </language><page pageID="268v"/><language value="ro"> ne de tinereațele meale, </language><language value="sla">··</language> <language value="ro">însă nu biruiră mine. </language></variant>
+<variant sigle="CP"><language value="ro">De multe ori luptară-se cu mine de tinereațele meale, • e însă nu putură mine. </language></variant>
+<variant sigle="PC"><language value="ro">De mu<i>l</i>te ori luptară-se cu mine de tinereațele meale, </language><language value="sla">··</language> <language value="ro">e însă nu putură </language><page pageID="148r"/><language value="ro"> mine. </language></variant>
+<variant sigle="PS"><language value="ro">De mu<i>l</i>te ori luptară-se cu mine de tinerețele mele, <red>•</red> însă nu putură mine. </language></variant>
+<variant sigle="PH"><language value="ro">De multe ori luptară-se cu menre den tinr[er]eaţele meale şi amu nu prevîncură menre. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">2. Saepe expugnauerunt me a iuuentute mea: etenim non potuerunt michi </language></variant>
+<variant sigle="PR"><language value="lat">saepe expugnauerunt me a iuuentute mea: etenim non potuerunt michi </language></variant>
+</verse>
+<verse id="3">
+<variant sigle="CP1"><language value="sla">на хръптѣ мое̑мь дѣ́лаша грѣ́шници</language><language value="ro"> ++  </language><language value="sla">оудалишѧ безаконїе свое</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> În gîrba mea lucrară păcătoșii, </language><language value="sla">··</language> <language value="ro">lungiră fărăleagea sa. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> În gîrba mea lucrară păcătoșii, </language><language value="sla">··</language> <language value="ro">delungară fărăleagea sa. </language></variant>
+<variant sigle="CP"><language value="ro">• În gîrba mea lucrară păcătoșii, • lungiră fărăleagea sa. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> În gîrba mea lucrară păcătoșii, </language><language value="sla">··</language> <language value="ro">lungiră fărăleagea sa. </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> În cerbice me lucrară păcătoșii, • lungiră fărăleagea sa. </language></variant>
+<variant sigle="PH"><language value="ro">Pre spinrarea mea lucrară păcătoşii, delu[n]gară fărădeleagea sa. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">3. Supra dorsum meum fabricauerunt peccatores: prolongauerunt iniquitatem suam. </language></variant>
+<variant sigle="PR"><language value="lat">2. Supra dorsum meum fabricauerunt peccatores: prolongauerunt iniquitates suas. </language></variant>
+</verse>
+<verse id="4">
+<variant sigle="CP1"><language value="sla">г҃ь пра́ведень въсѣ́четь вы́ѧ грѣ́шникѡⷨ</language><language value="ro"> ++  </language><language value="sla">да посты́дѧтсѧ</language><language value="sla"> </language><page pageID="254v"/><language value="sla">  </language><language value="sla">и възра́тѧтсѧ въспѧть въси ненавидѧщеи сїѡна</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Domnul derept tăia-va cerbicele păcătoșilor; </language><language value="sla">··</language> <language value="ro">să se rușineaze și să se toarne toți ce nu năvidesc Sionul. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Domnul derept tăia-va cerbicile păcătoșilo<i>r</i>; </language><language value="sla">··</language> <language value="ro">să se rușineaze și să se toarne înapoi toți carii urăsc Sionul. </language></variant>
+<variant sigle="CP"><language value="ro">• Domnul derept tăia-va cerbicele păcătoșilo<i>r</i>; • să se rușineaze și să se toarne toți ce nu năvidesc Sionul. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> <red>D</red>omnu<i>l</i> derept tăia-va cerbicele păcătoșilo<i>r</i>; </language><language value="sla">··</language> <language value="ro">să se rușineadze și să se toarne toți ce nu năvidesc Siónu<i>l</i>. </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> D[om]nu<i>l</i> dereptu tăia-va cerrbicile păcătoșilo<i>r</i>; <red>•</red> se rușineadze-se și toarne-se toți ce nu năvideascu Sionul. </language></variant>
+<variant sigle="PH"><language value="ro">Domnulu e dereptu, tăia-va cerbicea greaşnicilo<i>r</i>. Se sfiască-se şi se întoarcă-se înderre<i>t</i> toţi ce gilăluiescu Sionulu. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">4. Dominus iustus concidet ceruices peccatorum </language><page pageID=""/><language value="lat"> confundantur et conuertantur retrorsum / omnes qui oderunt sion. </language></variant>
+<variant sigle="PR"><language value="lat">3. Dominus iustus concidet ceruices peccatorum </language><page pageID=""/><language value="lat"> confundantur et reuereantur: omnes qui oderunt sion. </language></variant>
+</verse>
+<verse id="5">
+<variant sigle="CP1"><language value="sla">да бѫдѫть ꙗ̑ко трѣ́ва на зда́нїи</language><language value="sla">,  </language><language value="sla">ꙗ̑же прѣ́жде въздръванїа и҆съше</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Să fie iarba în zid ce ainte de rupere seacă, </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Să fie ca iarba în zid ce ainte de rupere seacă, </language></variant>
+<variant sigle="CP"><language value="ro">• Să fie ca iarba în zid ce ainte de rupere seacă. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> <red>S</red>ă fie ca iarba în zi<i>d</i>, ce ainte de rupere seacă, </language></variant>
+<variant sigle="PS"><language value="ro">• Se fie ca iarba în zidu ce ainte </language><page pageID="432"/><language value="ro"> de rumpere secă, </language></variant>
+<variant sigle="PH"><language value="ro">Se fie ca iarba la tămăduire, aceaea ainte de covra<i>g</i> şi secă. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">5. Fiant sicut foenum tectorum: quod priusquam euellatur exaruit. </language></variant>
+<variant sigle="PR"><language value="lat">4. Fiant sicut foenum aedificiorum: quod priusquam euellatur arescit. </language></variant>
+</verse>
+<verse id="6">
+<variant sigle="CP1"><language value="sla">++  </language><language value="sla">е̑ѧже не и҆сплъни рѫкы свое̑ѫ жънѫи</language><language value="ro"> ++  </language><language value="sla">и҆ ло́на свое̑го съби́раѫи рѫкоѧти</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Ce de ea nu împlu mîinile sale secerătoriul, </language><language value="sla">··</language> <language value="ro">și poala sa ce adună cu mîna ta. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Ce de ea nu împlu mînile sale secerătoriul, </language><language value="sla">··</language> <language value="ro"></language><page pageID="269r"/><language value="ro"> și poala sa cel ce adună mărunchiuri </language></variant>
+<variant sigle="CP"><language value="ro">• Ce de ea nu împlu mîinile sale secerătoriul, • și poala sa ce adună cu mîna ta. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Ce de ea nu împlú mînule sale secerătoriu<i>l</i>, </language><language value="sla">··</language> <language value="ro"><red>ș</red>i poala sa ce adună cu mîna ta. </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Ce de ea nu împlu mînule sale secerătorul <note><language value="ro"> Scris:  </language><language value="sla">сечеъорꙋⷧ҇</language><language value="ro">. </language></note>, <red>•</red> și poala sa ce adună cu mîna ta. </language></variant>
+<variant sigle="PH"><language value="ro">Di-nsa nu-şi împlu mînru[le] sale secerătoriu<i>l</i> şi poala sa adunrătoriu<i>l</i> cu mînrule-şi. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">6. De quo non impleuit manum suam qui metet: et sinum suum qui manipulos colliget. </language></variant>
+<variant sigle="PR"><language value="lat">5. De quo non implebit manum suam qui metet: nec sinum suum qui manipulos colliget. </language></variant>
+</verse>
+<verse id="7">
+<variant sigle="CP1"><language value="sla">и҆ не рѣ́ша ми́моходѧщеи</language><language value="ro"> ++  </language><language value="sla">блⷭ҇ве́нїе гн҃е на вⷭ҇а</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Și nu ziseră trecători: </language><language value="sla">··</language> <language value="ro">„Blagosloveniia Domnului spre voi! </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Și nu ziseră trecători: </language><language value="sla">··</language> <language value="ro">„Bl[ago]sloveniia Domnului spre voi!ˮ </language></variant>
+<variant sigle="CP"><language value="ro">• Și nu ziseră trecători: • „Blagosloveniia Domnului spre voi!ˮ </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Și nu ziseră trecători: </language><language value="sla">··</language> <language value="ro"></language><page pageID="148v"/><language value="ro"> „Blagoslovenie Do<i>m</i>nului spre voi! </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Și nu dziseră trecătorii: <red>•</red> „Bl[ago]<i>s</i>[lo]venie Domnului spre voi!ˮ </language></variant>
+<variant sigle="PH"><language value="ro">Şi nu dziseră trecătorii: „Blagoslovenia lu Dumnedzău pre voi, </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">7. Et non dixerunt qui praeteribant benedictio domini super vos: </language></variant>
+<variant sigle="PR"><language value="lat">6. Et non dixerunt qui praeteribant benedictio domini super vos: </language></variant>
+</verse>
+<verse id="8">
+<variant sigle="CP1"><language value="sla">блⷭ҇вихѡⷨ вы̀ въ имѧ гн҃е</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Blagoslovimu-vă în numele Domnului!ˮ </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> „Bl[ago]<i>s</i>[lo]vimu-vă în numele Domnului!ˮ </language></variant>
+<variant sigle="CP"><language value="ro">• „Blagoslovimu-vă în numele Domnului!ˮ </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> „<red>B</red>lagoslovimu-vă în numele Do<i>m</i>nului!ˮ </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> „Bl[ago]s[lo]vimu-vă în numele D[om]nului!ˮ </language></variant>
+<variant sigle="PH"><language value="ro">Blagoslovimu-vă în numele lu Dumnedzeu”. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">benediximus vobis in nomine domini. </language></variant>
+<variant sigle="PR"><language value="lat">benediximus vos in nomine domini. </language></variant>
+</verse>
+</psalm>

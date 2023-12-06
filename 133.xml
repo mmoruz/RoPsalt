@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="psaltiri.css"?>
+<psalm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="roPsalt.xsd" id="133">
+<titles><title sigle="CP1" ><language value="sla">пⷭ҇ѣ сте́пенїи</language>. Cîntecele spițelor 133</title>
+<title sigle="CP1" ><language value="sla">пⷭ҇ѣ сте́пенїи</language>. Cîntecele spițelor 133</title>
+<title sigle="CP2" ><language value="sla">пⷭ҇ѣ́ степенїи</language>. Cîntecele spițelo<i>r</i> 133</title>
+<title sigle="CP" ><red>Cîntecele spițelor • 133</red></title>
+<title sigle="PC" ><language value="sla"><red>пⷭ҇ѣ́. степе́нїи</red></language><red>.</red><language value="sla"><red> </red></language><red>Cî<i>n</i>tecele spițelo<i>r</i> 133</red></title>
+<title sigle="PS" ><red>C[în]te<i>ce</i>le spițelor 133</red>} /438</title>
+<title sigle="PH" ><red>133</red></title>
+<title sigle="PV" ><language value="sla"><red>пⷭ҇ѣ се́пены</red></language></title>
+<title sigle="PG" ><red>Canticum graduum. CXXXIII</red></title>
+<title sigle="PR" ><red>Canticum graduum. CXXXIII</red></title>
+</titles><verse id="1">
+<variant sigle="CP1"><language value="sla">Сѐ нинѣ́ блⷭ҇вите г҃а въсѝ рабѝ гн҃и</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Adecă acmu blagosloviți Domnul toți șerbii Domnului, </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Adecă, acmu blagosloviți Domnu<i>l</i> toți șerbii Domnului </language></variant>
+<variant sigle="CP"><language value="ro"><red>•</red> <red>A</red>decă, acmu, blagosloviți Domnul toți șerbii Domnului. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Adecă, acmu, blagosloviți Domnu<i>l</i> toți șerbii Domnului <note><language value="ro"> Scris:  </language><language value="sla">домноуⷧ҇оу́и</language><language value="ro">. </language></note>, </language></variant>
+<variant sigle="PS"><language value="ro"><red>A</red>decă, acmu, bl[ago]s[lo]viți D[om]nul <red>•</red> toți șerbii D[om]nului, </language></variant>
+<variant sigle="PH"><language value="ro"><red>A</red>decă acmu blagosloviţi Domnulu toţi şerbii lu Dumnedzău, </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>A</red>decă acmu bl[ago]<i>s</i>[lo]viți D[o]mnu<i>l</i> toți șe<i>r</i>bii D[o]mnu<i>l</i>[u]i, </language><page pageID="37r"/><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">1. Ecce nunc benedicite dominum: omnes serui domini. </language></variant>
+<variant sigle="PR"><language value="lat">1. Ecce nunc benedicite dominum: omnes serui domini. </language></variant>
+</verse>
+<verse id="2">
+<variant sigle="CP1"><language value="sla">сто́ѫщен въ хра́мѣ гн҃и въ дво́рѣхь до́мꙋ б҃а на́шего</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Stînd în casa Domnului, în curțile Zeului nostru, </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Stînd în casa Domnului, în curțile Zeului nostru! </language></variant>
+<variant sigle="CP"><language value="ro">• Stînd în casa Domnului, în curțile Zeului nostru! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Stînd în casa Do<i>m</i>nului, în curțile Du<i>m</i>nedzeului nostru! </language></variant>
+<variant sigle="PS"><language value="ro">Stîndu în casa D[om]nului, <red>•</red> în curțile caseei Dzeului nostru! </language></variant>
+<variant sigle="PH"><language value="ro">Cîţi staţi în curtea caseei Dumnedzeului nostru. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>S</red>tîndu în casa D[o]mnu<i>l</i>[u]i, în cu<i>r</i>țile caseei D[o]mnu<i>l</i>[u]i nostru! </language></variant>
+<variant sigle="PG"><language value="lat">2. Qui statis in domo domini: in atrijs domus dei nostri. </language></variant>
+<variant sigle="PR"><language value="lat">2. Qui statis in domo domini: in atrijs domus dei nostri. </language></variant>
+</verse>
+<verse id="3">
+<variant sigle="CP1"><language value="sla">въ но́щиⷯ възде́ждате рѫкы ва́шѧ въ ст҃аа̀ блⷭ҇вите г҃а</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> În nopți rădicați mîinile voastre în sf[î]ntu, bl[a]gosloviți Domnul. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> În nopți rădicați mînile voastre în sf[î]ntu, bl[ago]<i>s</i>[lo]viți Domnul! </language></variant>
+<variant sigle="CP"><language value="ro">• În nopți rădicați mîinile voastre în sfîntu, blagosloviți Domnu_ </language><page pageID="155r"/><language value="ro"> l! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> În nopți rădicați mînule voastre în sfî<i>n</i>tu, blagosloviți Domnu<i>l</i>! </language></variant>
+<variant sigle="PS"><language value="ro">În nopți rădicați mînule voastre în sf[în]tu, bl[ago]<i>s</i>[lo]viți D[om]nu<i>l</i>! </language></variant>
+<variant sigle="PH"><language value="ro">Nopţile rrădica mînrule voastre în cea sfîntă. </language></variant>
+<variant sigle="PV"><language value="sla">··</language><language value="ro"> <red>În</red> no<i>p</i>ți rrădicați-vă mîrule voastre întru sfinție, </language><language value="sla">··</language> <language value="ro"><red>b</red>l[ago]<i>s</i>[lo]viți D[o]mnu<i>l</i>! </language></variant>
+<variant sigle="PG"><language value="lat">3. In noctibus extollite manus vestras in sancta: et benedicite dominum. </language></variant>
+<variant sigle="PR"><language value="lat">3. In noctibus extollite manus vestras in sancta: et benedicite dominum. </language></variant>
+</verse>
+<verse id="4">
+<variant sigle="CP1"><language value="sla">блⷭ҇ви́т тѧ г҃ь ѿ сїѡна, сътво́ривыи нб҃о и зе́млѧ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Blagosloveaște-te Domnul de Sion, ce feace ceriul și pămîntul. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Bl[ago]sloveaște-te Domnul de Sio<i>n</i>, ce feace ceriul și pămîntul! </language></variant>
+<variant sigle="CP"><language value="ro">• Blagosloveaște-te Domnul de Sion, ce feace ceriul și pămîntul! </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Blagosloveaște-te Domnu<i>l </i>de Sión, ce feace ceriu<i>l</i> și pămî<i>n</i>tu<i>l</i>! </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Bl[ago]s[lo]veaște-te D[om]nu<i>l</i> de Sio<i>n</i>, ce feace ceriu<i>l</i> și pămîntul! </language></variant>
+<variant sigle="PH"><language value="ro">Blagoslovi-te-va Domnulu den Sion, cel ce feace ceriul şi pămîntul. </language></variant>
+<variant sigle="PV"><language value="ro">Bl[ago]<i>s</i>[lo]veaște-te D[o]mnu<i>l</i> din Sio<i>n</i>, cela ce feace ceriu<i>l</i> și pămîntu<i>l</i>! </language></variant>
+<variant sigle="PG"><language value="lat">4. Benedicat te dominus ex sion: qui fecit coelum et terram. </language></variant>
+<variant sigle="PR"><language value="lat">4. Benedicat te dominus ex sion: qui fecit coelum et terram. </language></variant>
+</verse>
+</psalm>
