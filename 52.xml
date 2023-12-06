@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="psaltiri.css"?>
+<psalm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="roPsalt.xsd" id="52">
+<titles><title sigle="CP1" ><language value="sla">ѱа́лѡⷨ о̑ма́е̑леѳѣра́ꙁꙋмь дв҃дь. </language>Cîntecul de maeléntu D[a]v[i]d înțelease 52</title>
+<title sigle="CP1" ><language value="sla">ѱа́лѡⷨ о̑ма́е̑леѳѣра́ꙁꙋмь дв҃дь. </language>Cîntecul de maeléntu D[a]v[i]d înțelease 52</title>
+<title sigle="CP2" ><language value="sla">ѱлѡⷨо͗маелеѳѣраꙁоⷨу двⷣь</language>. Cîntecul de Maelentu David înțelease 52} /101</title>
+<title sigle="CP" ><red>Cînteculde Maelentu David înțelease52</red></title>
+<title sigle="PC" ><language value="sla">слⷡ҇а́. ѱл҃оⷨ҇двⷣ҇ь</language>. Cîntecu<i>l</i> lui Davi<i>d</i> 51</title>
+<title sigle="PS" ><red>Cîntecu de Malentu D[avi]d î<i>n</i>țelease</red><note> Scrisîn marginea de sus a paginii, marcat cu două linii oblice negre: -<language value="sla">цѣлѣсе</language>.</note>52</title>
+<title sigle="PH" >În cumpli<i>t</i> de la Maleet 52</title>
+<title sigle="PG" ><red>In finem pro Amalechintelligentia Dauid. LII</red></title>
+<title sigle="PR" ><red>In finem pro Amalech intellectus Dauid. LII</red></title>
+</titles><verse id="1">
+<variant sigle="CP1"><language value="sla"> Ре́че беꙁꙋменьвъсрⷣцисвоеⷨ нⷭ҇ѣ б҃а</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Zise fărămente întru inema sa: „Nu e Dumnezeu!” </language></variant>
+<variant sigle="CP2"><language value="ro">Zise fără-mente întru inema sa: „Nu iaste Dumnezeu!” </language></variant>
+<variant sigle="CP"><language value="ro">Zise fără-mente întru inema sa: „Nu e Dumnezeu!” </language><dot color="black"/></variant>
+<variant sigle="PS"><language value="ro"><red>Dz</red>ise fărămente întru înrema sa: „Nu e D[umne]dzeu”. </language></variant>
+<variant sigle="PH"><language value="ro">Dzise <note><language value="ro"> Scris:  </language><language value="sla">ѕисѧ</language><language value="ro">. </language></note> cel fără-de-mente într-îri_/44v ma sa: „Nu e Dumnedzeu!” </language></variant>
+<variant sigle="PG"><language value="lat">1.Dixit insipiens in corde suo:non est Deus. </language></variant>
+<variant sigle="PR"><language value="lat">1. Dixit insipiens in corde suo: non est deus. </language></variant>
+</verse>
+<verse id="2">
+<variant sigle="CP1"><language value="sla">растлѣ́шѫи̑о̑мра́ꙁишѫсѧ въ беꙁа́кониⷯ </language><language value="sla">  </language><language value="sla">нⷭ҇ѣ твѡ́</language><language value="sla">_ </language><page pageID="98r"/><language value="sla"> </language><language value="sla"> рѧи бл҃га</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Potrediră și se omrăziră întru fărăleage,  </language><language value="sla"></language><language value="ro"> nu e făcătoriu bine. </language></variant>
+<variant sigle="CP2"><language value="ro">Putrediră și se omrăziră întru fără-leage,  nu e de făcătoriu bine. </language></variant>
+<variant sigle="CP"><language value="ro">Putrediră și se omrăziră întru fără-leage, </language><dot color="black"/><language value="ro">nu e făcătoriu bine. </language><dot color="black"/></variant>
+<variant sigle="PC"><language value="ro">[...] <note><language value="ro"> Fragment lipsă. </language></note>-ziră întru fărăleage,  </language><language value="sla"></language><language value="ro">nu e făcătoriu bine. </language></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro"> Putrediră și omrăziră-se întru fărăleage, </language><dot color="red"/><language value="ro"> nu e făcătoriu bire. </language></variant>
+<variant sigle="PH"><language value="ro">Putrediră şi urriră-se în fărădelegile sale, nu e cinre se [facă] binre. </language></variant>
+<variant sigle="PG"><language value="lat">2.Corrupti sunt et abominabiles facti sunt in iniquitatibus: non est qui faciat bonum. </language></variant>
+<variant sigle="PR"><language value="lat">2. Corrupti sunt et abominabiles facti sunt in voluntatibus suis. 3. Non est qui faciat bonum: non est vsque ad unum. </language></variant>
+</verse>
+<verse id="3">
+<variant sigle="CP1"><language value="sla">б҃ь съ нб҃се прини́че на́ сн҃ы чл҃чъскыѧ</language><language value="sla">  </language><language value="sla">ви́дѣ́ти аще е̑сть раз́умѣваѫ и лѝ въꙁискаѫи б҃а</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Dumnezeu den ceriu căută spre fiii oamenilor </language><language value="sla"></language><language value="ro"> să vază să iaste înțelegătoriu sau a ceare Dumnezeu. </language></variant>
+<variant sigle="CP2"><language value="ro">Dumnezeu den ceriu căută spre fiii oamenilo<i>r</i>  să vază să înțeleagă sau căutătoriu de Dumnezeu. </language></variant>
+<variant sigle="CP"><language value="ro">Dumnezeu den ceriu </language><page pageID="58v"/><language value="ro"> căută spre fiii oamenilor </language><dot color="black"/><language value="ro">să vază să iaste înțelegătoriu sau a ceare Dumnezeu. </language><dot color="black"/></variant>
+<variant sigle="PC"><language value="sla"></language><language value="ro">Du<i>m</i>nedzău den ceriu căută spre fiii oamenilo<i>r</i> </language><language value="sla"></language><language value="ro"> să vadză să iaste înțelegătoriu sau a ceare Du<i>m</i>nedzău. </language></variant>
+<variant sigle="PS"><language value="ro">Dzeu<i>l</i> din ceriu căută spre fiii oamerilo<i>r</i>, </language><dot color="red"/><language value="ro"> se vadză se iaste înțelegătoriu, sau ce ceare D[umne]dzeu. </language></variant>
+<variant sigle="PH"><language value="ro">Domnu<i>l</i> den ceriu <note><language value="ro"> Urmează:  </language><language value="sla">призр</language><language value="ro">, tăiat. </language></note> previ pre feciori[i] oamenriloru a vedea au iaste cenre se înţeleagă sau se ceie Domnedzeu. </language></variant>
+<variant sigle="PG"><language value="lat">3.Deus de coelo prospexit super filios hominum:vt videat si est intelligens aut requirens deum. </language></variant>
+<variant sigle="PR"><language value="lat">4. Dominus de coelo prospexit super filios hominum: vt videat si est intelligens aut requirens deum. </language></variant>
+</verse>
+<verse id="4">
+<variant sigle="CP1"><language value="sla"> въсѝ оуклони́шѫсѧ въкꙋ́пѣ неключими бы́шѫ</language><language value="sla">  </language><language value="sla">нⷭ҇ѣ́ тво́рѧи бл҃га нⷭ҇ѣ́до̀ е̑диного</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Toți feriră-se depreună și nu fură treabnici;  </language><language value="sla"></language><language value="ro"> nu e făcătoriu bine, nu e nece pînă la unul. </language></variant>
+<variant sigle="CP2"><language value="ro">Toți lepădară-se, depreună și netreabnici fură;  </language><page pageID="102r"/><language value="ro"> nu e făcătoriu de bine, nu e nece pînă la unul. </language></variant>
+<variant sigle="CP"><language value="ro">Toți feriră-se, depreună și nu fură treabnici; </language><dot color="black"/><language value="ro">nu e făcătoriu bine, nu e nece pînă la unul. </language><dot color="black"/></variant>
+<variant sigle="PC"><language value="sla"></language><language value="ro">Toți feriră-se depreună și nu fură treabnici; </language><language value="sla"></language><language value="ro"> nu e făcătoriu bine, nu e nice pînă la unu<i>l</i>. </language></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro"> Toți ucloniră-se preură și nu fără op, </language><dot color="red"/><language value="ro"> nu e </language><page pageID="165"/><language value="ro"> făcătoriu bine, nu e ne<i>ce</i> pără la uru<i>l</i>. </language></variant>
+<variant sigle="PH"><language value="ro">Toţi rrămară-se, depreunră nu fură op; nu e cinre a face binre, nu iaste nece pănră la urul. </language></variant>
+<variant sigle="PG"><language value="lat">4. Omnes declinauerunt </language><page pageID=""/><language value="lat"> simul inutiles facti sunt: non est qui faciat bonum non est vsque ad vnum. </language></variant>
+<variant sigle="PR"><language value="lat">5. Omnes declinauerunt </language><page pageID=""/><language value="lat"> simul inutiles facti sunt: non est qui faciat bonum non est vsque ad vnum. </language></variant>
+</verse>
+<verse id="5">
+<variant sigle="CP1"><language value="sla">ни лѝ раꙁꙋмеваѫть въсѝ дѣ́лае̑щеи беꙁа́конїе</language><language value="sla">  </language><language value="sla">снѣ́дащеи лю́ди моѫ въ хлѣ́ба мѣ́сто б҃а не при́ꙁвашѫ</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Nece înțeleg toți făcătorii fărăleage,  </language><language value="sla"></language><language value="ro"> mîncînd oamenii miei în loc de pîine? </language></variant>
+<variant sigle="CP2"><language value="ro">Nece înțeleg toți făcătorii fără-leage,  mîncînd oamenii miei în loc de pîine? </language></variant>
+<variant sigle="CP"><language value="ro">Nece înțeleg toți făcătorii fărăleage, </language><dot color="black"/><language value="ro">mîncînd oamenii miei în loc de pîine? </language></variant>
+<variant sigle="PC"><language value="sla"></language><language value="ro">Nece înțeleg toți făcătorii fărăleage,  </language><language value="sla"></language><language value="ro"> mîncî<i>n</i>d oamenii miei în lo<i>c</i> de pîine? </language></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro"> Ne<i>ce</i> înțelegu toți făcătorii fărăleage, </language><dot color="red"/><language value="ro"> mîncîndu oamerii miei în loc de pîne? </language></variant>
+<variant sigle="PH"><language value="ro">„A[u] nu înţeleasără <note><language value="ro"> Scris:  </language><language value="sla">ꙟцѣлѣсърь</language><language value="ro">. </language></note>-vă toţi [ce] făcea fărădelege, mîncî[n]du oamenrii <note><language value="ro"> Scris:  </language><language value="sla">ѡменрїи</language><language value="ro">. </language></note> miei în loc de pînre? </language></variant>
+<variant sigle="PG"><language value="lat">5.Nonne scient omnes qui operantur iniquitatem: qui deuorant plebem meam vt cibum panis? </language></variant>
+<variant sigle="PR"><language value="lat">6. Nonne cognoscent omnes qui operantur iniquitatem </language><page pageID=""/><language value="lat"> qui deuorant plebem meam sicut escam panis? </language></variant>
+</verse>
+<verse id="6">
+<variant sigle="CP1"><language value="sla">тꙋ оустра́шишѫсѧ стра́ха, иде́же не бѣ страха</language></variant>
+<variant sigle="CP1"><language value="ro">Dumnezeu nu chemară. </language><language value="sla"></language><language value="ro"> Aciia să înfricară, io nu era frică. </language></variant>
+<variant sigle="CP2"><language value="ro">Dumnezeu nu chemară,  aciia să înfricoșară cu frică unde nu era frică. </language></variant>
+<variant sigle="CP"><language value="ro">Dumnezeu nu chemară, </language><dot color="black"/><language value="ro">aciia să înfricară, io nu era frică. </language><dot color="black"/></variant>
+<variant sigle="PC"><language value="ro">Du<i>m</i>nedzău nu chemară.  </language><language value="sla"></language><language value="ro"> Aciia se înfricară, io nu era frică, </language></variant>
+<variant sigle="PS"><language value="ro">Dzeu<i>l</i> nu chiemară. </language><dot color="red"/><language value="ro"> Acie se înfricară cu frică, io nu era frică, </language></variant>
+<variant sigle="PH"><language value="ro">Domnul nu chemară”. Acie înfricară-se de frică, iuo nu era frică. </language></variant>
+<variant sigle="PG"><language value="lat">6.Deum non inuocauerunt: illic trepidauerunt timore vbi non fuit timor </language></variant>
+<variant sigle="PR"><language value="lat">Deum non inuocauerunt: illic trepidauerunt timore vbi non erat timor </language></variant>
+</verse>
+<verse id="7">
+<variant sigle="CP1"><language value="sla">ꙗко б҃ь </language><language value="sla">/98v </language><language value="sla"> расы́па кѡ́сти чл҃ко оуго́дникѡⷨ</language><language value="sla">  </language><language value="sla">посты́дѣшѫсѧ ꙗко б҃ь оуничи́жи ихь</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Că Dumnezeu răsipi oasele omogoditorilor;  </language><language value="sla"></language><language value="ro"> rușinară-se, că Dumnezeu defăimă ei. </language></variant>
+<variant sigle="CP2"><language value="ro">Că Dumnezeu răsipi oasele ogoditorilo<i>r</i> oamenilo<i>r</i>;  rușinară-se, că Dumnezeu defăimă pre ei. </language></variant>
+<variant sigle="CP"><language value="ro">Că Dumnezeu răsipi oasele om ogoditorilo<i>r</i>; </language><dot color="black"/><language value="ro">rușinară-se, că Dumnezeu defăimă ei </language><dot color="black"/></variant>
+<variant sigle="PC"><language value="sla"></language><language value="ro">Că Du<i>m</i>nedzău răsipi oase_/7v le om ogoditoriu<i>l</i> lor;  </language><language value="sla"></language><language value="ro"> rușinară-se, că Du<i>m</i>nedzău defăimă ei. </language></variant>
+<variant sigle="PS"><dot color="black"/><language value="ro"><red>C</red>ă D[umne]dzeu rrăsipi oasele om-ugoditorilo<i>r</i>; </language><dot color="red"/><language value="ro"> rrușirară-se, că Dzeu defăimă ei. </language></variant>
+<variant sigle="PH"><language value="ro">Că Dumnedzeu rrăsipi oasele <note><language value="ro"> Scris:  </language><language value="sla">ѡселе</language><language value="ro">. </language></note> oamenrilo[ru] ugoditoriu; sfii-se-vor <note><language value="ro"> Scris:  </language><language value="sla">сфиисефворь</language><language value="ro">. </language></note>, că Domnedzeu urri-i. </language></variant>
+<variant sigle="PG"><language value="lat">7.Quoniam deus dissipauit ossa eorum qui hominibus placent: confusi sunt </language><page pageID=""/><language value="lat"> quoniam deus spreuit eos. </language></variant>
+<variant sigle="PR"><language value="lat">7. Quoniam deus dissipat ossa hominum sibi placentium: confusi sunt quoniam deus spreuit eos. </language></variant>
+</verse>
+<verse id="8">
+<variant sigle="CP1"><language value="sla">кто̀ дасть ѿ сїѡ́на сп҃се́нїе і̑и́л҃е́во</language><language value="sla">  </language><language value="sla">е̑гда̀ въꙁра́тить б҃ь плѣ́ненїе лю́деи свои́хь</language><language value="sla">  </language><language value="sla">въꙁраⷣуѫтсѧ і̑а́кѡ́вь и въꙁвесели́тсѧ і̑и҃ль</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Cine dă den Sion spăsenie lu<i>i</i> Israil?  </language><language value="sla"></language><language value="ro"> Cînd toarnă Zeul prădarea oamenilor săi,  </language><language value="sla"></language><language value="ro"> bucură-se Iacov și veseliaște-se Israil. </language></variant>
+<variant sigle="CP2"><language value="ro">Cine va den Sion spăsenie lu Isra_ </language><page pageID="102v"/><language value="ro"> il? Cînd înturna-va Zeul prădarea oamenilo<i>r</i> săi,  bucura-se-va Iacov și veseli-se-va Israil. </language></variant>
+<variant sigle="CP"><language value="ro">Cine dă den Sion spăsenie lui Israil? </language><dot color="black"/><language value="ro">Cînd toarnă Zeul prădarea oamenilo<i>r</i> săi, </language><dot color="black"/><language value="ro">bucură-se Iacov și veseliaște-se Israil. </language></variant>
+<variant sigle="PC"><language value="sla"></language><language value="ro">Cine dă den Sión spăsenie lu Isrái<i>l</i>?  </language><language value="sla"></language><language value="ro"> Cînd toar<i>n</i>[ă] Du<i>m</i>nedzău<i>l</i> prădarea oamenilo<i>r</i> săi,  </language><language value="sla"></language><language value="ro"> bucură-se Iacó<i>v</i> și veseleaște-se Israi<i>l</i>. </language></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro"> Cine dă din Sion sp[ă]senie lu I[sra]il? </language><dot color="black"/><language value="ro"><red>C</red>îndu toarrnă Dzeu<i>l</i> prădară oamenilo<i>r</i> săi, bucură-se Iacov și veseleaște-<i>s</i>[e] I[sra]il. </language></variant>
+<variant sigle="PH"><language value="ro">Cinre va [da] den Sion scoatere <note><language value="ro"> Scris:  </language><language value="sla">скотере</language><language value="ro">. </language></note> Israililor? Cîndu va întoarce <note><language value="ro"> Scris:  </language><language value="sla">ꙟторче</language><language value="ro">. </language></note> Domnul pleanul oamenrilor săi, bucura-se-va Iacov şi veseli-[se-va] Israil. </language></variant>
+<variant sigle="PG"><language value="lat">8.Quis dabit ex sion salutare israel? cum conuerterit deus captiuitatem plebis suae: exultabit iacob et laetabitur israel. </language></variant>
+<variant sigle="PR"><language value="lat">8. Quis dabit ex sion salutare israel? Dum auerterit aūtet <note><language value="lat"> Cf. averterit, avertit. </language></note> dominus captiuitatem plebis suae. 9. Exultabit iacob: et laetabitur israel. </language></variant>
+</verse>
+</psalm>

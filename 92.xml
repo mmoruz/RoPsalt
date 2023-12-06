@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="psaltiri.css"?>
+<psalm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="roPsalt.xsd" id="92">
+<titles><title sigle="CP1" ><language value="sla">хва́ла пѣ́сни дв҃дѡви</language>. Lăudarea cîntărilor lu Davíd 92</title>
+<title sigle="CP1" ><language value="sla">хва́ла пѣ́сни дв҃дѡви</language>. Lăudarea cîntărilor lu David 92</title>
+<title sigle="CP2" ><language value="sla">хвала пѣ́сни дв҃дови</language>. Lăudarea cîntărilor lu D[a]v[i]d 92</title>
+<title sigle="CP" ><red>Lăudarea cîntărilor lu D[a]v[i]d • 92</red></title>
+<title sigle="PC" ><language value="sla"><red>хва́ла пѣ́сни давыдо́вы</red></language><red>. Lăudarea cîntărilo<i>r</i> lui Dav[i]<i>d</i> 92</red></title>
+<title sigle="PS" ><red>Laudare</red> <red>cîntarilor lui D[a]v[i]du 92</red></title>
+<title sigle="PH" ><red>92</red></title>
+<title sigle="PV" ><language value="sla"><red>слⷡ҇а. каⷴ҇ⷴ г҃і. ѱл҃ѡⷨ пѣⷭ҇ни, въ дн҃ь сѫбоⷮныи ч҃а</red></language><red>. Ședearea 13. Cî<i>n</i>tarea de cî<i>n</i>tece în dzi de sî[m]<i>b</i>[ătă[u1]].</red></title>
+<title sigle="PG" ><red>Laus cantici Dauid in die ante sabbatum / quando inhabitata est terra. LXXXXII</red></title>
+<title sigle="PR" ><red>Laus cantici ipsi Dauid in die ante sabbatum / quando fundata est terra. LXXXXII</red></title>
+</titles><verse id="1">
+<variant sigle="CP1"><language value="sla">Гь҃</language><language value="sla">  </language><language value="sla">въцр҃исѧ въллѣ́потѫ облѣ́чесѧ</language><language value="ro"> ++  </language><language value="sla">о̑блѣ́чесѧ г҃ь въ си́лѫ и҆ прѣ́поасасѧ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Domnul împărăți-se, și în dulce frîmseațe se învești, </language><language value="sla">··</language> <language value="ro">învești-se Domnul în sila sa încinse-se. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Domnul împărăți-se, și în dulce frîmseațe se învești, </language><language value="sla">··</language> <language value="ro">învești-se Domnul în silă și încinse-se. </language></variant>
+<variant sigle="CP"><language value="ro"><red>•</red> <red>D</red>omnul împărăți-se, și în dulce frîmseațe se învești, • învești-se Domnul în sila sa încinse-se. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Domnu<i>l</i> împărăți-se și în du<i>l</i>ce fru<i>m</i>seațe se învești, </language><language value="sla">··</language> <language value="ro">învești-se Do<i>m</i>nu<i>l</i> în sila sa încinse-se. </language></variant>
+<variant sigle="PS"><language value="ro"><red>D</red>[om]nul împărăți-se, și în dulce frumsețe se învești <note><language value="ro"> Scris:  </language><language value="sla">ꙗвещи</language><language value="ro">. </language></note>, • învești-se D[om]nul în sila sa încinse-se <note><language value="ro"> Secvența <i>-ci-</i> este scrisă deasupra rîndului. </language></note>. </language></variant>
+<variant sigle="PH"><language value="ro"><red>D</red>omnulu domni-se şi frumseaţe se învăscu; învăscu-se Domnul şi în puteare încinse-se </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">1. Dominus regnauit: decorem indutus est: indutus est dominus fortitudinem et praecinxit se. </language></variant>
+<variant sigle="PR"><language value="lat">1. Dominus regnauit </language><page pageID=""/><language value="lat"> decorem induit / induit dominus fortitudinem: et praecinxit se virtute. </language></variant>
+</verse>
+<verse id="2">
+<variant sigle="CP1"><language value="sla">ибо̀ оутвръди въ селене́нѫѧ ꙗ̑же не подви́житсѧ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Că întări toată lumea să nu se clătească. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Că adecă întări lumea ca să nu se clătească. </language></variant>
+<variant sigle="CP"><language value="ro">• Că întări toată lumea să nu se clătească. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Că întări toată lumea să nu se clătească. </language></variant>
+<variant sigle="PS"><language value="ro">Că învîrtoașe toată lume ce nu se rădică. </language></variant>
+<variant sigle="PH"><language value="ro">Şi amu întări lumea ceaea ce nu se va rădica. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">2. Etenim firmauit orbem terrae: qui non commouebitur </language></variant>
+<variant sigle="PR"><language value="lat">2. Etenim firmauit orbem terrae: qui non commouebitur. </language></variant>
+</verse>
+<verse id="3">
+<variant sigle="CP1"><language value="sla">гѡтовь прⷭ҇то́ль твои ѿ то́лѣ́ ѿ вѣ́ка ты̀ е̑си</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Gata scaunul tău de-atunce de veac tu ești. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Gata scaunul tău de-atunce de veac tu </language><page pageID="188v"/><language value="ro"> eștе </language></variant>
+<variant sigle="CP"><language value="ro">• Gata scaunul tău de-atunce de veac tu </language><page pageID="105r"/><language value="ro"> ești. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> </language><page pageID="82r"/><language value="ro"> Gata scaunu<i>l</i> tău, de-atunce de veac tu ești. </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Gata scaunu<i>l</i> tău de atunce de veacu tu ești. </language></variant>
+<variant sigle="PH"><language value="ro">Gata e scaunul tău de acolo,  </language><language value="sla">ѿ вѣка</language><language value="ro"> <note><language value="ro"> În slavonă în text: <i>din veac</i>. </language></note> tu eşti. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">3. Parata sedes tua ex tunc: a saeculo tu es. </language></variant>
+<variant sigle="PR"><language value="lat">3. Parata sedes tua deus ex tunc: a saeculo tu es. </language></variant>
+</verse>
+<verse id="4">
+<variant sigle="CP1"><language value="sla">въздви́гоше рѣ́кы г҃и, въздви́гоше</language><language value="sla"> </language><page pageID="181v"/><language value="sla">  </language><language value="sla">рѣ́кы гласы своѧ̀</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Rădicară-se rîurele, Doamne, rădicară-se rîurele glasurele sale, </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Rădicară rîurele, Doamne, rădicară rîurele glasurele sale, </language></variant>
+<variant sigle="CP"><language value="ro">• Rădicară rîurele, Doamne, rădicară-se rîurele glasurele sale, </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Rădicară-se rîurile, Doamne, rădicară rîurele glasurele sale, </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Rădicară-se riurele, D[oam]ne, rădicară-se riurile </language><page pageID="306"/><language value="ro"> glasurele sale, </language></variant>
+<variant sigle="PH"><language value="ro">Rrădicară rriurile, Doamne, rrădicară rriurile glasurile sale, </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">4. Eleuauerunt flumina domine: eleuauerunt flumina vocem suam. </language></variant>
+<variant sigle="PR"><language value="lat">4. Eleuauerunt flumina domine eleuauerunt flumina vocem suas: </language></variant>
+</verse>
+<verse id="5">
+<variant sigle="CP1"><language value="sla">възмѫть рѣ́кы стрꙋгв своѧ ѿ гла́са во́дь мнѡ́гь</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Lua-vor rîurele matcele sale de glasure ape multe. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Lua-vo<i>r</i> rîurele matcele sale de glasure de ape multe. </language></variant>
+<variant sigle="CP"><language value="ro">• Lua-vo<i>r</i> rîurele matcele sale de glasure ape multe. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Lua-vor rîurile ma<i>t</i>cele sale de glasure de ape mu<i>l</i>te. </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Lua-vor riurile matcele sale de glasure a ape multe. </language></variant>
+<variant sigle="PH"><language value="ro">Lua-vor rriurile strujiturile sale, de glas de apă multă. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">5. Eleuauerunt flumina fluctus suos: a vocibus aquarum multarum. </language></variant>
+<variant sigle="PR"><language value="lat">a vocibus aquarum multarum. </language></variant>
+</verse>
+<verse id="6">
+<variant sigle="CP1"><language value="sla">ди́вны высоты́ мо́скыѧ, ди́вень въ высо́кыⷯ г҃ь</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Minunate înalțile măriei, minunat, întru înalți, Domnul. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Minunate înaltele măriei, minunat, întru înalți, Domnul. </language></variant>
+<variant sigle="CP"><language value="ro">• Minunate înalțile măriei, minunat, întru înalți, Do<i>m</i>nul. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Minunate înalțile măriei, minuna<i>t</i> întru înalți Domnu<i>l</i> <note><language value="ro"> Scris:  </language><language value="sla">доу́мноуⷧ</language><language value="ro">. </language></note>. </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Minuinate înalțatele <note><language value="ro"> Secvența <i>-le</i> este scrisă deasupra rîndului. </language></note> mariei, minuinat, întru înalți, D[om]nul. </language></variant>
+<variant sigle="PH"><language value="ro">Ciudata e continritu<i>l</i> mariei, ciudatu e în ceia de sus Domnulu. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">6. Mirabiles elationes maris: mirabilis in altis dominus. </language></variant>
+<variant sigle="PR"><language value="lat">5. Mirabiles elationes maris: mirabilis in exelsis dominus. </language></variant>
+</verse>
+<verse id="7">
+<variant sigle="CP1"><language value="sla">свѣ́дѣнїа твоа̀ оувѣ́ришесѧ ѕѣлѡ</language><language value="ro"> ++  </language><language value="sla">до́мꙋ твое̑мꙋ подоба́е̑ть ст҃ы́и г҃и въ длъгѡтѫ дн҃и</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Mărturiile tale crezură-se foarte; </language><language value="sla">··</language> <language value="ro">caseei tale cuvine-se sfinției, Doamne, în lungi zile. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Mărturiile tale crezură-se foarte; </language><language value="sla">··</language> <language value="ro">caseei tale cuvine-se sf[i]nției, Doamne, în lungi zile. </language></variant>
+<variant sigle="CP"><language value="ro">• Mărturiile tale crezură-se forte; • caseei tale cuvine-se sfinției, Doamne, în lungi zile. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Măturiile tale credzură-se foarte, </language><language value="sla">··</language> <language value="ro">caseei tale cuvine-se sfi<i>n</i>ției, Doamne, în lu<i>n</i>gi dzile. </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Mărturiile tale credzură-se foarte; <red>•</red> caseei cuvine-se sf[i]nție, D[oam]ne, în lungi dzile <note><language value="ro"> Urmează semnul „:”, scris cu negru. </language></note>. </language></variant>
+<variant sigle="PH"><language value="ro">Mărturia ta credzură-se vîrtos; caseei tale [...] sfinţie, Doamne, în lungul dzilelor. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">7. Testimonia tua credibilia facta sunt nimis: domum tuam decet sanctitudo domine ei longitudinem dierum. </language></variant>
+<variant sigle="PR"><language value="lat">6. Testimonia tua domine credibilia facta sunt nimis. 7. Domum tuam decent sancta domine: in longitudine dierum. </language></variant>
+</verse>
+</psalm>

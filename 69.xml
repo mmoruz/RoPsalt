@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="psaltiri.css"?>
+<psalm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="roPsalt.xsd" id="69">
+<titles><title sigle="CP1" ><language value="sla">ѱалѡⷨ дв҃дь</language>. CînteculluD[a]v[i]d 69} /128v</title>
+<title sigle="CP1" ><language value="sla">ѱалѡⷨ дв҃дь</language>. Cîntecul lu D[a]v[i]d 69} /128</title>
+<title sigle="CP2" ><language value="sla">ѱл҃ѡⷨ дв҃дь</language>. Cîntecul lu David69</title>
+<title sigle="CP" ><red>Cîntecul luDavid[6]9</red><note> Scris:<language value="sla">ѳ҃.</language></note></title>
+<title sigle="PC" ><language value="sla">ѱл҃ѡⷨ давидоⷡ҇</language>. Cîntecu<i>l</i> lui D[a]v[i]<i>d</i> 69</title>
+<title sigle="PS" ><red>Cîntecu<i>l</i> lui D[avi]d 69</red></title>
+<title sigle="PH" ><red>69</red></title>
+<title sigle="PG" ><red>In finem Dauid in rememorationem /eo quod saluum me fecit dominus. LXIX</red></title>
+<title sigle="PR" ><red>In finem Dauid in rememorationem quod saluum me fecit dominus. LXIX</red></title>
+</titles><verse id="1">
+<variant sigle="CP1"><language value="sla">Бж҃е въ помо́щь моѫ вънми, г҃и помо́щи мнѣ потъщисѧ </language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Doamne, ajutoriul mieu socoteaște,Doamne, să-mi ajuți îndeamnă-te! </language></variant>
+<variant sigle="CP2"><language value="ro">Doamne, ajutoriul mieu, socoteaște!  Doamne, </language><page pageID="135v"/><language value="ro"> a ajuta mie îndeamnă-te! </language></variant>
+<variant sigle="CP"><language value="ro"><red>D</red>oamne, ajutoriul mieu socoteaște! </language><dot color="black"/><language value="ro">Doamne, să-mi ajuți îndeamnă-te! </language></variant>
+<variant sigle="PC"><language value="sla"></language><language value="ro"> Doamne, agiutoriu<i>l</i> mieu socoteaște, Doamne, să-mi agiuți îndeamnă-te! </language></variant>
+<variant sigle="PS"><language value="ro"><red>Dz</red>eu<i>l</i>, în agiutoriul mieu socoteaște! </language><dot color="red"/><language value="ro"> D[oam]ne, se adzuți mie, îndeamnă-te <note><language value="ro"> Scris:  </language><language value="sla">ꙟндѣмнѣѧ</language><language value="ro">. </language></note>! </language></variant>
+<variant sigle="PH"><language value="ro"><red>Dz</red>eule, într-agiutoriu mieu caută-mi, Do[a]mne, agiuta mie, sîrguiaște! </language></variant>
+<variant sigle="PG"><language value="lat">1.Deus in adiutorium meum intende: domine ad adiuuandum me festina </language></variant>
+<variant sigle="PR"><language value="lat">1. Deus in adiutorium meum intende: domine ad adiuuandum me </language><page pageID=""/><language value="lat"> festina </language></variant>
+</verse>
+<verse id="2">
+<variant sigle="CP1"><language value="sla">да посты́дѧтсѧ и̑ посрамѧтсѧ и̑щѫ́щеи дш҃ѫ мож</language><language value="sla"> </language><language value="sla">[</language><language value="sla">3]  </language><language value="sla">да въꙁвратѧтсѧ въспѧть и̑ посты́дѧтсѧ мы́слѧщїи мнѣ ꙁлаа </language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Să se răcească și să se rușineaze ce cerură sufletul mieu! </language></variant>
+<variant sigle="CP2"><language value="ro">Să se răcească și să se rușineaze carii caută sufletul mieu! </language></variant>
+<variant sigle="CP"><language value="ro">Să se răcească și să se rușineaze ce cerură sufletul mieu! </language><dot color="black"/></variant>
+<variant sigle="PC"><language value="sla"></language><language value="ro"> Să se răcească și să se rușineadze ceia ce cerură <note><language value="ro"> Scris deasupra rândului, cu altă cerneală: <i>ce-</i>. </language></note> sufletu<i>l</i> mieu! </language></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro">Se rece[a]scă-se <note><language value="ro"> Scris:  </language><language value="sla">реческѫсѧ</language><language value="ro">. </language></note> să rrușireadze-se cei ce ceru sufletu<i>l</i> mieu! </language></variant>
+<variant sigle="PH"><language value="ro">Se sfiască-se și se se rrușinreadze cei ce vor ceare sufletul mieu! </language></variant>
+<variant sigle="PG"><language value="lat">2.Confundantur et reuereantur: quiquaerunt animam meam. </language></variant>
+<variant sigle="PR"><language value="lat">2. Confundantur et reuereantur inimicii mei: qui quaerunt animam meam. </language></variant>
+</verse>
+<verse id="3">
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Să se toarne înapoi și să se răcească ce cugetă mie rău! </language></variant>
+<variant sigle="CP2"><language value="ro">Să se toarne înapoi și să se rușineaze carii cugetă mie rău! </language></variant>
+<variant sigle="CP"><language value="ro">Să se toarne înapoi și să se răcească ce cugetă mie rău! </language><dot color="black"/></variant>
+<variant sigle="PC"><language value="sla"></language><language value="ro"> Să se toarne înapoi și să se rușineadze ceia ce cugetă mie rău! </language></variant>
+<variant sigle="PS"><language value="ro">Se toarne-se înapoi și rrecească-secei ce cugetă mie rreu! </language></variant>
+<variant sigle="PH"><language value="ro">Se se înto[a]rcă înderret și sfiiască-se carii vor vrea mie <note><language value="ro"> Urmează:  </language><language value="sla">ѕла</language><language value="ro">. </language></note>rreu! </language></variant>
+<variant sigle="PG"><language value="lat">3.Auertantur retrorsum et erubescant: qui volunt michi mala. </language></variant>
+<variant sigle="PR"><language value="lat">3. Auertantur retrorsum et erubescant: qui cogitant michi mala. </language></variant>
+</verse>
+<verse id="4">
+<variant sigle="CP1"><language value="sla">да въꙁвра́ꙁетсе а̑бїе сты́дѧщесѧ гл҃ѧщїи мнѣ бла́гоже бл҃гоже</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Să se toarne amu rușinîndu-se ce zic mie: „Dulceață, dulceață!”. </language></variant>
+<variant sigle="CP2"><language value="ro">Să se toarne aciiaș rușinîndu-se carii zic mie: „Bine iară bine!” </language></variant>
+<variant sigle="CP"><language value="ro">Să se toarne amu rușinîndu-se ce zic mie: „Dulceață, dulceață!”. </language></variant>
+<variant sigle="PC"><language value="sla"></language><language value="ro"> Să se toarne amu ruinî<i>n</i>du-se ce dzic mie: „Dulceață, dulceață!”. </language></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro">Se toarrne-se amu rrușinîndu-se cei ce dzicu mie: „Dulceața, du<i>l</i>ceață!”. </language></variant>
+<variant sigle="PH"><language value="ro">Se se întoarcă acieși sfiindu-se, grăindu mie: „Mai binre e, mai binre e!” </language></variant>
+<variant sigle="PG"><language value="lat">4. Auertantur statim erubescentes: qui dicunt michieuge euge. </language></variant>
+<variant sigle="PR"><language value="lat">4. Auertantur statim erubescentes: qui dicunt michi euge euge. </language></variant>
+</verse>
+<verse id="5">
+<variant sigle="CP1"><language value="sla">да въꙁраⷣуѫтсѧ и̑ въꙁвесесѧтсѧ о те́бѣ въсѝ и̑щѫщїи те́бе б҃е</language><language value="sla"> </language><language value="sla"> и гл҃ѧть ви̑нѫ да въꙁвели́читсѧ г҃ь любѧщеи сп҃се́нїе твоѐ </language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Să se bucure și să se veselească de tine toți ce cer tine, Doamne,  </language><language value="sla"></language><language value="ro">și să zică pu_ </language><page pageID="129rrurea:"/><language value="ro"> „Să se mărească Domnul!”ce iubeaște spăsenia ta. </language></variant>
+<variant sigle="CP2"><language value="ro">Să se bucure și să se veselească de tine toți carii caută pre tine, Doamne,  și grăi-vo<i>r </i>pururea: „Să se mărească Domnul!” </language><page pageID="136r"/><language value="ro"> ce iubeaște spăsenie ta. </language></variant>
+<variant sigle="CP"><language value="ro">Să se bucure și să se veselească de tine toți ce cer ti_ </language><page pageID="78v"/><language value="ro"> ne, Doamne, </language><dot color="black"/><language value="ro">și să zică pururea: „Să se mărească Domnul! ”ce iubeaște spăsenia ta. </language><dot color="black"/></variant>
+<variant sigle="PC"><language value="sla"></language><language value="ro"> Să se bucure și să se ve<i>s</i>[e]lească de tine toți ce cer tine, Doa<i>m</i>ne  </language><language value="sla"></language><language value="ro">/35r și să dzică pururea: „Să se mărească Domnu<i>l</i>!” ce iubeaște spăsenia ta. </language></variant>
+<variant sigle="PS"><language value="ro">Se bucure-se </language><dot color="red"/><language value="ro"> și se ve<i>s</i>[e]lească-se de tire </language><dot color="red"/><language value="ro"> to<i>ț</i>[i] cei ce ceru tire, </language><page pageID="214"/><language value="ro"> Dzeu, și </language><dot color="red"/><language value="ro"> se dzică pururea: „Se mărească-se D[om]nu<i>l</i>!” ce iubeaște sp[ă]<i>s</i>[e]nia ta. </language></variant>
+<variant sigle="PH"><language value="ro">Bucura-se-vor și se ve<i>s</i>[e]li de tinre toți cîți vor ceare <note><language value="ro"> Scris deasupra, posibil: <i>n</i>. </language></note> tinre, D[oa]mne, și grăiesc puru[rea]: „Se se mărească D[o]mnul!” carii iubescu spa[se]nia ta. </language></variant>
+<variant sigle="PG"><language value="lat">5.Exultent et laetentur in te omnes qui quaerunt te: et dicant semper magnificetur dominus qui diligunt salutare tuum. </language></variant>
+<variant sigle="PR"><language value="lat">5. Exultent et laetentur qui quaerunt te domine: et dicant semper magnificetur dominus qui diligunt salutare tuum. </language></variant>
+</verse>
+<verse id="6">
+<variant sigle="CP1"><language value="sla">а̑ꙁ же ни́щь е̑смь и̑ ѹ̑богь, б҃е помо́ѕи ми </language><language value="sla"> </language><language value="sla">[</language><language value="sla">7]  </language><language value="sla">помо́щникь мои и̑и̑ꙁбави́тель мои е̑сѝ ты̏, г҃и не ꙁакъснѝ</language></variant>
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> E eu mișelu-s și measer, Dumnezeu, ajută-mi! </language></variant>
+<variant sigle="CP2"><language value="ro">Iară eu mesearu-s și sărac, Dumnezeu, ajută-mi! </language></variant>
+<variant sigle="CP"><language value="ro">E eu mișelu-s și measer, Dumnezeu, ajută-mi! </language><dot color="black"/></variant>
+<variant sigle="PC"><language value="sla"></language><language value="ro"> E eu mișelu-<i>s</i> și measer, Du<i>m</i>nedzău, ajută-mi! </language></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro">E eu mișelu-<i>s</i> și measeru, Dzeu, agiută-mi. </language></variant>
+<variant sigle="PH"><language value="ro">E eu-s mișel, Dzeu, agiută-mi.! </language></variant>
+<variant sigle="PG"><language value="lat">6.Ego vero egenus et pauper sum:deus adiuua me. </language></variant>
+<variant sigle="PR"><language value="lat">6. Ego vero egenus et pauper sum: deus adiuua me. </language></variant>
+</verse>
+<verse id="7">
+<variant sigle="CP1"><language value="sla"></language><language value="ro"> Ajutoriul mieu și izbăvitoriul mieu ești tu, Doamne, nu pesti! </language></variant>
+<variant sigle="CP2"><language value="ro">Ajutoriul mieu și izbăvitoriul mieu ești tu, Doamne, nu pesti! </language></variant>
+<variant sigle="CP"><language value="ro">Ajutoriul mieu </language><dot color="black"/><language value="ro">și izbăvitoriul mieu ești tu,  </language><dot color="black"/><language value="ro">Doamne, nu pesti! </language></variant>
+<variant sigle="PC"><language value="sla"></language><language value="ro"> Agiutoriu<i>l</i> mieu <note><language value="ro"> Secvență neclară: -<i>u</i>. </language></note> și izbăvitoriu<i>l</i> mieu ești tu, Doa<i>m</i>ne, nu pesti! </language></variant>
+<variant sigle="PS"><dot color="red"/><language value="ro">Agiutorul mieu și izbăvitoriu<i>l</i> mieu ești tu, D[oam]ne, nu amîna. </language></variant>
+<variant sigle="PH"><language value="ro">Agiutoriu<i>l</i> mieu și izbăvitoriulu mie<i>u</i> ești tu, D[u]mnedzeu mieu, nu pesti! </language></variant>
+<variant sigle="PG"><language value="lat">7.Adiutor meus et liberator meus es tu:domine ne moreris. </language></variant>
+<variant sigle="PR"><language value="lat">7. Adiutor meus et liberator meus es tu: domine ne tardaueris. </language></variant>
+</verse>
+</psalm>

@@ -1,0 +1,136 @@
+@font-face {
+  font-family: CyrillicaBulgarian10U;
+  src: url(https://scriptadacoromanica.ro/bin/download/FlamingoThemes/Iceberg/CB10U.ttf?rev=1.1);
+}
+
+
+psalm::before {
+    content: "[Psalm "attr(id)"] ";
+    background: yellow;
+    font-size: large;
+}
+
+psalm {
+    display: block;   
+}
+
+title[sigle="CP1"] {
+    content: "CP1 ";
+    display: block;
+}
+
+title[sigle="CP2"] {
+    content: "CP2 ";
+    display: block;
+}
+
+title[sigle="CP"] {
+    content: "CP ";
+    display: block;
+}
+
+title[sigle="PC"] {
+    content: "PC ";
+    display: block;
+}
+
+title[sigle="PS"] {
+    content: "PS ";
+    display: block;
+}
+
+title[sigle="PH"] {
+    content: "PH ";
+    display: block;
+}
+
+title[sigle="PV"] {
+    content: "PV ";
+    display: block;
+}
+
+title[sigle="PG"] {
+    content: "PG ";
+    display: block;
+}
+
+title[sigle="PR"] {
+    content: "PR ";
+    display: block;
+}
+
+verse::before {
+    content:"["attr(id)"]";
+    color: purple;
+    font-size: large;
+}
+verse {
+    margin-top: 20px;
+    display: block;
+}
+
+variant::before {
+    content:attr(sigle)" ";
+    color: purple;
+}
+
+variant {
+    display: block;
+}
+
+language[value="sla"] {
+    display: inline;
+    
+    font-family:CyrillicaBulgarian10U;
+}
+
+language[value="ro"] {
+    display: inline;
+    
+    font-family: "Times New Roman", Times, serif;
+}
+
+language[value="lat"] {
+    display: inline;
+    font-family: "Times New Roman", Times, serif;
+    color: green;
+}
+
+page {
+    content:attr(pageID);
+    color: black;
+}
+
+i {
+    font-style: italic; 
+}
+
+dot[color="red"] {
+    color: red;
+    font-size: large;
+    content: "•";
+}
+
+dot[color="black"] {
+    color: black;
+    font-size: large;
+    content: "•";
+}
+
+note {
+    vertical-align: super;
+    color: blue;
+}
+
+ro {
+    color:black;
+}
+
+sla {
+    color:fuchsia;
+    font-family:CyrillicaBulgarian10U;
+}
+
+red {
+    color: red;
+}

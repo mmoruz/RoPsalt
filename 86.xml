@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="psaltiri.css"?>
+<psalm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="roPsalt.xsd" id="86">
+<titles><title sigle="CP1" ><language value="sla">сн҃ѡ́вь кѡреѡ́вь</language> <language value="sla">ѱа́лѡмь</language>. Fiilor lu Coreu cîntec 86} /167r</title>
+<title sigle="CP1" ><language value="sla">сн҃ѡ́вь кѡреѡ́вь</language> <language value="sla">ѱа́лѡмь</language>. Fiilor lu Coreu cîntec 86} /167r</title>
+<title sigle="CP2" ><language value="sla">сн҃о́вь корео͗͗вь. ѱл҃ѡⷨ</language>. Fiilo<i>r</i> lu Coreu cîntecul 86</title>
+<title sigle="CP" ><red>Fiilo<i>r</i> lu Coreu • 86</red></title>
+<title sigle="PC" ><language value="sla"><red>снⷡ҇ ⷪкореѡⷡ҇</red></language><red> </red><language value="sla"><red>ѱл҃ѡⷨ</red></language><red> 86</red></title>
+<title sigle="PS" ><red>Fii lui Coreu, cîntecul 86</red></title>
+<title sigle="PH" ><red>86</red></title>
+<title sigle="PV" ><language value="sla"><red>слⷡ҇а. каⷴ҇ в҃і. мл҃тва дв҃два ѱл҃ѡмь п҃е</red></language><red>. Ședearea a dooasprădzeace. Rrugăciurea lui D[a]v[i]<i>d</i>u</red></title>
+<title sigle="PG" ><red>Filij core psalmus cantici. LXXXVI</red></title>
+<title sigle="PR" ><red>Filij core psalmus cantici. LXXXVI</red></title>
+</titles><verse id="1">
+<variant sigle="CP1"><language value="sla">Ѡснова́нїа е̑го на го́рахь ст҃ыⷯ</language><language value="ro"> ++  </language><language value="sla">любить г҃ь вра́та сїѡнѣ, па́че въсѣ́хь се́ль і҆а҆кѡвль</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Urzitura lui în codrul sfînt. </language><language value="sla">··</language> <language value="ro">Iubeaște Domnul ușa Sionului mai vîrtos de toate satele lu Iacov. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Urzitura sa la codrul sf[î]nt. </language><language value="sla">··</language> <language value="ro">Iubeaște Domnul ușa Sionului mai vîrto<i>s</i> de toate satele lu Iacov. </language></variant>
+<variant sigle="CP"><language value="ro"><red>U</red>rzitura lui în codrul sf[î]nt. • Iubeaște Domnul ușa Sionului mai vîrtos de toate satele lu Iacov. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> </language><language value="sla"> </language><language value="ro">Urdzitura lui, în codru sfî<i>n</i>t. </language><language value="sla">··</language> <language value="ro">Iubeaște Domnu<i>l</i> ușa Sionului, mai vîrto<i>s</i> de toate satele lui Iaco<i>v</i>. </language></variant>
+<variant sigle="PS"><language value="ro"><red>U</red>rrdzitura lui în codru<i>l</i> s[fîn]tu. <red>•</red> Iubi D[om]nu<i>l </i>ușa Sionului mai vîrtos de fsatele lu Iacόvu. </language></variant>
+<variant sigle="PH"><language value="ro"><red>U</red>rdzirea lui pre codrii svinţi. Iubeaşte Domnul uşea Sionului decît toate satele a lui Iacov. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">1. Fundamenta eius in montibus sanctis: diligit dominus portas sion super omnia tabernacula iacob </language></variant>
+<variant sigle="PR"><language value="lat">1. Fundamenta eius in montibus sanctis: diligit dominus portas sion super omnia tabernacula iacob. </language></variant>
+</verse>
+<verse id="2">
+<variant sigle="CP1"><language value="sla">прѣсла́внаа гл҃ашѫсѧ ѡ те́бе гра́де бж҃їи</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Preaslăvit grăi-se de tine cetatea Zeului. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Preaslăvit grăiră-se de tine cetatea Zeului. </language></variant>
+<variant sigle="CP"><language value="ro">• Prea_ </language><page pageID="96r"/><language value="ro"> slăvit grăi-se de tine cetatea Zeului. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Preaslăvi<i>t</i>[e] grăi_ </language><page pageID="69r"/><language value="ro"> se de tine, cetatea Du<i>m</i>nedzeului <note><language value="ro"> Scris:  </language><language value="sla">доⷨнеѕеоулуи</language><language value="ro">. </language></note>. </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> Preaslăvită grăi-se de tine cetate ta Dzeului. </language></variant>
+<variant sigle="PH"><language value="ro">Preslăvit grăiră-se de tinre, cetatea Dzeului. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">2. Gloriosa dicta sunt de te: ciuitas dei. {<red>Semper.</red>} </language></variant>
+<variant sigle="PR"><language value="lat">2. Gloriosa dicta sunt de te: ciuitas dei. {<red>Dp.</red>} </language></variant>
+</verse>
+<verse id="3">
+<variant sigle="CP1"><language value="sla">помѣ́нѫ раа́вь и вавӱлѡна съвѣ́дѧща мѧ</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Pomeanii Raav și Vavilon ce știură mine. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Pomeanii Raav și Vavilonul ce știură mine. </language></variant>
+<variant sigle="CP"><language value="ro">• Pomenii Raav și Vavilon ce știură mine. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Pomenii <note><language value="ro"> Scris:  </language><language value="sla">помѣнїи</language><language value="ro">. </language></note> Raav și Vavilon <note><language value="ro"> Scris:  </language><language value="sla">вавѵ̋лонь</language><language value="ro">. </language></note> cești urîră mine. </language></variant>
+<variant sigle="PS"><language value="ro">• Pomeni Ravă și Vavilon ce știură-me. </language></variant>
+<variant sigle="PH"><language value="ro">Pomeni Araav şi Vavilonul cei ce me ştiură. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">3.  Memor ero raab et babylonis: scientium me. </language></variant>
+<variant sigle="PR"><language value="lat">memor ero raab et babylonis: scientium me. </language></variant>
+</verse>
+<verse id="4">
+<variant sigle="CP1"><language value="sla">и</language><language value="sla">  </language><language value="sla">сѐ иноплеменници и тӱрь</language><language value="ro"> ++  </language><language value="sla">и людїе е̑їо̑пстїи сы̀бишѫ тоу</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Și adecă alți striini și Tîr </language><language value="sla">··</language> <language value="ro">și oamenii tiopilor acește fură aciia. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Și adecă alalte ru_ 173r de și Tir </language><language value="sla">··</language> <language value="ro">și oamenii ethiopilo<i>r </i>acește fure aciia. </language></variant>
+<variant sigle="CP"><language value="ro">• Și adecă alți striini și Tîr • și oamenii tiopilo<i>r </i>aceștea fură aciia. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Și adecă alți striini și Ti<i>r</i> <note><language value="ro"> Scris:  </language><language value="sla">тѵⷬ</language><language value="ro">. </language></note> </language><language value="sla">··</language> <language value="ro">și oamenii itiopilo<i>r</i>, aceștia fură aciia. <note><language value="ro"> Omis: punctul roșu la separarea celor două secvențe. </language></note></language></variant>
+<variant sigle="PS"><language value="ro">Și adecă </language><page pageID="281"/><language value="ro"> alți striini și Tiru și oamini etiopilo<i>r</i> aceșta fură acie. </language></variant>
+<variant sigle="PH"><language value="ro">Şi adecă alte semenţe în Tir şi oamenrii Etiopului aceştia fură. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">4. Ecce alienigene et tyrus et populus aethiopum: hi fuerunt illic. </language></variant>
+<variant sigle="PR"><language value="lat">4. Ecce alienigenae et tyrus et populus aethiopum: hi fuerunt in ea. </language></variant>
+</verse>
+<verse id="5">
+<variant sigle="CP1"><language value="sla">мт҃и сїо̑нь ре́четь чл҃кь</language><language value="ro"> ++  </language><language value="sla">и҆ чл҃кь рѡ́дисѧ въ не́мь</language><language value="ro"> ++  </language><language value="sla">и҆ тъ̀ ѡсно́ва ѝ вы́шнїи</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> În muma Sionului zise omu, </language><language value="sla">··</language> <language value="ro">omul născu într-îns și acela urzi el susul. </language><page pageID="167v"/><language value="ro"> </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Muma Sionului zice-va: omule și </language><language value="sla">··</language> <language value="ro">omul născu-se într-îns </language><language value="sla">··</language> <language value="ro">și acesta urzi ei susul. </language></variant>
+<variant sigle="CP"><language value="ro">• În muma Sionului zise omu, • și omul născu într-îns și acela urzi el susul. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> „Mîma Sionului”, zise omu, <note><language value="ro"> Omis: punctul roșu la separarea celor două secvențe. </language></note> </language><language value="sla">··</language> <language value="ro">și omu<i>l</i> născu într-îns, </language><language value="sla">··</language> <language value="ro">și acela urdzi el susu<i>l</i>. </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> În [mu]ma Sionului dzise omu, <red>•</red> și omu născu într-însu <red>•</red> și elu temeli susul. </language></variant>
+<variant sigle="PH"><language value="ro">Mumă a Sionului gice-va omu e şi om născu-se întru el </language><page pageID="74r"/><language value="ro"> şi acela urdzi şi ceia de sus. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">5. Nunquid sion dicet homo et homo natus est in ea: et ipse fundauit eam altissimus. </language></variant>
+<variant sigle="PR"><language value="lat">5. Mater sion dicet homo et homo factus esti in ea: et ipse fundauit eam altissimus. </language></variant>
+</verse>
+<verse id="6">
+<variant sigle="CP1"><language value="sla">г҃ь повѣ́сть въ кни́гахь лю́демь</language><language value="ro"> ++  </language><language value="sla">и҆ кнѧѕемь си́мь вы́вши въ ни́мь</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Domnul spuse în carte oamenilor </language><language value="sla">··</language> <language value="ro">și judecilor aceștea ce fură într-însu. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Domnul spune în cartea oamenilo<i>r</i> </language><language value="sla">··</language> <language value="ro">și judecilo<i>r</i> aceștea ce fură într-însu. </language></variant>
+<variant sigle="CP"><language value="ro">• Domnul spuse în carte oamenilo<i>r</i> • și judecilo<i>r</i> aceștea ce fură într-însu. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Domnu<i>l</i> spuse în carte oamenilo<i>r</i> </language><language value="sla">··</language> <language value="ro">și judecilo<i>r</i> aceștia ce fură într-însu. </language></variant>
+<variant sigle="PS"><language value="ro"><red>•</red> D[om]nul spuse în carte oaminilor <red>•</red> și giudecilor aceaștea ce fură într-însu. </language></variant>
+<variant sigle="PH"><language value="ro">Dumne[dz]eu povestit-au oamenri[lor] în carte şi giudeţelor acestora ce fură într-î[n]sulu. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">6. Dominus narrabit in scripturis populorum: et principum horum qui fuerunt in ea. {<red>Semper.</red>} </language></variant>
+<variant sigle="PR"><language value="lat">6. Dominus narrauit in scripturis populorum suorum: et principum eorum qui fuerunt in ea. {<red>Dp.</red>} </language></variant>
+</verse>
+<verse id="7">
+<variant sigle="CP1"><language value="sla">ꙗко ве́селѧщиⷨсѧ въсѣ́мь жи́лище оу те́бе</language><language value="ro"> ++  </language></variant>
+<variant sigle="CP1"><language value="sla">··</language><language value="ro"> Căce se veseliră tuturor viața la tine. </language></variant>
+<variant sigle="CP2"><language value="sla">··</language><language value="ro"> Că celo<i>r</i> ce se veseliră tuturoru e viața la tine. </language></variant>
+<variant sigle="CP"><language value="ro">• Căce se veseliră tuturo<i>r</i> viața la tine. </language></variant>
+<variant sigle="PC"><language value="sla">··</language><language value="ro"> Căce se veseliră tuturo<i>r</i> viața la tine. </language></variant>
+<variant sigle="PS"><language value="ro">• Căce se ve<i>s</i>[e]liră tuturoru viiața la tine <note><language value="ro"> Urmează trei semne ornamentale, scrise cu negru, pînă la capătul rîndului. </language></note>. </language></variant>
+<variant sigle="PH"><language value="ro">Că e a se veseli tuturoru în viiaţă la tinre. </language></variant>
+<variant sigle="PV"><language value="ro"> </language></variant>
+<variant sigle="PG"><language value="lat">7. Sicut laetantium: omnium habitatio est in te. </language></variant>
+<variant sigle="PR"><language value="lat">7. Sicut laetantium: omnium nostrum habitatio est in te. </language></variant>
+</verse>
+</psalm>
